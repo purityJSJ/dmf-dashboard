@@ -68,8 +68,15 @@ async function fetchPage(serviceKey, pageNo) {
   const body = json?.response?.body ?? json?.body;
   const totalCount = Number(body?.totalCount ?? 0);
 
-  let items = body?.items?.item ?? [];
-  if (!Array.isArray(items)) items = items ? [items] : [];
+    let items = body?.items;
+  if (Array.isArray(items)) {
+    // items가 바로 배열인 경우 그대로 사용
+  } else if (items?.item) {
+    // items.item 안에 배열(또는 단일 객체)이 있는 경우
+    items = Array.isArray(items.item) ? items.item : [items.item];
+  } else {
+    items = [];
+  }
 
   return { items, totalCount };
 }
