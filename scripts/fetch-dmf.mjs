@@ -29,7 +29,13 @@ function getDecodedServiceKey() {
   }
 }
 
-async function fetchPage(serviceKey, pageNo) {
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+async function fetchPage(serviceKey, pageNo, attempt = 1) {
+  const MAX_ATTEMPTS = 4;
+
   const params = new URLSearchParams({
     serviceKey,
     pageNo: String(pageNo),
@@ -38,9 +44,24 @@ async function fetchPage(serviceKey, pageNo) {
   });
 
   const url = `${ENDPOINT}?${params.toString()}`;
-  const res = await fetch(url);
+
+  let res;
+  try {
+    res = await fetch(url);
+  } catch (err) {
+    // 네트워크 레벨 오류(fetch failed 등)는 잠시 대기 후 재시도
+    if (attempt < MAX_ATTEMPTS) {
+      await sleep(1000 * attempt);
+      return fetchPage(serviceKey, pageNo, attempt + 1);
+    }
+    throw new Error(`네트워크 오류 (page ${pageNo}, ${attempt}회 시도): ${err.message}`);
+  }
 
   if (!res.ok) {
+    if (attempt < MAX_ATTEMPTS) {
+      await sleep(1000 * attempt);
+      return fetchPage(serviceKey, pageNo, attempt + 1);
+    }
     throw new Error(`HTTP ${res.status} ${res.statusText} (page ${pageNo})`);
   }
 
