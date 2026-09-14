@@ -56,14 +56,16 @@ async function fetchPage(serviceKey, pageNo) {
     );
   }
 
-  const header = json?.response?.header;
+  // 이 API는 { response: { header, body } } 형태가 아니라
+  // { header, body }가 최상위에 바로 오는 경우가 있어서 둘 다 지원합니다.
+  const header = json?.response?.header ?? json?.header;
   if (!header || header.resultCode !== "00") {
     throw new Error(
-      `API 오류: ${header?.resultCode ?? "?"} ${header?.resultMsg ?? "알 수 없는 오류"}`
+      `API 오류: ${header?.resultCode ?? "?"} ${header?.resultMsg ?? "알 수 없는 오류"} | 원문: ${text.slice(0, 500)}`
     );
   }
 
-  const body = json.response.body;
+  const body = json?.response?.body ?? json?.body;
   const totalCount = Number(body?.totalCount ?? 0);
 
   let items = body?.items?.item ?? [];
