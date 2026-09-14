@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>원료의약품등록(DMF) 현황</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@500;700&family=Noto+Sans+KR:wght@400;500;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #F1EFE7;
+    --paper-line: #DDD8C8;
+    --ink: #1B211D;
+    --ink-soft: #5B6259;
+    --seal: #7A2E2E;
+    --seal-soft: #B65C5C;
+    --pine: #33604C;
+    --pine-soft: #DCE7DF;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "Noto Sans KR", sans-serif;
+    line-height: 1.6;
+  }
+
+  .sheet {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+
+  header.letterhead {
+    border-bottom: 3px double var(--ink);
+    padding-bottom: 20px;
+    margin-bottom: 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+
+  header.letterhead .title-block h1 {
+    font-family: "Noto Serif KR", serif;
+    font-weight: 700;
+    font-size: 26px;
+    margin: 0 0 6px;
+  }
+
+  header.letterhead .title-block p {
+    margin: 0;
+    color: var(--ink-soft);
+    font-size: 13px;
+  }
+
+  .stamp {
+    border: 2px solid var(--seal);
+    color: var(--seal);
+    font-family: "Noto Serif KR", serif;
+    font-weight: 700;
+    font-size: 13px;
+    padding: 6px 14px;
+    border-radius: 999px;
+    white-space: nowrap;
+    transform: rotate(-3deg);
+  }
+
+  .updated-line {
+    font-size: 12px;
+    color: var(--ink-soft);
+    margin-bottom: 36px;
+    font-family: "JetBrains Mono", monospace;
+  }
+
+  .stats-row {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    border-top: 1px solid var(--paper-line);
+    border-left: 1px solid var(--paper-line);
+    margin-bottom: 48px;
+  }
+
+  .stat-cell {
+    border-right: 1px solid var(--paper-line);
+    border-bottom: 1px solid var(--paper-line);
+    padding: 18px 16px;
+  }
+
+  .stat-cell .num {
+    font-family: "Noto Serif KR", serif;
+    font-weight: 700;
+    font-size: 28px;
+    color: var(--pine);
+    display: block;
+  }
+
+  .stat-cell .label {
+    font-size: 12px;
+    color: var(--ink-soft);
+    margin-top: 4px;
+    display: block;
+  }
+
+  section.block {
+    margin-bottom: 48px;
+  }
+
+  section.block h2 {
+    font-family: "Noto Serif KR", serif;
+    font-size: 16px;
+    font-weight: 700;
+    margin: 0 0 16px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--ink);
+  }
+
+  .rank-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px 32px;
+  }
+
+  .rank-row {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    padding: 6px 0;
+    border-bottom: 1px dotted var(--paper-line);
+  }
+
+  .rank-row .count {
+    font-family: "JetBrains Mono", monospace;
+    color: var(--pine);
+    font-weight: 600;
+  }
+
+  .toolbar {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 16px;
+    flex-wrap: wrap;
+  }
+
+  .toolbar input {
+    flex: 1;
+    min-width: 200px;
+    padding: 10px 12px;
+    border: 1px solid var(--ink);
+    background: #fff;
+    font-family: "Noto Sans KR", sans-serif;
+    font-size: 14px;
+  }
+
+  .toolbar input:focus {
+    outline: 2px solid var(--pine);
+    outline-offset: 1px;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+  }
+
+  thead th {
+    text-align: left;
+    font-weight: 700;
+    padding: 8px 10px;
+    border-bottom: 2px solid var(--ink);
+    background: var(--pine-soft);
+    position: sticky;
+    top: 0;
+  }
+
+  tbody td {
+    padding: 8px 10px;
+    border-bottom: 1px solid var(--paper-line);
+    vertical-align: top;
+  }
+
+  tbody tr:hover {
+    background: #ffffff;
+  }
+
+  td.mono, .rank-row .count {
+    font-family: "JetBrains Mono", monospace;
+  }
+
+  .table-wrap {
+    max-height: 560px;
+    overflow-y: auto;
+    border: 1px solid var(--paper-line);
+  }
+
+  .empty-state {
+    padding: 40px 20px;
+    text-align: center;
+    color: var(--ink-soft);
+    font-size: 14px;
+    border: 1px dashed var(--paper-line);
+  }
+
+  .row-count {
+    font-size: 12px;
+    color: var(--ink-soft);
+    margin-bottom: 10px;
+  }
+
+  footer {
+    margin-top: 64px;
+    padding-top: 16px;
+    border-top: 1px solid var(--paper-line);
+    font-size: 12px;
+    color: var(--ink-soft);
+  }
+
+  @media (max-width: 640px) {
+    .stats-row { grid-template-columns: repeat(2, 1fr); }
+    .rank-list { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+  <div class="sheet">
+    <header class="letterhead">
+      <div class="title-block">
+        <h1>원료의약품등록(DMF) 현황</h1>
+        <p>식품의약품안전처 공공데이터 · 매일 오전 9시 자동 갱신</p>
+      </div>
+      <div class="stamp">DMF REGISTRY</div>
+    </header>
+
+    <div class="updated-line" id="updated-line">데이터를 불러오는 중...</div>
+
+    <div class="stats-row" id="stats-row"></div>
+
+    <section class="block">
+      <h2>등록 업체 상위 10</h2>
+      <div class="rank-list" id="top-companies"></div>
+    </section>
+
+    <section class="block">
+      <h2>제조국가 상위 10</h2>
+      <div class="rank-list" id="top-countries"></div>
+    </section>
+
+    <section class="block">
+      <h2>등록 목록</h2>
+      <div class="toolbar">
+        <input type="text" id="search" placeholder="성분명, 업체명, 제조국가로 검색" />
+      </div>
+      <div class="row-count" id="row-count"></div>
+      <div class="table-wrap">
+        <table id="data-table">
+          <thead>
+            <tr>
+              <th>등록번호</th>
+              <th>성분명</th>
+              <th>업체명</th>
+              <th>제조국가</th>
+              <th>발급일자</th>
+            </tr>
+          </thead>
+          <tbody id="table-body"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <footer>
+      출처: 공공데이터포털 · 식품의약품안전처_원료의약품등록(DMF)현황 오픈API
+    </footer>
+  </div>
+
+<script>
+  let allItems = [];
+
+  function fmtNum(n) {
+    return new Intl.NumberFormat("ko-KR").format(n ?? 0);
+  }
+
+  function renderStats(data) {
+    const cells = [
+      { num: fmtNum(data.totalCount), label: "전체 등록 건수" },
+      { num: fmtNum(data.summary.uniqueCompanies), label: "등록 업체 수" },
+      { num: fmtNum(data.summary.uniqueCountries), label: "제조국가 수" },
+      { num: fmtNum(data.fetchedCount), label: "최근 수집 건수" },
+    ];
+    document.getElementById("stats-row").innerHTML = cells
+      .map(
+        (c) => `<div class="stat-cell"><span class="num">${c.num}</span><span class="label">${c.label}</span></div>`
+      )
+      .join("");
+  }
+
+  function renderRankList(elId, list) {
+    const el = document.getElementById(elId);
+    if (!list || list.length === 0) {
+      el.innerHTML = `<div class="empty-state">데이터 없음</div>`;
+      return;
+    }
+    el.innerHTML = list
+      .map(
+        (r) => `<div class="rank-row"><span>${escapeHtml(r.name)}</span><span class="count">${fmtNum(r.count)}</span></div>`
+      )
+      .join("");
+  }
+
+  function escapeHtml(str) {
+    return String(str ?? "").replace(/[&<>"']/g, (c) => ({
+      "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;",
+    }[c]));
+  }
+
+  function renderTable(items) {
+    const body = document.getElementById("table-body");
+    document.getElementById("row-count").textContent = `${fmtNum(items.length)}건 표시`;
+
+    if (items.length === 0) {
+      body.innerHTML = `<tr><td colspan="5"><div class="empty-state">검색 결과가 없습니다</div></td></tr>`;
+      return;
+    }
+
+    body.innerHTML = items
+      .map(
+        (it) => `<tr>
+          <td class="mono">${escapeHtml(it.DMF_PERMIT_NO)}</td>
+          <td>${escapeHtml(it.INGR_KOR_NAME)}</td>
+          <td>${escapeHtml(it.ENTP_NAME)}</td>
+          <td>${escapeHtml(it.MANUF_COUNTRY_CODE_NM)}</td>
+          <td class="mono">${escapeHtml(it.DMF_PERMIT_DATE)}</td>
+        </tr>`
+      )
+      .join("");
+  }
+
+  function applySearch() {
+    const q = document.getElementById("search").value.trim().toLowerCase();
+    if (!q) {
+      renderTable(allItems);
+      return;
+    }
+    const filtered = allItems.filter((it) =>
+      [it.INGR_KOR_NAME, it.ENTP_NAME, it.MANUF_COUNTRY_CODE_NM, it.DMF_PERMIT_NO]
+        .some((f) => (f ?? "").toLowerCase().includes(q))
+    );
+    renderTable(filtered);
+  }
+
+  async function init() {
+    try {
+      const res = await fetch("./data/latest.json", { cache: "no-store" });
+      const data = await res.json();
+
+      allItems = data.items ?? [];
+
+      const updatedEl = document.getElementById("updated-line");
+      updatedEl.textContent = data.generatedAt
+        ? `마지막 갱신: ${new Date(data.generatedAt).toLocaleString("ko-KR")}`
+        : "아직 수집된 데이터가 없습니다. 첫 크론 실행을 기다려주세요.";
+
+      renderStats(data);
+      renderRankList("top-companies", data.summary.topCompanies);
+      renderRankList("top-countries", data.summary.topCountries);
+      renderTable(allItems);
+
+      document.getElementById("search").addEventListener("input", applySearch);
+    } catch (err) {
+      document.getElementById("updated-line").textContent = "데이터를 불러오지 못했습니다.";
+      console.error(err);
+    }
+  }
+
+  init();
+</script>
+</body>
+</html>
