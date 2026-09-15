@@ -23,6 +23,8 @@
     --c4: #34A0A4; /* 국가 4 */
     --c5: #6DBE68; /* 국가 5 */
     --cx: #C7CBD6; /* 기타 */
+
+    --gap: 20px; /* 섹션 간 가로/세로 간격 통일 */
   }
 
   * { box-sizing: border-box; }
@@ -44,7 +46,7 @@
   .page-header {
     border-bottom: 3px double var(--ink);
     padding-bottom: 18px;
-    margin-bottom: 18px;
+    margin-bottom: var(--gap);
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
@@ -92,7 +94,7 @@
     justify-content: space-between;
     gap: 12px;
     flex-wrap: wrap;
-    margin-bottom: 20px;
+    margin-bottom: var(--gap);
   }
 
   .pills {
@@ -148,8 +150,8 @@
   .grid-2 {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 16px;
-    margin-bottom: 16px;
+    gap: var(--gap);
+    margin-bottom: var(--gap);
   }
 
   .card {
@@ -271,8 +273,8 @@
   .stat-grid {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 14px;
-    margin-bottom: 28px;
+    gap: var(--gap);
+    margin-bottom: var(--gap);
   }
 
   .stat-card {
@@ -306,7 +308,7 @@
   .stat-sub.up { color: var(--accent); font-weight: 700; }
 
   /* 목록 카드 */
-  .list-card { padding: 22px; }
+  .list-card { padding: 22px; margin-bottom: var(--gap); }
 
   .toolbar { margin-bottom: 14px; }
 
@@ -378,70 +380,21 @@
     <header class="page-header">
       <div class="title-block">
         <h1>원료의약품등록(DMF) 현황</h1>
-        <p>식품의약품안전처 공공데이터 · 매일 오전 9시 자동 갱신</p>
+        <p>출처 : 식품의약품안전처_원료의약품등록(DMF)현황 (매일 오전 9시 자동 갱신)</p>
       </div>
       <div class="stamp">DMF REGISTRY</div>
     </header>
 
-    <div class="top-meta">
-      <span id="updated-line">불러오는 중...</span>
-    </div>
-
     <div class="filter-row">
-      <div class="pills" id="pills"></div>
+      <div class="top-meta">
+        <span id="updated-line">불러오는 중...</span>
+      </div>
       <div class="right-meta">
-        <span>누적 <b id="right-total">-</b>건</span>
         <button class="refresh-btn" onclick="location.reload()">⟳ 새로고침</button>
       </div>
     </div>
 
-    <div class="grid-2">
-      <div class="card">
-        <div class="card-head">
-          <h2>제조국가 구성</h2>
-          <span id="donut-range">전체 기간</span>
-        </div>
-        <div class="donut-row">
-          <svg id="donut" width="150" height="150" viewBox="0 0 150 150"></svg>
-          <div class="legend" id="legend"></div>
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="card-head">
-          <h2>연도별 등록 건수</h2>
-          <span id="year-range">최근 연도부터</span>
-        </div>
-        <div class="year-sub">발급일자 기준 · 국가 구성 색상과 동일</div>
-        <div id="year-list"></div>
-      </div>
-    </div>
-
     <div class="stat-grid" id="stat-grid"></div>
-
-    <div class="grid-2">
-      <div class="card">
-        <div class="card-head">
-          <h2>등록업체 상위 10</h2>
-          <span>전체 등록 대비 비중</span>
-        </div>
-        <div class="donut-row">
-          <svg id="donut-company" width="150" height="150" viewBox="0 0 150 150"></svg>
-          <div class="legend" id="legend-company"></div>
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="card-head">
-          <h2>제조국가 상위 10</h2>
-          <span>전체 등록 대비 비중</span>
-        </div>
-        <div class="donut-row">
-          <svg id="donut-country10" width="150" height="150" viewBox="0 0 150 150"></svg>
-          <div class="legend" id="legend-country10"></div>
-        </div>
-      </div>
-    </div>
 
     <div class="card list-card">
       <div class="card-head">
@@ -468,7 +421,53 @@
       </div>
     </div>
 
-    <footer>출처: 공공데이터포털 · 식품의약품안전처_원료의약품등록(DMF)현황 오픈API</footer>
+    <div class="grid-2">
+      <div class="card">
+        <div class="card-head">
+          <h2>등록업체 상위 10</h2>
+          <span>전체 등록 대비 비중</span>
+        </div>
+        <div class="donut-row">
+          <svg id="donut-company" width="150" height="150" viewBox="0 0 150 150"></svg>
+          <div class="legend" id="legend-company"></div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-head">
+          <h2>제조국가 상위 10</h2>
+          <span>전체 등록 대비 비중</span>
+        </div>
+        <div class="donut-row">
+          <svg id="donut-country10" width="150" height="150" viewBox="0 0 150 150"></svg>
+          <div class="legend" id="legend-country10"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="grid-2">
+      <div class="card">
+        <div class="card-head">
+          <h2>제조국가 구성</h2>
+          <span id="donut-range">전체 기간</span>
+        </div>
+        <div class="donut-row">
+          <svg id="donut" width="150" height="150" viewBox="0 0 150 150"></svg>
+          <div class="legend" id="legend"></div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-head">
+          <h2>연도별 등록 건수</h2>
+          <span id="year-range">최근 연도부터</span>
+        </div>
+        <div class="year-sub">발급일자 기준 · 국가 구성 색상과 동일</div>
+        <div id="year-list"></div>
+      </div>
+    </div>
+
+    <footer>copyright 2026. SJ.Jeong (Highfly Co.Ltd. - R&amp;D Center)</footer>
   </div>
 
 <script>
@@ -477,7 +476,6 @@
   const OTHER_HEX = "#C7CBD6";
 
   let allItems = [];
-  let activeCountry = "전체";
 
   function fmtNum(n) { return new Intl.NumberFormat("ko-KR").format(n ?? 0); }
   function escapeHtml(str) {
@@ -628,28 +626,6 @@
     }).join("");
   }
 
-  function buildPills(topCountries) {
-    const names = ["전체", ...topCountries.slice(0, 4).map((c) => c.name)];
-    const pillsEl = document.getElementById("pills");
-    pillsEl.innerHTML = names.map((n) => {
-      const count = n === "전체"
-        ? allItems.length
-        : topCountries.find((c) => c.name === n)?.count ?? 0;
-      return `<button class="pill ${n === activeCountry ? "active" : ""}" data-country="${escapeHtml(n)}">${escapeHtml(n)} ${fmtNum(count)}</button>`;
-    }).join("");
-
-    pillsEl.querySelectorAll(".pill").forEach((btn) => {
-      btn.addEventListener("click", () => {
-        activeCountry = btn.dataset.country;
-        pillsEl.querySelectorAll(".pill").forEach((b) => b.classList.remove("active"));
-        btn.classList.add("active");
-        const searchInput = document.getElementById("search");
-        searchInput.value = activeCountry === "전체" ? "" : activeCountry;
-        applySearch();
-      });
-    });
-  }
-
   function todayDigitsKST() {
     const now = new Date();
     const kst = new Date(now.getTime() + (9 * 60 + now.getTimezoneOffset()) * 60000);
@@ -746,26 +722,26 @@
     try {
       const res = await fetch("./data/latest.json", { cache: "no-store" });
       const data = await res.json();
-      allItems = data.items ?? [];
+      allItems = (data.items ?? []).slice().sort((a, b) => {
+        const da = parseYYYYMMDD(a.DMF_PERMIT_DATE);
+        const db = parseYYYYMMDD(b.DMF_PERMIT_DATE);
+        const va = da === null ? -Infinity : da;
+        const vb = db === null ? -Infinity : db;
+        return vb - va; // 최신 발급일자가 먼저 오도록 내림차순
+      });
 
       document.getElementById("updated-line").textContent = data.generatedAt
         ? `마지막 갱신: ${new Date(data.generatedAt).toLocaleString("ko-KR")}`
         : "아직 수집된 데이터가 없습니다";
-      document.getElementById("right-total").textContent = fmtNum(data.totalCount);
 
       const segments = buildDonut(data.summary.topCountries, data.totalCount);
       buildYearChart(allItems, segments);
-      buildPills(data.summary.topCountries);
       buildStatCards(data, segments);
       renderRankDonut("donut-company", "legend-company", data.summary.topCompanies, data.totalCount, RANK_COLORS);
       renderRankDonut("donut-country10", "legend-country10", data.summary.topCountries, data.totalCount, RANK_COLORS);
       renderTable(allItems);
 
-      document.getElementById("search").addEventListener("input", () => {
-        activeCountry = "전체는 아님";
-        document.querySelectorAll(".pill").forEach((b) => b.classList.remove("active"));
-        applySearch();
-      });
+      document.getElementById("search").addEventListener("input", applySearch);
     } catch (err) {
       document.getElementById("updated-line").textContent = "데이터를 불러오지 못했습니다";
       console.error(err);
