@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-18T00:05:28.603Z",
-  "totalCount": 9134,
-  "fetchedCount": 9134,
+  "generatedAt": "2026-09-19T00:05:44.708Z",
+  "totalCount": 9135,
+  "fetchedCount": 9135,
   "summary": {
     "uniqueCompanies": 441,
     "uniqueCountries": 49,
@@ -54,7 +54,7 @@
       },
       {
         "name": "중국",
-        "count": 2867
+        "count": 2868
       },
       {
         "name": "대한민국",
@@ -91,6 +91,17 @@
     ],
     "recent": [
       {
+        "DMF_PERMIT_NO": "수928-3-ND",
+        "INGR_KOR_NAME": "록사두스타트",
+        "ENTP_NAME": "(주)휴시드",
+        "MNFCTR_NAME": "Jiangsu Zenji Pharmaceuticals Ltd",
+        "MNFCTR_PLACE": "No.8 Chaohu East Road, Hongze District, Huai'an City, Jiangsu, China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-09-18",
+        "BIZRNO": "2158676130",
+        "NOTICE_CODE": ""
+      },
+      {
         "DMF_PERMIT_NO": "20250324-211-J-1755(A)",
         "INGR_KOR_NAME": "나이아신",
         "ENTP_NAME": "(주)엘바이오사이언스",
@@ -99,7 +110,7 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-09-17",
         "BIZRNO": "7958602250",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "20250305-210-J-1800(1)",
@@ -110,7 +121,7 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-09-17",
         "BIZRNO": "3038134897",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "수826-1-ND",
@@ -297,17 +308,6 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-09-10",
         "BIZRNO": "1708103488",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20260504-211-J-2191(A)",
-        "INGR_KOR_NAME": "브롬헥신염산염",
-        "ENTP_NAME": "(주)파마피아",
-        "MNFCTR_NAME": "FDC Limited",
-        "MNFCTR_PLACE": "Plot No. 19 & 20/2, M.I.D.C., Roha Industrial Area, Village Dhatav, Roha, Raigad 402116, Maharashtra State, India",
-        "MANUF_COUNTRY_CODE_NM": "인도",
-        "DMF_PERMIT_DATE": "2026-09-09",
-        "BIZRNO": "2158631491",
         "NOTICE_CODE": "별표1"
       }
     ]
@@ -6103,7 +6103,7 @@
       "DMF_PERMIT_NO": "20091027-126-G-40-02",
       "INGR_KOR_NAME": "세프메타졸나트륨",
       "ENTP_NAME": "영진약품(주)",
-      "MNFCTR_NAME": "[일부공정위탁제조(제조자) ④](제3법_제1,2,3,4공정) QILU ANTIBIOTICS (Linyi) Pharmaceutical Co.,Ltd.,[일부공정위탁제조(제조의뢰자)](제1법_제1공정 및 제2공정, 제2법_제1공정)영진약품(주),[일부공정위탁제조(제조자) ①](제1법_제3공정, 제2법_제2공정)제일약품,[일부공정위탁제조(제조자) ②](제1법_제3공정)신풍제약(주),[일부공정위탁제조(제조자) ③](제1법_제3공정, 제3법_제5공정) 경동제약(주)",
+      "MNFCTR_NAME": "[일부공정위탁제조(제조자) ④](제3법_제1,2,3,4공정) QILU ANTIBIOTICS (Linyi) Pharmaceutical Co.,Ltd.,영진약품(주),[일부공정위탁제조(제조자) ①](제1법_제3공정, 제2법_제2공정)제일약품,[일부공정위탁제조(제조자) ②](제1법_제3공정)신풍제약(주),[일부공정위탁제조(제조자) ③](제1법_제3공정, 제3법_제5공정) 경동제약(주)",
       "MNFCTR_PLACE": "경기도 용인시 처인구",
       "MANUF_COUNTRY_CODE_NM": "중국,대한민국,대한민국,대한민국,대한민국",
       "DMF_PERMIT_DATE": "2009-10-27",
@@ -100774,7 +100774,7 @@
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2026-09-17",
       "BIZRNO": "3038134897",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
       "DMF_PERMIT_NO": "20250324-211-J-1755(A)",
@@ -100785,6 +100785,17 @@
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2026-09-17",
       "BIZRNO": "7958602250",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "수928-3-ND",
+      "INGR_KOR_NAME": "록사두스타트",
+      "ENTP_NAME": "(주)휴시드",
+      "MNFCTR_NAME": "Jiangsu Zenji Pharmaceuticals Ltd",
+      "MNFCTR_PLACE": "No.8 Chaohu East Road, Hongze District, Huai'an City, Jiangsu, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-09-18",
+      "BIZRNO": "2158676130",
       "NOTICE_CODE": ""
     }
   ]
