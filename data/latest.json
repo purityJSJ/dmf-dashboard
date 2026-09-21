@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-19T00:05:44.708Z",
-  "totalCount": 9135,
-  "fetchedCount": 9135,
+  "generatedAt": "2026-09-21T00:06:14.692Z",
+  "totalCount": 9140,
+  "fetchedCount": 9140,
   "summary": {
     "uniqueCompanies": 441,
     "uniqueCountries": 49,
@@ -50,15 +50,15 @@
     "topCountries": [
       {
         "name": "인도",
-        "count": 3729
+        "count": 3733
       },
       {
         "name": "중국",
-        "count": 2868
+        "count": 2869
       },
       {
         "name": "대한민국",
-        "count": 1305
+        "count": 1306
       },
       {
         "name": "이탈리아",
@@ -91,6 +91,61 @@
     ],
     "recent": [
       {
+        "DMF_PERMIT_NO": null,
+        "INGR_KOR_NAME": "테고프라잔",
+        "ENTP_NAME": "(주)경보제약",
+        "MNFCTR_NAME": "(주)경보제약,Lanzhou Bathcon Pharmaceutical Co., Ltd.",
+        "MNFCTR_PLACE": "충청남도 아산시",
+        "MANUF_COUNTRY_CODE_NM": "대한민국,중국",
+        "DMF_PERMIT_DATE": "2026-09-18",
+        "BIZRNO": "3128104567",
+        "NOTICE_CODE": "신물질"
+      },
+      {
+        "DMF_PERMIT_NO": "20260918---12235-24",
+        "INGR_KOR_NAME": "로수바스타틴칼슘(미분화)",
+        "ENTP_NAME": "후성바이오주식회사",
+        "MNFCTR_NAME": "Morepen Laboratories Limited",
+        "MNFCTR_PLACE": "Village Malkumajra (Morepen Village), Baddi Nalagarh Road, Distt Solan, Himachal Pradesh, 173 205, India",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-09-18",
+        "BIZRNO": "2228701895",
+        "NOTICE_CODE": "별표1"
+      },
+      {
+        "DMF_PERMIT_NO": null,
+        "INGR_KOR_NAME": "암로디핀베실산염",
+        "ENTP_NAME": "(주)에스지바이오켐",
+        "MNFCTR_NAME": "Zydus Lifesciences Limited",
+        "MNFCTR_PLACE": "Plot No.291, G.I.D.C Estate, City-Ankleshwar– 393 002, Dist- Bharuch, Gujarat State, India",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-09-18",
+        "BIZRNO": "1388130720",
+        "NOTICE_CODE": "별표1"
+      },
+      {
+        "DMF_PERMIT_NO": null,
+        "INGR_KOR_NAME": "옥스카르바제핀",
+        "ENTP_NAME": "한국노바티스(주)",
+        "MNFCTR_NAME": "Jubilant Biosys Limited",
+        "MNFCTR_PLACE": "Plot No. 18, 56, 57 & 58, KIADB Industrial Area, Nanjangud-571 302, Mysuru District, Karnataka State, India",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-09-18",
+        "BIZRNO": "1168105478",
+        "NOTICE_CODE": "별표1"
+      },
+      {
+        "DMF_PERMIT_NO": null,
+        "INGR_KOR_NAME": "펠루비프로펜(미분화)",
+        "ENTP_NAME": "엠피크코리아(주)",
+        "MNFCTR_NAME": "Aurore Life Sciences Private Limited ",
+        "MNFCTR_PLACE": "Plot No 180/2 & 3, Khazipally (V), Jinnaram (M), Sangareddy, Telangana, 502319, India",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-09-18",
+        "BIZRNO": "8748801320",
+        "NOTICE_CODE": "신물질"
+      },
+      {
         "DMF_PERMIT_NO": "수928-3-ND",
         "INGR_KOR_NAME": "록사두스타트",
         "ENTP_NAME": "(주)휴시드",
@@ -99,7 +154,7 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-09-18",
         "BIZRNO": "2158676130",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "신물질"
       },
       {
         "DMF_PERMIT_NO": "20250324-211-J-1755(A)",
@@ -253,61 +308,6 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-09-11",
         "BIZRNO": "2208156257",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20260911-211-J-2277",
-        "INGR_KOR_NAME": "시트르산무수물",
-        "ENTP_NAME": "주식회사토루",
-        "MNFCTR_NAME": "Daffodil Pharmachem Private Limited",
-        "MNFCTR_PLACE": "Plot No. 187/1A, Near Khatraj Chokdi, Karoli, Tal-Kalol, Dist. Gandhinagar-382 721, Gujarat State, India",
-        "MANUF_COUNTRY_CODE_NM": "인도",
-        "DMF_PERMIT_DATE": "2026-09-11",
-        "BIZRNO": "7978802508",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20250728-211-J-1963(3)",
-        "INGR_KOR_NAME": "글루타티온(환원형)",
-        "ENTP_NAME": "뉴트레인노주식회사",
-        "MNFCTR_NAME": "Kaiping Genuine Biochemical Pharmaceutical Co., Ltd.",
-        "MNFCTR_PLACE": "No. 1 Xinke Road, Biaohai Industrial Park, Shatang Town, Kaiping City, Guangdong, China",
-        "MANUF_COUNTRY_CODE_NM": "중국",
-        "DMF_PERMIT_DATE": "2026-09-11",
-        "BIZRNO": "3208703765",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20260910-210-J-2286",
-        "INGR_KOR_NAME": "프로포폴",
-        "ENTP_NAME": "비브라운코리아(주)",
-        "MNFCTR_NAME": "La Mesta Chimie Fine",
-        "MNFCTR_PLACE": "1336, Route de L’Estéron, France-06830 Gilette, France",
-        "MANUF_COUNTRY_CODE_NM": "프랑스",
-        "DMF_PERMIT_DATE": "2026-09-10",
-        "BIZRNO": "1208156485",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20260910-211-J-2273",
-        "INGR_KOR_NAME": "로쿠로늄브롬화물",
-        "ENTP_NAME": "뉴트레인노주식회사",
-        "MNFCTR_NAME": "Chengdu Sino-Strong Pharmaceutical Co., Ltd.",
-        "MNFCTR_PLACE": "No.10 Jiankang Road, Yuechi County Economic Development Zone, Guangan City, Sichuan Province, China",
-        "MANUF_COUNTRY_CODE_NM": "중국",
-        "DMF_PERMIT_DATE": "2026-09-10",
-        "BIZRNO": "3208703765",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20260910-210-J-2267",
-        "INGR_KOR_NAME": "노르에피네프린타르타르산염수화물",
-        "ENTP_NAME": "주식회사오트란코리아",
-        "MNFCTR_NAME": "Shenzhen Oriental Pharmaceutical Co., Ltd.",
-        "MNFCTR_PLACE": "No. 43, Dakeng Road, Tongle Village, Longgang Town, Longgang District, Shenzhen, Guangdong, China.",
-        "MANUF_COUNTRY_CODE_NM": "중국",
-        "DMF_PERMIT_DATE": "2026-09-10",
-        "BIZRNO": "1708103488",
         "NOTICE_CODE": "별표1"
       }
     ]
@@ -1626,8 +1626,8 @@
       "DMF_PERMIT_NO": "20050831-49-A-95-05",
       "INGR_KOR_NAME": "염산테르비나핀",
       "ENTP_NAME": "(주)삼오제약",
-      "MNFCTR_NAME": "Apitoria Pharma Private Limited Unit-I",
-      "MNFCTR_PLACE": "Unit-I, Sy.No. 379, 385, 386, 388 - 396, Borpatla Village, Hatnoora Mandal, Sangareddy District, Telangana, 502 296 INDIA",
+      "MNFCTR_NAME": "APITORIA PHARMA PRIVATE LIMITED, UNIT-I",
+      "MNFCTR_PLACE": "SY.NOS. 379, 385, 386, 388 TO 396., BORPATLA VILLAGE, HATHNOORA MANDAL, SANGAREDDY DISTRICT, PINCODE 502296, TELANGANA STATE, INDIA",
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2005-08-31",
       "BIZRNO": "1208128636",
@@ -11020,8 +11020,8 @@
       "DMF_PERMIT_NO": "20050831-60-B-161-11(1)",
       "INGR_KOR_NAME": "카르베딜롤",
       "ENTP_NAME": "(주)국전",
-      "MNFCTR_NAME": "Pharmaceutical Works Polpharma S.A.",
-      "MNFCTR_PLACE": "19, Pelplinska Str, 83-200 Starogard Gdanski, POLAND",
+      "MNFCTR_NAME": "Zakłady Farmaceutyczne Polpharma S.A.",
+      "MNFCTR_PLACE": "ul. Pelplińska 19, 83-200 Starogard Gdański, POLAND",
       "MANUF_COUNTRY_CODE_NM": "폴란드",
       "DMF_PERMIT_DATE": "2011-09-01",
       "BIZRNO": "1168701173",
@@ -35584,7 +35584,7 @@
       "INGR_KOR_NAME": "우르소데옥시콜산",
       "ENTP_NAME": "대웅바이오(주)",
       "MNFCTR_NAME": "대웅바이오(주),Zhejiang Warrant Pharmaceutical Co., Ltd,Hunan Jiudian Hongyang Pharmaceutical.Co.,Ltd",
-      "MNFCTR_PLACE": "경기도 화성시",
+      "MNFCTR_PLACE": "경기도 화성시 만세구",
       "MANUF_COUNTRY_CODE_NM": "대한민국,중국,중국",
       "DMF_PERMIT_DATE": "2018-04-06",
       "BIZRNO": "1248677584",
@@ -40357,7 +40357,7 @@
       "DMF_PERMIT_NO": "수758-1-ND",
       "INGR_KOR_NAME": "데스벤라팍신벤조산염",
       "ENTP_NAME": "주식회사클라시아",
-      "MNFCTR_NAME": "Lupin Manufacturing Solutions Limited,HIKAL Ltd.,Amoli Organics Pvt. Ltd",
+      "MNFCTR_NAME": "Lupin Manufacturing Solutions Limited,HIKAL Ltd.,Amoli Organics",
       "MNFCTR_PLACE": "Block No.21, Dabhasa Taluka Padra City : Dabhasa-391-440, Dist : Vadodara, Gujarat, state, India,Plot No. 82/A, KIADB Industrial Area, Jigani, Anekal Taluk Bangalore-560105, Karnataka, India,Block No. 422, ECP Canal Road, Village-Luna, Taluka-Padra, City : Luna – 391 440 District Vadodara, Gujarat State, India",
       "MANUF_COUNTRY_CODE_NM": "인도,인도,인도",
       "DMF_PERMIT_DATE": "2019-03-06",
@@ -58990,12 +58990,12 @@
     {
       "DMF_PERMIT_NO": "20190322-49-A-349-21(11)",
       "INGR_KOR_NAME": "테르비나핀염산염",
-      "ENTP_NAME": "(주)애거슨바이오",
+      "ENTP_NAME": "(주)휴시드",
       "MNFCTR_NAME": "Zhejiang East-asia Pharmaceutical Co. Ltd.",
       "MNFCTR_PLACE": "Coastal Industrial City, Pubagang town, Sanmen county, Zhejiang, 317100, China",
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2021-07-26",
-      "BIZRNO": "3888601408",
+      "BIZRNO": "2158676130",
       "NOTICE_CODE": "별표1"
     },
     {
@@ -86788,7 +86788,7 @@
       "DMF_PERMIT_NO": "수69-23-ND",
       "INGR_KOR_NAME": "피마사르탄칼륨삼수화물",
       "ENTP_NAME": "익수제약(주)",
-      "MNFCTR_NAME": "Gansu Haotian PharmTech Co., Ltd.",
+      "MNFCTR_NAME": "Gansu Haotian PharmaTech Co., Ltd.",
       "MNFCTR_PLACE": "No.11 Chongqing Road, Baiyin District, Baiyin, Gansu, P. R. China",
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2025-06-02",
@@ -100796,7 +100796,62 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-09-18",
       "BIZRNO": "2158676130",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": null,
+      "INGR_KOR_NAME": "펠루비프로펜(미분화)",
+      "ENTP_NAME": "엠피크코리아(주)",
+      "MNFCTR_NAME": "Aurore Life Sciences Private Limited ",
+      "MNFCTR_PLACE": "Plot No 180/2 & 3, Khazipally (V), Jinnaram (M), Sangareddy, Telangana, 502319, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-09-18",
+      "BIZRNO": "8748801320",
+      "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": null,
+      "INGR_KOR_NAME": "옥스카르바제핀",
+      "ENTP_NAME": "한국노바티스(주)",
+      "MNFCTR_NAME": "Jubilant Biosys Limited",
+      "MNFCTR_PLACE": "Plot No. 18, 56, 57 & 58, KIADB Industrial Area, Nanjangud-571 302, Mysuru District, Karnataka State, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-09-18",
+      "BIZRNO": "1168105478",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": null,
+      "INGR_KOR_NAME": "암로디핀베실산염",
+      "ENTP_NAME": "(주)에스지바이오켐",
+      "MNFCTR_NAME": "Zydus Lifesciences Limited",
+      "MNFCTR_PLACE": "Plot No.291, G.I.D.C Estate, City-Ankleshwar– 393 002, Dist- Bharuch, Gujarat State, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-09-18",
+      "BIZRNO": "1388130720",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20260918---12235-24",
+      "INGR_KOR_NAME": "로수바스타틴칼슘(미분화)",
+      "ENTP_NAME": "후성바이오주식회사",
+      "MNFCTR_NAME": "Morepen Laboratories Limited",
+      "MNFCTR_PLACE": "Village Malkumajra (Morepen Village), Baddi Nalagarh Road, Distt Solan, Himachal Pradesh, 173 205, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-09-18",
+      "BIZRNO": "2228701895",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": null,
+      "INGR_KOR_NAME": "테고프라잔",
+      "ENTP_NAME": "(주)경보제약",
+      "MNFCTR_NAME": "(주)경보제약,Lanzhou Bathcon Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "충청남도 아산시",
+      "MANUF_COUNTRY_CODE_NM": "대한민국,중국",
+      "DMF_PERMIT_DATE": "2026-09-18",
+      "BIZRNO": "3128104567",
+      "NOTICE_CODE": "신물질"
     }
   ]
 }
