@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-21T00:06:14.692Z",
-  "totalCount": 9140,
-  "fetchedCount": 9140,
+  "generatedAt": "2026-09-23T00:06:24.865Z",
+  "totalCount": 9147,
+  "fetchedCount": 9147,
   "summary": {
     "uniqueCompanies": 441,
     "uniqueCountries": 49,
     "topCompanies": [
       {
         "name": "(주)삼오제약",
-        "count": 393
+        "count": 394
       },
       {
         "name": "(주)파마피아",
@@ -50,11 +50,11 @@
     "topCountries": [
       {
         "name": "인도",
-        "count": 3733
+        "count": 3734
       },
       {
         "name": "중국",
-        "count": 2869
+        "count": 2874
       },
       {
         "name": "대한민국",
@@ -78,7 +78,7 @@
       },
       {
         "name": "스위스",
-        "count": 167
+        "count": 168
       },
       {
         "name": "대만",
@@ -91,7 +91,84 @@
     ],
     "recent": [
       {
-        "DMF_PERMIT_NO": null,
+        "DMF_PERMIT_NO": "20130329-190-I-83-01(1)",
+        "INGR_KOR_NAME": "시롤리무스 분산용액",
+        "ENTP_NAME": "한국화이자제약(주)",
+        "MNFCTR_NAME": "Lonza AG ,Pfizer Ireland Pharmaceuticals Unlimited Company",
+        "MNFCTR_PLACE": "Lonzastrasse, CH-3930 Visp, Switzerland,Little Connell, Newbridge, Co. Kildare, W12 HX57, Ireland",
+        "MANUF_COUNTRY_CODE_NM": "스위스,아일랜드",
+        "DMF_PERMIT_DATE": "2026-09-22",
+        "BIZRNO": "2078100406",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "수203-10-ND",
+        "INGR_KOR_NAME": "테고프라잔",
+        "ENTP_NAME": "에이치케이이노엔(주)",
+        "MNFCTR_NAME": "Metrochem API Private Limited",
+        "MNFCTR_PLACE": "Unit-IV, Plot No. 34B, 40B & 60B, J. N. Pharma City, Thanam (V), Parawada (M), Anakapalli District - 531 021, Andhra Pradesh, India.",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-09-22",
+        "BIZRNO": "2018638914",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "20221215-211-J-1422(A)",
+        "INGR_KOR_NAME": "도큐세이트나트륨",
+        "ENTP_NAME": "주식회사파마솔",
+        "MNFCTR_NAME": "Hunan Jiudian Hongyang Pharmaceutical Co., Ltd",
+        "MNFCTR_PLACE": "Tongguan Circular Economy Industrial Base, Wangcheng Economic and Technological Development Zone, Hunan, China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-09-22",
+        "BIZRNO": "7018801037",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "20260922-104-F-104-07",
+        "INGR_KOR_NAME": "메트로니다졸",
+        "ENTP_NAME": "후성바이오주식회사",
+        "MNFCTR_NAME": "Guangxi Jinxing Pharmaceutical Co., Ltd.",
+        "MNFCTR_PLACE": "Daren Industrial Park, Hechi City, Guangxi 547011, China.",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-09-22",
+        "BIZRNO": "2228701895",
+        "NOTICE_CODE": "별표1"
+      },
+      {
+        "DMF_PERMIT_NO": "20260922-211-J-2288",
+        "INGR_KOR_NAME": "플루오시놀론아세토니드",
+        "ENTP_NAME": "케미팜주식회사",
+        "MNFCTR_NAME": "Henan Lihua Pharmaceutical Co., Ltd.",
+        "MNFCTR_PLACE": "Middle of Huanghe Street, Anyang Hi-Tech Industry Development Zone, Henan, China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-09-22",
+        "BIZRNO": "1248724013",
+        "NOTICE_CODE": "별표1"
+      },
+      {
+        "DMF_PERMIT_NO": "수936-6-ND",
+        "INGR_KOR_NAME": "슈가마덱스나트륨",
+        "ENTP_NAME": "(주)삼풍파인켐",
+        "MNFCTR_NAME": "Shanghai Huilun Jiangsu Pharmaceutical Co., Ltd.",
+        "MNFCTR_PLACE": "Building 9, No.18, Yangtze Road, Binjiang Industrial Park, Pharmaceutical High & New Technology Industries Development Zone,Taizhou City, Jiangsu Province, P.R. China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-09-21",
+        "BIZRNO": "6148600803",
+        "NOTICE_CODE": "신물질"
+      },
+      {
+        "DMF_PERMIT_NO": "20260921-209-J-2271",
+        "INGR_KOR_NAME": "메틸프레드니솔론",
+        "ENTP_NAME": "(주)삼오제약",
+        "MNFCTR_NAME": "Henan Lihua Pharmaceutical Co., Ltd.",
+        "MNFCTR_PLACE": "No.1, Northwest corner of Jingzhong Road and Xinglong Road, Tangyin Hi-Tech Zone, Anyang, Henan, China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-09-21",
+        "BIZRNO": "1208128636",
+        "NOTICE_CODE": "별표1"
+      },
+      {
+        "DMF_PERMIT_NO": "1673-60-ND",
         "INGR_KOR_NAME": "테고프라잔",
         "ENTP_NAME": "(주)경보제약",
         "MNFCTR_NAME": "(주)경보제약,Lanzhou Bathcon Pharmaceutical Co., Ltd.",
@@ -102,7 +179,7 @@
         "NOTICE_CODE": "신물질"
       },
       {
-        "DMF_PERMIT_NO": "20260918---12235-24",
+        "DMF_PERMIT_NO": "20260918-209-J-2272",
         "INGR_KOR_NAME": "로수바스타틴칼슘(미분화)",
         "ENTP_NAME": "후성바이오주식회사",
         "MNFCTR_NAME": "Morepen Laboratories Limited",
@@ -113,7 +190,7 @@
         "NOTICE_CODE": "별표1"
       },
       {
-        "DMF_PERMIT_NO": null,
+        "DMF_PERMIT_NO": "20260918-130-H-470-58",
         "INGR_KOR_NAME": "암로디핀베실산염",
         "ENTP_NAME": "(주)에스지바이오켐",
         "MNFCTR_NAME": "Zydus Lifesciences Limited",
@@ -124,7 +201,7 @@
         "NOTICE_CODE": "별표1"
       },
       {
-        "DMF_PERMIT_NO": null,
+        "DMF_PERMIT_NO": "20211019-209-J-1123(A)",
         "INGR_KOR_NAME": "옥스카르바제핀",
         "ENTP_NAME": "한국노바티스(주)",
         "MNFCTR_NAME": "Jubilant Biosys Limited",
@@ -135,7 +212,7 @@
         "NOTICE_CODE": "별표1"
       },
       {
-        "DMF_PERMIT_NO": null,
+        "DMF_PERMIT_NO": "수812-37-ND",
         "INGR_KOR_NAME": "펠루비프로펜(미분화)",
         "ENTP_NAME": "엠피크코리아(주)",
         "MNFCTR_NAME": "Aurore Life Sciences Private Limited ",
@@ -232,83 +309,6 @@
         "DMF_PERMIT_DATE": "2026-09-15",
         "BIZRNO": "2188100352",
         "NOTICE_CODE": "신물질"
-      },
-      {
-        "DMF_PERMIT_NO": "20100226-122-G-47-16(7)",
-        "INGR_KOR_NAME": "로사르탄칼륨",
-        "ENTP_NAME": "일동제약(주)",
-        "MNFCTR_NAME": "IPCA Laboratories Limited,[중간체(Losartan base) 제조원] Ipca Laboratories Limited,[중간체(Losartan base) 제조원] Ipca Laboratories Limited, Mahad",
-        "MNFCTR_PLACE": "P.O. Sejavta, District-Ratlam (M.P.) 457001, India,[중간체(Losartan base) 제조원] Block No. 123, 131 & 132, Village-Ranu, Tal-Padra, City : Ranu, Dist : Vadodara, Gujarat state, India,[중간체(Losartan base) 제조원] C-89 to C-95, MIDC Industrial Area, Mahad Dist. Raigad (M.S.)-402309(Maharashtra), India",
-        "MANUF_COUNTRY_CODE_NM": "인도,인도,인도",
-        "DMF_PERMIT_DATE": "2026-09-15",
-        "BIZRNO": "8038800431",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "수248-23-ND",
-        "INGR_KOR_NAME": "아칼라브루티닙말레산염수화물",
-        "ENTP_NAME": "한국아스트라제네카(주)",
-        "MNFCTR_NAME": "Ampac Fine Chemicals LLC",
-        "MNFCTR_PLACE": "Highway 50 and Hazel Avenue, Rancho Cordova, CA 95670, USA",
-        "MANUF_COUNTRY_CODE_NM": "미국",
-        "DMF_PERMIT_DATE": "2026-09-14",
-        "BIZRNO": "2148146701",
-        "NOTICE_CODE": "신물질"
-      },
-      {
-        "DMF_PERMIT_NO": "20250326-209-J-1812(2)",
-        "INGR_KOR_NAME": "메만틴염산염",
-        "ENTP_NAME": "(주)마더스제약",
-        "MNFCTR_NAME": "Zhejiang Apeloa Kangyu Pharmaceutical Co., Ltd",
-        "MNFCTR_PLACE": "333, Jiangnan Road, Hengdian Town, Dongyang City, Zhejiang Province, 322118, P.R. China",
-        "MANUF_COUNTRY_CODE_NM": "중국",
-        "DMF_PERMIT_DATE": "2026-09-14",
-        "BIZRNO": "3128629302",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20241112-51-C-412-13(1)",
-        "INGR_KOR_NAME": "플루옥세틴염산염",
-        "ENTP_NAME": "(주)한솔파마",
-        "MNFCTR_NAME": "Alembic Pharmaceuticals Limited(API Unit-1)",
-        "MNFCTR_PLACE": "AT-Panelav, Tal-Halol, City : Panelav, Dist : Panchmahal, Gujarat State, India",
-        "MANUF_COUNTRY_CODE_NM": "인도",
-        "DMF_PERMIT_DATE": "2026-09-14",
-        "BIZRNO": "1088161009",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20260914-210-J-2282",
-        "INGR_KOR_NAME": "덱사메타손팔미테이트",
-        "ENTP_NAME": "모비우스파마",
-        "MNFCTR_NAME": "Jiangsu Grand Xianle Pharmaceutical Co., Ltd.",
-        "MNFCTR_PLACE": "No.1 Zhongshan Seven Road, Coastal Industrial Park, Economic Development Zone, Binhai County, Yancheng City, Jiangsu Province, 224555, China",
-        "MANUF_COUNTRY_CODE_NM": "중국",
-        "DMF_PERMIT_DATE": "2026-09-14",
-        "BIZRNO": "4120864028",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20260911-8-C-459-25",
-        "INGR_KOR_NAME": "록소프로펜나트륨수화물",
-        "ENTP_NAME": "태왕물산(주)",
-        "MNFCTR_NAME": "Hy-Gro Chemicals Pharmtek Private Limited",
-        "MNFCTR_PLACE": "Unit-I, Plot No. 174, Progressive Industrial Society, Bollaram Village, Jinnaram Mandal, Sanga Reddy District, Telangana State, India",
-        "MANUF_COUNTRY_CODE_NM": "인도",
-        "DMF_PERMIT_DATE": "2026-09-11",
-        "BIZRNO": "2048105227",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20260911-209-J-2281",
-        "INGR_KOR_NAME": "벤조나테이트",
-        "ENTP_NAME": "(주)필인터내셔널",
-        "MNFCTR_NAME": "Ami Lifesciences Private Limited",
-        "MNFCTR_PLACE": "Block No. 82/B, ECP Road, At & Post : Karakhadi, Tal – Padra, City – Karakhadi - 391450,  Dist. - Vadodara, Gujarat State, India",
-        "MANUF_COUNTRY_CODE_NM": "인도",
-        "DMF_PERMIT_DATE": "2026-09-11",
-        "BIZRNO": "2208156257",
-        "NOTICE_CODE": "별표1"
       }
     ]
   },
@@ -53315,8 +53315,8 @@
       "DMF_PERMIT_NO": "20200515-209-J-477(2)",
       "INGR_KOR_NAME": "졸피뎀타르타르산염",
       "ENTP_NAME": "고려제약(주)",
-      "MNFCTR_NAME": "Farmak, a.s.",
-      "MNFCTR_PLACE": "Na vlcinci 16/3, Klasterni Hradisko, 779 00 Olomouc, Czech Republic",
+      "MNFCTR_NAME": "CZECH-GEN, a.s.",
+      "MNFCTR_PLACE": "Na vlčinci 16/3, Klášterní Hradisko, 779 00 Olomouc, Czech Republic",
       "MANUF_COUNTRY_CODE_NM": "체코공화국",
       "DMF_PERMIT_DATE": "2021-03-09",
       "BIZRNO": "1268104796",
@@ -98855,7 +98855,7 @@
       "DMF_PERMIT_NO": "수49-3-ND",
       "INGR_KOR_NAME": "레가데노손",
       "ENTP_NAME": "지이헬스케어에이에스한국지점",
-      "MNFCTR_NAME": "Farmak, a.s.",
+      "MNFCTR_NAME": "CZECH-GEN, a.s.",
       "MNFCTR_PLACE": "Na vlčinci 16/3, Klášterní Hradisko, 779 00 Olomouc, Czech Republic",
       "MANUF_COUNTRY_CODE_NM": "체코공화국",
       "DMF_PERMIT_DATE": "2026-07-14",
@@ -100799,7 +100799,7 @@
       "NOTICE_CODE": "신물질"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "수812-37-ND",
       "INGR_KOR_NAME": "펠루비프로펜(미분화)",
       "ENTP_NAME": "엠피크코리아(주)",
       "MNFCTR_NAME": "Aurore Life Sciences Private Limited ",
@@ -100810,7 +100810,7 @@
       "NOTICE_CODE": "신물질"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "20211019-209-J-1123(A)",
       "INGR_KOR_NAME": "옥스카르바제핀",
       "ENTP_NAME": "한국노바티스(주)",
       "MNFCTR_NAME": "Jubilant Biosys Limited",
@@ -100821,7 +100821,7 @@
       "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "20260918-130-H-470-58",
       "INGR_KOR_NAME": "암로디핀베실산염",
       "ENTP_NAME": "(주)에스지바이오켐",
       "MNFCTR_NAME": "Zydus Lifesciences Limited",
@@ -100832,7 +100832,7 @@
       "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": "20260918---12235-24",
+      "DMF_PERMIT_NO": "20260918-209-J-2272",
       "INGR_KOR_NAME": "로수바스타틴칼슘(미분화)",
       "ENTP_NAME": "후성바이오주식회사",
       "MNFCTR_NAME": "Morepen Laboratories Limited",
@@ -100843,7 +100843,7 @@
       "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "1673-60-ND",
       "INGR_KOR_NAME": "테고프라잔",
       "ENTP_NAME": "(주)경보제약",
       "MNFCTR_NAME": "(주)경보제약,Lanzhou Bathcon Pharmaceutical Co., Ltd.",
@@ -100852,6 +100852,83 @@
       "DMF_PERMIT_DATE": "2026-09-18",
       "BIZRNO": "3128104567",
       "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "20260921-209-J-2271",
+      "INGR_KOR_NAME": "메틸프레드니솔론",
+      "ENTP_NAME": "(주)삼오제약",
+      "MNFCTR_NAME": "Henan Lihua Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "No.1, Northwest corner of Jingzhong Road and Xinglong Road, Tangyin Hi-Tech Zone, Anyang, Henan, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-09-21",
+      "BIZRNO": "1208128636",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "수936-6-ND",
+      "INGR_KOR_NAME": "슈가마덱스나트륨",
+      "ENTP_NAME": "(주)삼풍파인켐",
+      "MNFCTR_NAME": "Shanghai Huilun Jiangsu Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "Building 9, No.18, Yangtze Road, Binjiang Industrial Park, Pharmaceutical High & New Technology Industries Development Zone,Taizhou City, Jiangsu Province, P.R. China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-09-21",
+      "BIZRNO": "6148600803",
+      "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "20260922-211-J-2288",
+      "INGR_KOR_NAME": "플루오시놀론아세토니드",
+      "ENTP_NAME": "케미팜주식회사",
+      "MNFCTR_NAME": "Henan Lihua Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "Middle of Huanghe Street, Anyang Hi-Tech Industry Development Zone, Henan, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-09-22",
+      "BIZRNO": "1248724013",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20260922-104-F-104-07",
+      "INGR_KOR_NAME": "메트로니다졸",
+      "ENTP_NAME": "후성바이오주식회사",
+      "MNFCTR_NAME": "Guangxi Jinxing Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "Daren Industrial Park, Hechi City, Guangxi 547011, China.",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-09-22",
+      "BIZRNO": "2228701895",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20221215-211-J-1422(A)",
+      "INGR_KOR_NAME": "도큐세이트나트륨",
+      "ENTP_NAME": "주식회사파마솔",
+      "MNFCTR_NAME": "Hunan Jiudian Hongyang Pharmaceutical Co., Ltd",
+      "MNFCTR_PLACE": "Tongguan Circular Economy Industrial Base, Wangcheng Economic and Technological Development Zone, Hunan, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-09-22",
+      "BIZRNO": "7018801037",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": "수203-10-ND",
+      "INGR_KOR_NAME": "테고프라잔",
+      "ENTP_NAME": "에이치케이이노엔(주)",
+      "MNFCTR_NAME": "Metrochem API Private Limited",
+      "MNFCTR_PLACE": "Unit-IV, Plot No. 34B, 40B & 60B, J. N. Pharma City, Thanam (V), Parawada (M), Anakapalli District - 531 021, Andhra Pradesh, India.",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-09-22",
+      "BIZRNO": "2018638914",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": "20130329-190-I-83-01(1)",
+      "INGR_KOR_NAME": "시롤리무스 분산용액",
+      "ENTP_NAME": "한국화이자제약(주)",
+      "MNFCTR_NAME": "Lonza AG ,Pfizer Ireland Pharmaceuticals Unlimited Company",
+      "MNFCTR_PLACE": "Lonzastrasse, CH-3930 Visp, Switzerland,Little Connell, Newbridge, Co. Kildare, W12 HX57, Ireland",
+      "MANUF_COUNTRY_CODE_NM": "스위스,아일랜드",
+      "DMF_PERMIT_DATE": "2026-09-22",
+      "BIZRNO": "2078100406",
+      "NOTICE_CODE": ""
     }
   ]
 }
