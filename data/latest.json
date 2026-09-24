@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-23T00:06:24.865Z",
-  "totalCount": 9147,
-  "fetchedCount": 9147,
+  "generatedAt": "2026-09-24T00:05:46.307Z",
+  "totalCount": 9149,
+  "fetchedCount": 9149,
   "summary": {
     "uniqueCompanies": 441,
     "uniqueCountries": 49,
@@ -50,15 +50,15 @@
     "topCountries": [
       {
         "name": "인도",
-        "count": 3734
+        "count": 3735
       },
       {
         "name": "중국",
-        "count": 2874
+        "count": 2875
       },
       {
         "name": "대한민국",
-        "count": 1306
+        "count": 1307
       },
       {
         "name": "이탈리아",
@@ -91,6 +91,28 @@
     ],
     "recent": [
       {
+        "DMF_PERMIT_NO": "20250602-204-I-711-12(A)",
+        "INGR_KOR_NAME": "타크로리무스수화물",
+        "ENTP_NAME": "(주)유피아이코리아앤코",
+        "MNFCTR_NAME": "Joyang Laboratories",
+        "MNFCTR_PLACE": "No. 9 Haidu North Road, Sheyang Economic Development zone, Yancheng, Jiangsu, 224300 China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-09-23",
+        "BIZRNO": "7808703443",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "20200707-138-H-374-14(4)",
+        "INGR_KOR_NAME": "에르도스테인",
+        "ENTP_NAME": "엠피크코리아(주)",
+        "MNFCTR_NAME": "Aurore Pharmaceuticals Private Limited(Unit-1)",
+        "MNFCTR_PLACE": "Plot No. 35, 36, 38 to 40, 49 to 51, Phase IV, IDA, Jeedimetla, Hyderabad 500055 Telangana State India",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-09-23",
+        "BIZRNO": "8748801320",
+        "NOTICE_CODE": "별표1"
+      },
+      {
         "DMF_PERMIT_NO": "20130329-190-I-83-01(1)",
         "INGR_KOR_NAME": "시롤리무스 분산용액",
         "ENTP_NAME": "한국화이자제약(주)",
@@ -99,7 +121,7 @@
         "MANUF_COUNTRY_CODE_NM": "스위스,아일랜드",
         "DMF_PERMIT_DATE": "2026-09-22",
         "BIZRNO": "2078100406",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "수203-10-ND",
@@ -110,7 +132,7 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-09-22",
         "BIZRNO": "2018638914",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "신물질"
       },
       {
         "DMF_PERMIT_NO": "20221215-211-J-1422(A)",
@@ -121,7 +143,7 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-09-22",
         "BIZRNO": "7018801037",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "20260922-104-F-104-07",
@@ -287,28 +309,6 @@
         "DMF_PERMIT_DATE": "2026-09-15",
         "BIZRNO": "1238147345",
         "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20250626-210-J-1944(A)",
-        "INGR_KOR_NAME": "세마글루티드",
-        "ENTP_NAME": "(주)폴라리스에이아이파마",
-        "MNFCTR_NAME": "Shanxi Tongda Pharmaceutical Co., Ltd.",
-        "MNFCTR_PLACE": "The First Medical Park of Economic and Technological Development Zone, Datong City, Shanxi Province, China",
-        "MANUF_COUNTRY_CODE_NM": "중국",
-        "DMF_PERMIT_DATE": "2026-09-15",
-        "BIZRNO": "1238147345",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "1421-5-ND",
-        "INGR_KOR_NAME": "에제티미브(미분화)",
-        "ENTP_NAME": "영진약품(주)",
-        "MNFCTR_NAME": "영진약품(주),Yabao Pharmaceutical Group Co., Ltd.",
-        "MNFCTR_PLACE": "전북특별자치도 완주군",
-        "MANUF_COUNTRY_CODE_NM": "대한민국,중국",
-        "DMF_PERMIT_DATE": "2026-09-15",
-        "BIZRNO": "2188100352",
-        "NOTICE_CODE": "신물질"
       }
     ]
   },
@@ -966,9 +966,9 @@
       "DMF_PERMIT_NO": "20050831-32-C-121-04",
       "INGR_KOR_NAME": "아세트아미노펜",
       "ENTP_NAME": "(주)다산제약",
-      "MNFCTR_NAME": "[아세트아미노펜 제피세립](주)다산제약,[출발물질 아세트아미노펜 제조소] Lianyungang Kangle Pharmaceutical Co., Ltd",
-      "MNFCTR_PLACE": "충청남도 아산시",
-      "MANUF_COUNTRY_CODE_NM": "대한민국,중국",
+      "MNFCTR_NAME": "[아세트아미노펜 제피세립](주)다산제약,[출발물질 아세트아미노펜 제조소] Lianyungang Kangle Pharmaceutical Co., Ltd,[출발물질 아세트아미노펜 제조소] 엠에프씨주식회사",
+      "MNFCTR_PLACE": "경기도 화성시 만세구",
+      "MANUF_COUNTRY_CODE_NM": "대한민국,중국,대한민국",
       "DMF_PERMIT_DATE": "2005-08-31",
       "BIZRNO": "1058184395",
       "NOTICE_CODE": "별표1"
@@ -67967,8 +67967,8 @@
       "DMF_PERMIT_NO": "20050831-67-B-174-01(2)",
       "INGR_KOR_NAME": "파모티딘",
       "ENTP_NAME": "(주)한영팜",
-      "MNFCTR_NAME": "IPCA Laboratories Limited.",
-      "MNFCTR_PLACE": "PLOT NO. 4722, 4723, 4731 & 4732, GIDC Estate, City: ANKLESHWAR, Dist. BHARUCH GUJARAT STATE, INDIA",
+      "MNFCTR_NAME": "SULESHVARI PHARMA PVT. LTD.",
+      "MNFCTR_PLACE": "Plot No. 4722, 4723, 4731 & 4732, GIDC Estate, Ankleshwar, District-Bharuch, Gujarat, 393 002, India",
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2022-10-18",
       "BIZRNO": "1388191523",
@@ -100906,7 +100906,7 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-09-22",
       "BIZRNO": "7018801037",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
       "DMF_PERMIT_NO": "수203-10-ND",
@@ -100917,7 +100917,7 @@
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2026-09-22",
       "BIZRNO": "2018638914",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "신물질"
     },
     {
       "DMF_PERMIT_NO": "20130329-190-I-83-01(1)",
@@ -100928,6 +100928,28 @@
       "MANUF_COUNTRY_CODE_NM": "스위스,아일랜드",
       "DMF_PERMIT_DATE": "2026-09-22",
       "BIZRNO": "2078100406",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20200707-138-H-374-14(4)",
+      "INGR_KOR_NAME": "에르도스테인",
+      "ENTP_NAME": "엠피크코리아(주)",
+      "MNFCTR_NAME": "Aurore Pharmaceuticals Private Limited(Unit-1)",
+      "MNFCTR_PLACE": "Plot No. 35, 36, 38 to 40, 49 to 51, Phase IV, IDA, Jeedimetla, Hyderabad 500055 Telangana State India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-09-23",
+      "BIZRNO": "8748801320",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20250602-204-I-711-12(A)",
+      "INGR_KOR_NAME": "타크로리무스수화물",
+      "ENTP_NAME": "(주)유피아이코리아앤코",
+      "MNFCTR_NAME": "Joyang Laboratories",
+      "MNFCTR_PLACE": "No. 9 Haidu North Road, Sheyang Economic Development zone, Yancheng, Jiangsu, 224300 China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-09-23",
+      "BIZRNO": "7808703443",
       "NOTICE_CODE": ""
     }
   ]
