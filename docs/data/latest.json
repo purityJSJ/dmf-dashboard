@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-28T00:06:29.139Z",
-  "totalCount": 9149,
-  "fetchedCount": 9149,
+  "generatedAt": "2026-09-29T00:06:58.459Z",
+  "totalCount": 9150,
+  "fetchedCount": 9150,
   "summary": {
     "uniqueCompanies": 441,
     "uniqueCountries": 49,
@@ -50,7 +50,7 @@
     "topCountries": [
       {
         "name": "인도",
-        "count": 3735
+        "count": 3736
       },
       {
         "name": "중국",
@@ -90,6 +90,17 @@
       }
     ],
     "recent": [
+      {
+        "DMF_PERMIT_NO": null,
+        "INGR_KOR_NAME": "시티콜린나트륨",
+        "ENTP_NAME": "파마라인(주)",
+        "MNFCTR_NAME": "Bajaj Healthcare Ltd. (Unit IV)",
+        "MNFCTR_PLACE": "1717 / 1718, GIDC Panoli, Tal – Ankleshwar, Dist. – Bharuch, Panoli-394 116, Gujarat, India",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-09-28",
+        "BIZRNO": "2148813077",
+        "NOTICE_CODE": ""
+      },
       {
         "DMF_PERMIT_NO": "20250602-204-I-711-12(A)",
         "INGR_KOR_NAME": "타크로리무스수화물",
@@ -298,17 +309,6 @@
         "DMF_PERMIT_DATE": "2026-09-15",
         "BIZRNO": "1168701173",
         "NOTICE_CODE": "신물질"
-      },
-      {
-        "DMF_PERMIT_NO": "20160725-4-B-387-21(9)",
-        "INGR_KOR_NAME": "레바미피드",
-        "ENTP_NAME": "(주)폴라리스에이아이파마",
-        "MNFCTR_NAME": "Zenji Pharmaceuticals(Suzhou) Ltd. ",
-        "MNFCTR_PLACE": "No.122, Xuqing Road, Xuguan Town, Suzhou, Jiangsu China",
-        "MANUF_COUNTRY_CODE_NM": "중국",
-        "DMF_PERMIT_DATE": "2026-09-15",
-        "BIZRNO": "1238147345",
-        "NOTICE_CODE": "별표1"
       }
     ]
   },
@@ -26739,8 +26739,8 @@
       "DMF_PERMIT_NO": "20120406-145-I-37-02(17)",
       "INGR_KOR_NAME": "덱시부프로펜",
       "ENTP_NAME": "(주)한영팜",
-      "MNFCTR_NAME": "Hubei Biocause Heilen Pharmaceutical Co., Ltd",
-      "MNFCTR_PLACE": "122 Yangwan Road, Jingmen City, Hubei Province, 448000, China",
+      "MNFCTR_NAME": "Hubei Biocause Heilen Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "122 Yangwan Road, Jingmen City, Hubei Province, 448002, P.R. China",
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2015-07-14",
       "BIZRNO": "1388191523",
@@ -38652,7 +38652,7 @@
       "DMF_PERMIT_NO": "수6580-19-ND(2)",
       "INGR_KOR_NAME": "아프레피탄트",
       "ENTP_NAME": "에이징생명과학(주)",
-      "MNFCTR_NAME": "Glenmark Life Sciences Limited",
+      "MNFCTR_NAME": "Alivus Life Sciences Limited",
       "MNFCTR_PLACE": "Plot No. 3109, GIDC, Industrial Estate, Ankleshwar, City : Ankleshwar - 393 002, Dist. Bharuch, Gujarat State, India",
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2018-11-09",
@@ -43592,7 +43592,7 @@
       "INGR_KOR_NAME": "이부프로펜",
       "ENTP_NAME": "(주)한영팜",
       "MNFCTR_NAME": "Hubei Biocause Heilen Pharmaceutical Co., Ltd.",
-      "MNFCTR_PLACE": "122 Yangwan Road, Jingmen City, Hubei Province, 448000 P.R.China",
+      "MNFCTR_PLACE": "122 Yangwan Road, Jingmen City, Hubei Province, 448002 P.R.China",
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2019-10-21",
       "BIZRNO": "1388191523",
@@ -100951,6 +100951,17 @@
       "DMF_PERMIT_DATE": "2026-09-23",
       "BIZRNO": "7808703443",
       "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": null,
+      "INGR_KOR_NAME": "시티콜린나트륨",
+      "ENTP_NAME": "파마라인(주)",
+      "MNFCTR_NAME": "Bajaj Healthcare Ltd. (Unit IV)",
+      "MNFCTR_PLACE": "1717 / 1718, GIDC Panoli, Tal – Ankleshwar, Dist. – Bharuch, Panoli-394 116, Gujarat, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-09-28",
+      "BIZRNO": "2148813077",
+      "NOTICE_CODE": ""
     }
   ]
 }
