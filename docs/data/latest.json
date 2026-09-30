@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-29T00:06:58.459Z",
-  "totalCount": 9150,
-  "fetchedCount": 9150,
+  "generatedAt": "2026-09-30T00:07:32.068Z",
+  "totalCount": 9151,
+  "fetchedCount": 9151,
   "summary": {
     "uniqueCompanies": 441,
     "uniqueCountries": 49,
@@ -50,11 +50,11 @@
     "topCountries": [
       {
         "name": "인도",
-        "count": 3736
+        "count": 3735
       },
       {
         "name": "중국",
-        "count": 2875
+        "count": 2876
       },
       {
         "name": "대한민국",
@@ -70,7 +70,7 @@
       },
       {
         "name": "독일",
-        "count": 191
+        "count": 192
       },
       {
         "name": "일본",
@@ -91,7 +91,29 @@
     ],
     "recent": [
       {
-        "DMF_PERMIT_NO": null,
+        "DMF_PERMIT_NO": "20260929-211-J-2292",
+        "INGR_KOR_NAME": "아스코르브산",
+        "ENTP_NAME": "㈜하이플",
+        "MNFCTR_NAME": "Luwei Pharmaceutical Group Co., Ltd.",
+        "MNFCTR_PLACE": "ShuangFeng Industrial Park, Zichuan District, Zibo City, Shandong, China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-09-29",
+        "BIZRNO": "4338600179",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "수207-56-ND(1)",
+        "INGR_KOR_NAME": "테모졸로미드",
+        "ENTP_NAME": "한국엠에스디(주)",
+        "MNFCTR_NAME": "Excella GmbH & Co. KG",
+        "MNFCTR_PLACE": "Nuernberger Strasse 12, 90537 Feucht, Germany",
+        "MANUF_COUNTRY_CODE_NM": "독일",
+        "DMF_PERMIT_DATE": "2026-09-29",
+        "BIZRNO": "1338124859",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "20260928-210-J-2285",
         "INGR_KOR_NAME": "시티콜린나트륨",
         "ENTP_NAME": "파마라인(주)",
         "MNFCTR_NAME": "Bajaj Healthcare Ltd. (Unit IV)",
@@ -99,7 +121,7 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-09-28",
         "BIZRNO": "2148813077",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "20250602-204-I-711-12(A)",
@@ -287,28 +309,6 @@
         "DMF_PERMIT_DATE": "2026-09-17",
         "BIZRNO": "3038134897",
         "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "수826-1-ND",
-        "INGR_KOR_NAME": "베르테포르핀",
-        "ENTP_NAME": "디케이에스에이치코리아(주)",
-        "MNFCTR_NAME": "Chiracon GmbH",
-        "MNFCTR_PLACE": "Biotechnologiepark 3 14943 Luckenwalde Germany",
-        "MANUF_COUNTRY_CODE_NM": "독일",
-        "DMF_PERMIT_DATE": "2026-09-15",
-        "BIZRNO": "2118154987",
-        "NOTICE_CODE": "신물질"
-      },
-      {
-        "DMF_PERMIT_NO": "수173-72-ND",
-        "INGR_KOR_NAME": "에독사반토실산염수화물(미분화)",
-        "ENTP_NAME": "(주)국전",
-        "MNFCTR_NAME": "MSN Life Sciences Private Limited",
-        "MNFCTR_PLACE": "Unit-II, Sy.No. *Parts of 454, 455,457,458 & 459, Chandampet (Village), Shankarampet-R (Mandal), Medak District, Telangana Pincode: 502 255 India.",
-        "MANUF_COUNTRY_CODE_NM": "인도",
-        "DMF_PERMIT_DATE": "2026-09-15",
-        "BIZRNO": "1168701173",
-        "NOTICE_CODE": "신물질"
       }
     ]
   },
@@ -31573,17 +31573,6 @@
       "MANUF_COUNTRY_CODE_NM": "멕시코",
       "DMF_PERMIT_DATE": "2017-03-29",
       "BIZRNO": "2648108658",
-      "NOTICE_CODE": "신물질"
-    },
-    {
-      "DMF_PERMIT_NO": "수583-25-ND",
-      "INGR_KOR_NAME": "티카그렐러",
-      "ENTP_NAME": "(주)상진상사",
-      "MNFCTR_NAME": "Dr. Reddy's Laboratories Limited",
-      "MNFCTR_PLACE": "APIIC Industrial Estate, Pydibhimavaram(V), Ranasthalam Mandal, Srikakulam-District 532409, Andhra Pradesh , India",
-      "MANUF_COUNTRY_CODE_NM": "인도",
-      "DMF_PERMIT_DATE": "2017-04-03",
-      "BIZRNO": "2648149187",
       "NOTICE_CODE": "신물질"
     },
     {
@@ -100953,7 +100942,7 @@
       "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "20260928-210-J-2285",
       "INGR_KOR_NAME": "시티콜린나트륨",
       "ENTP_NAME": "파마라인(주)",
       "MNFCTR_NAME": "Bajaj Healthcare Ltd. (Unit IV)",
@@ -100961,6 +100950,28 @@
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2026-09-28",
       "BIZRNO": "2148813077",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "수207-56-ND(1)",
+      "INGR_KOR_NAME": "테모졸로미드",
+      "ENTP_NAME": "한국엠에스디(주)",
+      "MNFCTR_NAME": "Excella GmbH & Co. KG",
+      "MNFCTR_PLACE": "Nuernberger Strasse 12, 90537 Feucht, Germany",
+      "MANUF_COUNTRY_CODE_NM": "독일",
+      "DMF_PERMIT_DATE": "2026-09-29",
+      "BIZRNO": "1338124859",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": "20260929-211-J-2292",
+      "INGR_KOR_NAME": "아스코르브산",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Luwei Pharmaceutical Group Co., Ltd.",
+      "MNFCTR_PLACE": "ShuangFeng Industrial Park, Zichuan District, Zibo City, Shandong, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-09-29",
+      "BIZRNO": "4338600179",
       "NOTICE_CODE": ""
     }
   ]
