@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-30T00:07:32.068Z",
-  "totalCount": 9151,
-  "fetchedCount": 9151,
+  "generatedAt": "2026-10-01T00:08:43.114Z",
+  "totalCount": 9150,
+  "fetchedCount": 9150,
   "summary": {
     "uniqueCompanies": 441,
     "uniqueCountries": 49,
@@ -50,7 +50,7 @@
     "topCountries": [
       {
         "name": "인도",
-        "count": 3735
+        "count": 3733
       },
       {
         "name": "중국",
@@ -86,7 +86,7 @@
       },
       {
         "name": "프랑스",
-        "count": 112
+        "count": 111
       }
     ],
     "recent": [
@@ -99,7 +99,7 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-09-29",
         "BIZRNO": "4338600179",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "수207-56-ND(1)",
@@ -110,7 +110,7 @@
         "MANUF_COUNTRY_CODE_NM": "독일",
         "DMF_PERMIT_DATE": "2026-09-29",
         "BIZRNO": "1338124859",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "신물질"
       },
       {
         "DMF_PERMIT_NO": "20260928-210-J-2285",
@@ -10828,17 +10828,6 @@
       "DMF_PERMIT_DATE": "2011-08-19",
       "BIZRNO": "2208114465",
       "NOTICE_CODE": "신물질"
-    },
-    {
-      "DMF_PERMIT_NO": "20050831-37-C-29-01(2)",
-      "INGR_KOR_NAME": "메트포르민염산염",
-      "ENTP_NAME": "(주)대웅제약",
-      "MNFCTR_NAME": "Merck Sante s.a.s.(Production Center of Calais)",
-      "MNFCTR_PLACE": "5 rue Clement Ader, 62100 CALAIS, France (37 rue Saint Romain, 69379 Lyon Cedex 08, France)",
-      "MANUF_COUNTRY_CODE_NM": "프랑스",
-      "DMF_PERMIT_DATE": "2011-08-19",
-      "BIZRNO": "1248601143",
-      "NOTICE_CODE": "기타"
     },
     {
       "DMF_PERMIT_NO": "20050831-37-C-34-05(6)",
@@ -57726,9 +57715,9 @@
       "DMF_PERMIT_NO": "20210623-209-J-1035",
       "INGR_KOR_NAME": "리네졸리드",
       "ENTP_NAME": "그레이스팜",
-      "MNFCTR_NAME": "Lee Pharma Limited,Benova Labs Private Limited,SVR Drugs Private Limited",
-      "MNFCTR_PLACE": "Survey No. 10/G-1, Gaddapotharam Village Jinnaram Mandal, Sangareddy District Telangana State, 502319, India,Sy. No. 10, Field 10/H5A, Gaddapotharam(Village), Jinnaram  (Mandal), Sangareddy (Dist.), Telangana - 502319 India.,Plot. No: 3, J.N. Pharmacity, Tadi(Village), Parawada(Mandal), Visakhapatnam - 531019",
-      "MANUF_COUNTRY_CODE_NM": "인도,인도,인도",
+      "MNFCTR_NAME": "Lee Pharma Limited",
+      "MNFCTR_PLACE": "Survey No. 10/G-1, Gaddapotharam Village Jinnaram Mandal, Sangareddy District Telangana State, 502319, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2021-06-23",
       "BIZRNO": "1440188996",
       "NOTICE_CODE": "별표1"
@@ -100961,7 +100950,7 @@
       "MANUF_COUNTRY_CODE_NM": "독일",
       "DMF_PERMIT_DATE": "2026-09-29",
       "BIZRNO": "1338124859",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "신물질"
     },
     {
       "DMF_PERMIT_NO": "20260929-211-J-2292",
@@ -100972,7 +100961,7 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-09-29",
       "BIZRNO": "4338600179",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     }
   ]
 }
