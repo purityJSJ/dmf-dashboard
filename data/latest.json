@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-06T00:07:01.024Z",
-  "totalCount": 9159,
-  "fetchedCount": 9159,
+  "generatedAt": "2026-10-07T00:06:49.635Z",
+  "totalCount": 9160,
+  "fetchedCount": 9160,
   "summary": {
     "uniqueCompanies": 441,
     "uniqueCountries": 49,
@@ -12,7 +12,7 @@
       },
       {
         "name": "(주)파마피아",
-        "count": 384
+        "count": 385
       },
       {
         "name": "에이징생명과학(주)",
@@ -62,7 +62,7 @@
       },
       {
         "name": "이탈리아",
-        "count": 459
+        "count": 460
       },
       {
         "name": "스페인",
@@ -91,7 +91,18 @@
     ],
     "recent": [
       {
-        "DMF_PERMIT_NO": "수173-74-ND",
+        "DMF_PERMIT_NO": "수258-63-ND",
+        "INGR_KOR_NAME": "콜산",
+        "ENTP_NAME": "(주)파마피아",
+        "MNFCTR_NAME": "Dipharma Francis S.r.l",
+        "MNFCTR_PLACE": "Via Bissone, 5, 20021, Baranzate(MI), Italy",
+        "MANUF_COUNTRY_CODE_NM": "이탈리아",
+        "DMF_PERMIT_DATE": "2026-10-06",
+        "BIZRNO": "2158631491",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "수812-25-ND(A)",
         "INGR_KOR_NAME": "라타노프로스틴부노드",
         "ENTP_NAME": "(주)국전",
         "MNFCTR_NAME": "MSN Laboratories Private Limited",
@@ -267,7 +278,7 @@
         "NOTICE_CODE": "별표1"
       },
       {
-        "DMF_PERMIT_NO": "20130329-190-I-83-01(1)",
+        "DMF_PERMIT_NO": "20260922-190-I-769-04",
         "INGR_KOR_NAME": "시롤리무스 분산용액",
         "ENTP_NAME": "한국화이자제약(주)",
         "MNFCTR_NAME": "Lonza AG ,Pfizer Ireland Pharmaceuticals Unlimited Company",
@@ -297,17 +308,6 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-09-22",
         "BIZRNO": "7018801037",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20260922-104-F-104-07",
-        "INGR_KOR_NAME": "메트로니다졸",
-        "ENTP_NAME": "후성바이오주식회사",
-        "MNFCTR_NAME": "Guangxi Jinxing Pharmaceutical Co., Ltd.",
-        "MNFCTR_PLACE": "Daren Industrial Park, Hechi City, Guangxi 547011, China.",
-        "MANUF_COUNTRY_CODE_NM": "중국",
-        "DMF_PERMIT_DATE": "2026-09-22",
-        "BIZRNO": "2228701895",
         "NOTICE_CODE": "별표1"
       }
     ]
@@ -100876,7 +100876,7 @@
       "NOTICE_CODE": "신물질"
     },
     {
-      "DMF_PERMIT_NO": "20130329-190-I-83-01(1)",
+      "DMF_PERMIT_NO": "20260922-190-I-769-04",
       "INGR_KOR_NAME": "시롤리무스 분산용액",
       "ENTP_NAME": "한국화이자제약(주)",
       "MNFCTR_NAME": "Lonza AG ,Pfizer Ireland Pharmaceuticals Unlimited Company",
@@ -101052,7 +101052,7 @@
       "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": "수173-74-ND",
+      "DMF_PERMIT_NO": "수812-25-ND(A)",
       "INGR_KOR_NAME": "라타노프로스틴부노드",
       "ENTP_NAME": "(주)국전",
       "MNFCTR_NAME": "MSN Laboratories Private Limited",
@@ -101061,6 +101061,17 @@
       "DMF_PERMIT_DATE": "2026-10-02",
       "BIZRNO": "1168701173",
       "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "수258-63-ND",
+      "INGR_KOR_NAME": "콜산",
+      "ENTP_NAME": "(주)파마피아",
+      "MNFCTR_NAME": "Dipharma Francis S.r.l",
+      "MNFCTR_PLACE": "Via Bissone, 5, 20021, Baranzate(MI), Italy",
+      "MANUF_COUNTRY_CODE_NM": "이탈리아",
+      "DMF_PERMIT_DATE": "2026-10-06",
+      "BIZRNO": "2158631491",
+      "NOTICE_CODE": ""
     }
   ]
 }
