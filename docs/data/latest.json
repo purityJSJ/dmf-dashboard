@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T00:06:23.003Z",
+  "generatedAt": "2026-10-09T00:07:59.625Z",
   "totalCount": 9167,
   "fetchedCount": 9167,
   "summary": {
@@ -91,7 +91,18 @@
     ],
     "recent": [
       {
-        "DMF_PERMIT_NO": null,
+        "DMF_PERMIT_NO": "20261008-211-J-2300",
+        "INGR_KOR_NAME": "포스포마이신트로메타몰",
+        "ENTP_NAME": "주식회사 노스이스트팜코리아",
+        "MNFCTR_NAME": "Northeast Pharmaceutical Group Co.,Ltd",
+        "MNFCTR_PLACE": "No.29 Shenxiliu Dong Road, Economic Technology Development District, Shenyang, P.R. China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-10-08",
+        "BIZRNO": "1498802316",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "20261007-209-J-2289",
         "INGR_KOR_NAME": "타목시펜시트르산염",
         "ENTP_NAME": "에이징생명과학(주)",
         "MNFCTR_NAME": "Bo-Chem Private Limited",
@@ -99,10 +110,10 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-10-07",
         "BIZRNO": "2148890579",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
-        "DMF_PERMIT_NO": null,
+        "DMF_PERMIT_NO": "20130516-158-I-307-19(1)",
         "INGR_KOR_NAME": "도네페질염산염수화물",
         "ENTP_NAME": "에스에스팜(주)",
         "MNFCTR_NAME": "USV Private Limited",
@@ -110,10 +121,10 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-10-07",
         "BIZRNO": "1348130150",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
-        "DMF_PERMIT_NO": null,
+        "DMF_PERMIT_NO": "20261007-129-H-471-68",
         "INGR_KOR_NAME": "클로피도그렐황산수소염",
         "ENTP_NAME": "주식회사지맥스파마켐",
         "MNFCTR_NAME": "Praveen Laboratories PVT.LTD.",
@@ -121,10 +132,10 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-10-07",
         "BIZRNO": "3358100453",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
-        "DMF_PERMIT_NO": "20261007---12264-104",
+        "DMF_PERMIT_NO": "20261007-209-J-2296",
         "INGR_KOR_NAME": "로수바스타틴칼슘",
         "ENTP_NAME": "리더스바이오(주)",
         "MNFCTR_NAME": "Shaoxing Jingxin Pharmaceutical Co., Ltd.",
@@ -132,10 +143,10 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-10-07",
         "BIZRNO": "2128609189",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
-        "DMF_PERMIT_NO": "20261007---12263-25",
+        "DMF_PERMIT_NO": "20261007-209-J-2297",
         "INGR_KOR_NAME": "로수바스타틴칼슘(미분화)",
         "ENTP_NAME": "리더스바이오(주)",
         "MNFCTR_NAME": "Shaoxing Jingxin Pharmaceutical Co., Ltd.",
@@ -143,7 +154,7 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-10-07",
         "BIZRNO": "2128609189",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "20261007-211-J-2295",
@@ -154,7 +165,7 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-10-07",
         "BIZRNO": "2158631491",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "20261007-16-K-94-14",
@@ -165,7 +176,7 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-10-07",
         "BIZRNO": "3218701718",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1의2"
       },
       {
         "DMF_PERMIT_NO": "수258-63-ND",
@@ -221,17 +232,6 @@
         "DMF_PERMIT_DATE": "2026-10-02",
         "BIZRNO": "8748801320",
         "NOTICE_CODE": "신물질"
-      },
-      {
-        "DMF_PERMIT_NO": null,
-        "INGR_KOR_NAME": "세벨라머탄산염",
-        "ENTP_NAME": "주식회사큐엘파마",
-        "MNFCTR_NAME": "Shandong Xinhua Pharmaceutical Co.,Ltd",
-        "MNFCTR_PLACE": "Hutian Chemical Industrial Zone, Zibo, Shandong, P.R. 255075. China",
-        "MANUF_COUNTRY_CODE_NM": "중국",
-        "DMF_PERMIT_DATE": "2026-10-02",
-        "BIZRNO": "1178152708",
-        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "20261001-14-K-93-09",
@@ -56689,7 +56689,7 @@
       "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": "20210524-211-J-825",
+      "DMF_PERMIT_NO": "20210524-210-J-825",
       "INGR_KOR_NAME": "레보폴리네이트칼슘오수화물",
       "ENTP_NAME": "(주)우신라보타치",
       "MNFCTR_NAME": "Merck & Cie",
@@ -90628,7 +90628,7 @@
       "INGR_KOR_NAME": "트라마돌염산염",
       "ENTP_NAME": "엠피크코리아(주)",
       "MNFCTR_NAME": "Virupaksha Organics Limited",
-      "MNFCTR_PLACE": "Sy. No. 10, Gaddapotharma Village, Jinnaram Mandal, Sangareddy District-502319, Telangana State, India",
+      "MNFCTR_PLACE": "Sy. No. 10, Gaddapotharam Village, Jinnaram Mandal, Sangareddy District-502319, Telangana State, India",
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2025-09-30",
       "BIZRNO": "8748801320",
@@ -101008,17 +101008,6 @@
       "NOTICE_CODE": "별표1의2"
     },
     {
-      "DMF_PERMIT_NO": null,
-      "INGR_KOR_NAME": "세벨라머탄산염",
-      "ENTP_NAME": "주식회사큐엘파마",
-      "MNFCTR_NAME": "Shandong Xinhua Pharmaceutical Co.,Ltd",
-      "MNFCTR_PLACE": "Hutian Chemical Industrial Zone, Zibo, Shandong, P.R. 255075. China",
-      "MANUF_COUNTRY_CODE_NM": "중국",
-      "DMF_PERMIT_DATE": "2026-10-02",
-      "BIZRNO": "1178152708",
-      "NOTICE_CODE": "별표1"
-    },
-    {
       "DMF_PERMIT_NO": "수812-38-ND",
       "INGR_KOR_NAME": "피네레논(미분화)",
       "ENTP_NAME": "엠피크코리아(주)",
@@ -101082,7 +101071,7 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-10-07",
       "BIZRNO": "3218701718",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1의2"
     },
     {
       "DMF_PERMIT_NO": "20261007-211-J-2295",
@@ -101093,10 +101082,10 @@
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2026-10-07",
       "BIZRNO": "2158631491",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": "20261007---12263-25",
+      "DMF_PERMIT_NO": "20261007-209-J-2297",
       "INGR_KOR_NAME": "로수바스타틴칼슘(미분화)",
       "ENTP_NAME": "리더스바이오(주)",
       "MNFCTR_NAME": "Shaoxing Jingxin Pharmaceutical Co., Ltd.",
@@ -101104,10 +101093,10 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-10-07",
       "BIZRNO": "2128609189",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": "20261007---12264-104",
+      "DMF_PERMIT_NO": "20261007-209-J-2296",
       "INGR_KOR_NAME": "로수바스타틴칼슘",
       "ENTP_NAME": "리더스바이오(주)",
       "MNFCTR_NAME": "Shaoxing Jingxin Pharmaceutical Co., Ltd.",
@@ -101115,10 +101104,10 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-10-07",
       "BIZRNO": "2128609189",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "20261007-129-H-471-68",
       "INGR_KOR_NAME": "클로피도그렐황산수소염",
       "ENTP_NAME": "주식회사지맥스파마켐",
       "MNFCTR_NAME": "Praveen Laboratories PVT.LTD.",
@@ -101126,10 +101115,10 @@
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2026-10-07",
       "BIZRNO": "3358100453",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "20130516-158-I-307-19(1)",
       "INGR_KOR_NAME": "도네페질염산염수화물",
       "ENTP_NAME": "에스에스팜(주)",
       "MNFCTR_NAME": "USV Private Limited",
@@ -101137,10 +101126,10 @@
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2026-10-07",
       "BIZRNO": "1348130150",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "20261007-209-J-2289",
       "INGR_KOR_NAME": "타목시펜시트르산염",
       "ENTP_NAME": "에이징생명과학(주)",
       "MNFCTR_NAME": "Bo-Chem Private Limited",
@@ -101148,6 +101137,17 @@
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2026-10-07",
       "BIZRNO": "2148890579",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20261008-211-J-2300",
+      "INGR_KOR_NAME": "포스포마이신트로메타몰",
+      "ENTP_NAME": "주식회사 노스이스트팜코리아",
+      "MNFCTR_NAME": "Northeast Pharmaceutical Group Co.,Ltd",
+      "MNFCTR_PLACE": "No.29 Shenxiliu Dong Road, Economic Technology Development District, Shenyang, P.R. China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-10-08",
+      "BIZRNO": "1498802316",
       "NOTICE_CODE": ""
     }
   ]
