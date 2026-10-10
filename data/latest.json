@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-09T00:07:59.625Z",
-  "totalCount": 9167,
-  "fetchedCount": 9167,
+  "generatedAt": "2026-10-10T00:07:16.505Z",
+  "totalCount": 9173,
+  "fetchedCount": 9173,
   "summary": {
     "uniqueCompanies": 441,
     "uniqueCountries": 49,
@@ -12,7 +12,7 @@
       },
       {
         "name": "(주)파마피아",
-        "count": 386
+        "count": 387
       },
       {
         "name": "에이징생명과학(주)",
@@ -50,15 +50,15 @@
     "topCountries": [
       {
         "name": "인도",
-        "count": 3742
+        "count": 3743
       },
       {
         "name": "중국",
-        "count": 2883
+        "count": 2886
       },
       {
         "name": "대한민국",
-        "count": 1307
+        "count": 1309
       },
       {
         "name": "이탈리아",
@@ -91,6 +91,72 @@
     ],
     "recent": [
       {
+        "DMF_PERMIT_NO": null,
+        "INGR_KOR_NAME": "닌테다닙에실산염(미분화)",
+        "ENTP_NAME": "일동제약(주)",
+        "MNFCTR_NAME": "일동제약(주)",
+        "MNFCTR_PLACE": "충청북도 청주시 흥덕구",
+        "MANUF_COUNTRY_CODE_NM": "대한민국",
+        "DMF_PERMIT_DATE": "2026-10-09",
+        "BIZRNO": "6828500435",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": null,
+        "INGR_KOR_NAME": "피나스테리드",
+        "ENTP_NAME": "리더스바이오(주)",
+        "MNFCTR_NAME": "Topfond Pharmaceutical Co., Ltd.",
+        "MNFCTR_PLACE": "No. 66 Jianshe Road, High-Tech Industrial Development District, Zhumadian City, 463000, China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-10-09",
+        "BIZRNO": "2128609189",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": null,
+        "INGR_KOR_NAME": "칼시포트리올수화물",
+        "ENTP_NAME": "(주)파마피아",
+        "MNFCTR_NAME": "D.K. Pharma Chem Private Limited",
+        "MNFCTR_PLACE": "F-32 / W-7, M.I.D.C., Badlapur, Dist. - Thane - 4221 503. Maharashtra, INDIA",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-10-09",
+        "BIZRNO": "2158631491",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "20261009---12271-10",
+        "INGR_KOR_NAME": "닌테다닙에실산염",
+        "ENTP_NAME": "후성바이오주식회사",
+        "MNFCTR_NAME": "Reyoung Pharmaceutical Co.,Ltd.",
+        "MNFCTR_PLACE": "No.1, Ruiyang Road, Yiyuan County, Shandong Province, China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-10-09",
+        "BIZRNO": "2228701895",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": null,
+        "INGR_KOR_NAME": "시프로플록사신염산염수화물",
+        "ENTP_NAME": "(주)팜피아",
+        "MNFCTR_NAME": "Zhejiang Guobang Pharmaceutical Co., Ltd.",
+        "MNFCTR_PLACE": "No.6, Weiwu Road, Hangzhou Gulf Shangyu Economic and Technological Development Zone, Zhejiang, China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-10-09",
+        "BIZRNO": "8138100574",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": null,
+        "INGR_KOR_NAME": "둘록세틴염산염",
+        "ENTP_NAME": "(주)폴라리스에이아이파마",
+        "MNFCTR_NAME": "(주)폴라리스에이아이파마",
+        "MNFCTR_PLACE": "경기도 화성시 만세구",
+        "MANUF_COUNTRY_CODE_NM": "대한민국",
+        "DMF_PERMIT_DATE": "2026-10-09",
+        "BIZRNO": "1238147345",
+        "NOTICE_CODE": ""
+      },
+      {
         "DMF_PERMIT_NO": "20261008-211-J-2300",
         "INGR_KOR_NAME": "포스포마이신트로메타몰",
         "ENTP_NAME": "주식회사 노스이스트팜코리아",
@@ -99,7 +165,7 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-10-08",
         "BIZRNO": "1498802316",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "20261007-209-J-2289",
@@ -243,72 +309,6 @@
         "DMF_PERMIT_DATE": "2026-10-01",
         "BIZRNO": "1058648322",
         "NOTICE_CODE": "별표1의2"
-      },
-      {
-        "DMF_PERMIT_NO": "20190607-209-J-362(1)",
-        "INGR_KOR_NAME": "나라트립탄염산염",
-        "ENTP_NAME": "에스에스팜(주)",
-        "MNFCTR_NAME": "USV PRIVATE LIMITED",
-        "MNFCTR_PLACE": "B-1/8, MIDC, Lote, Parshuram, Industrial, Area, Taluka, Khed, Ratnagiri, 415722 Maharashtra State, India",
-        "MANUF_COUNTRY_CODE_NM": "인도",
-        "DMF_PERMIT_DATE": "2026-10-01",
-        "BIZRNO": "1348130150",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20130905-84-D-120-06(2)",
-        "INGR_KOR_NAME": "세페핌염산염수화물",
-        "ENTP_NAME": "영진약품(주)",
-        "MNFCTR_NAME": "Qilu Antibiotics Pharmaceutical Co., Ltd.",
-        "MNFCTR_PLACE": "849 Dongjia Town, Licheng District, Jinan, Shandong Province, China",
-        "MANUF_COUNTRY_CODE_NM": "중국",
-        "DMF_PERMIT_DATE": "2026-10-01",
-        "BIZRNO": "2188100352",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "수207-81-ND",
-        "INGR_KOR_NAME": "울리프리스탈아세테이트(미분화)",
-        "ENTP_NAME": "(주)삼오제약",
-        "MNFCTR_NAME": "Industriale Chimica S.r.l.,Microchem S.r.l.",
-        "MNFCTR_PLACE": "Via Edvard Hagerup Grieg, 13, Saronno, 21047, Italy,Via Filippo Turati 2, Fiorenzuola D'Arda, 29017, Italy",
-        "MANUF_COUNTRY_CODE_NM": "이탈리아,이탈리아",
-        "DMF_PERMIT_DATE": "2026-09-30",
-        "BIZRNO": "1208128636",
-        "NOTICE_CODE": "신물질"
-      },
-      {
-        "DMF_PERMIT_NO": "20260930-94-E-198-19",
-        "INGR_KOR_NAME": "피나스테리드",
-        "ENTP_NAME": "(주)팜피아",
-        "MNFCTR_NAME": "Hunan Kerey Pharmaceutical Co., Ltd.",
-        "MNFCTR_PLACE": "Caixing Road, Daping Economic Development Zone, Niangxi Town, Xinshao County, Hunan, 422900, China",
-        "MANUF_COUNTRY_CODE_NM": "중국",
-        "DMF_PERMIT_DATE": "2026-09-30",
-        "BIZRNO": "8138100574",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "수21-39-ND(1)",
-        "INGR_KOR_NAME": "아토제판트일수화물",
-        "ENTP_NAME": "성우화학(주)",
-        "MNFCTR_NAME": "Honour Lab Limited, Unit-IX",
-        "MNFCTR_PLACE": "Survey No. 332, 335, 336 & 341, Veliminedu Village, Chityal Mandal, Nalgonda District-508114, Telangana State, India",
-        "MANUF_COUNTRY_CODE_NM": "인도",
-        "DMF_PERMIT_DATE": "2026-09-30",
-        "BIZRNO": "1248191048",
-        "NOTICE_CODE": "신물질"
-      },
-      {
-        "DMF_PERMIT_NO": "20260929-211-J-2292",
-        "INGR_KOR_NAME": "아스코르브산",
-        "ENTP_NAME": "㈜하이플",
-        "MNFCTR_NAME": "Luwei Pharmaceutical Group Co., Ltd.",
-        "MNFCTR_PLACE": "ShuangFeng Industrial Park, Zichuan District, Zibo City, Shandong, China",
-        "MANUF_COUNTRY_CODE_NM": "중국",
-        "DMF_PERMIT_DATE": "2026-09-29",
-        "BIZRNO": "4338600179",
-        "NOTICE_CODE": "별표1"
       }
     ]
   },
@@ -50236,7 +50236,7 @@
       "INGR_KOR_NAME": "다비가트란에텍실레이트메실산염",
       "ENTP_NAME": "(주)국전",
       "MNFCTR_NAME": "MSN Laboratories Private Limited",
-      "MNFCTR_PLACE": "Sy. No. 317, 320, 321, 322, 323, 604 & 605, Rudraram(Village), Patancheru(Mandal), Sangareddy District, Telangana, Pincode-502 329, India",
+      "MNFCTR_PLACE": "Sy. No. 317, 320, 321, 322, 323, 604 & 605, Rudraram(Village), Patancheru(Mandal), Sangareddy District, Telangana, Pincode-502 329, India\r\n",
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2020-08-20",
       "BIZRNO": "1168701173",
@@ -50466,8 +50466,8 @@
       "DMF_PERMIT_NO": "20200515-209-J-477(1)",
       "INGR_KOR_NAME": "졸피뎀타르타르산염",
       "ENTP_NAME": "환인제약(주)",
-      "MNFCTR_NAME": "Farmak, a.s.",
-      "MNFCTR_PLACE": "Na vlcinci 16/3, Klasterni Hradisko, 779 00 Olomouc, Czech Republic",
+      "MNFCTR_NAME": "CZECH-GEN, a.s.",
+      "MNFCTR_PLACE": "Na vlčinci 16/3, Klášterní Hradisko, 779 00 Olomouc, Czech Republic",
       "MANUF_COUNTRY_CODE_NM": "체코공화국",
       "DMF_PERMIT_DATE": "2020-09-04",
       "BIZRNO": "2158136171",
@@ -64800,7 +64800,7 @@
       "INGR_KOR_NAME": "메트포르민염산염",
       "ENTP_NAME": "(주)휴시드",
       "MNFCTR_NAME": "Exemed Pharmaceuticals",
-      "MNFCTR_PLACE": "Block No. 628 (A & B) ECP Canal Road, Vill : Luna, Taluka: Padra, District: Vadodara - 391440, Gujarat, India",
+      "MNFCTR_PLACE": "Plot No. - 628 (A & B) ECP Canal Road, Village - Luna, Tal - Padra, City - Padra - 391 440, Dist. Vadodara, Gujarat State, India",
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2022-05-02",
       "BIZRNO": "2158676130",
@@ -101148,6 +101148,72 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-10-08",
       "BIZRNO": "1498802316",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": null,
+      "INGR_KOR_NAME": "둘록세틴염산염",
+      "ENTP_NAME": "(주)폴라리스에이아이파마",
+      "MNFCTR_NAME": "(주)폴라리스에이아이파마",
+      "MNFCTR_PLACE": "경기도 화성시 만세구",
+      "MANUF_COUNTRY_CODE_NM": "대한민국",
+      "DMF_PERMIT_DATE": "2026-10-09",
+      "BIZRNO": "1238147345",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": null,
+      "INGR_KOR_NAME": "시프로플록사신염산염수화물",
+      "ENTP_NAME": "(주)팜피아",
+      "MNFCTR_NAME": "Zhejiang Guobang Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "No.6, Weiwu Road, Hangzhou Gulf Shangyu Economic and Technological Development Zone, Zhejiang, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-10-09",
+      "BIZRNO": "8138100574",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": "20261009---12271-10",
+      "INGR_KOR_NAME": "닌테다닙에실산염",
+      "ENTP_NAME": "후성바이오주식회사",
+      "MNFCTR_NAME": "Reyoung Pharmaceutical Co.,Ltd.",
+      "MNFCTR_PLACE": "No.1, Ruiyang Road, Yiyuan County, Shandong Province, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-10-09",
+      "BIZRNO": "2228701895",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": null,
+      "INGR_KOR_NAME": "칼시포트리올수화물",
+      "ENTP_NAME": "(주)파마피아",
+      "MNFCTR_NAME": "D.K. Pharma Chem Private Limited",
+      "MNFCTR_PLACE": "F-32 / W-7, M.I.D.C., Badlapur, Dist. - Thane - 4221 503. Maharashtra, INDIA",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-10-09",
+      "BIZRNO": "2158631491",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": null,
+      "INGR_KOR_NAME": "피나스테리드",
+      "ENTP_NAME": "리더스바이오(주)",
+      "MNFCTR_NAME": "Topfond Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "No. 66 Jianshe Road, High-Tech Industrial Development District, Zhumadian City, 463000, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-10-09",
+      "BIZRNO": "2128609189",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": null,
+      "INGR_KOR_NAME": "닌테다닙에실산염(미분화)",
+      "ENTP_NAME": "일동제약(주)",
+      "MNFCTR_NAME": "일동제약(주)",
+      "MNFCTR_PLACE": "충청북도 청주시 흥덕구",
+      "MANUF_COUNTRY_CODE_NM": "대한민국",
+      "DMF_PERMIT_DATE": "2026-10-09",
+      "BIZRNO": "6828500435",
       "NOTICE_CODE": ""
     }
   ]
