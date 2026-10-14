@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T00:09:20.995Z",
+  "generatedAt": "2026-10-14T00:14:26.941Z",
   "totalCount": 9173,
   "fetchedCount": 9173,
   "summary": {
@@ -91,7 +91,7 @@
     ],
     "recent": [
       {
-        "DMF_PERMIT_NO": null,
+        "DMF_PERMIT_NO": "1414-13-ND",
         "INGR_KOR_NAME": "에독사반토실산염수화물",
         "ENTP_NAME": "신풍제약(주)",
         "MNFCTR_NAME": "신풍제약(주)",
@@ -99,10 +99,10 @@
         "MANUF_COUNTRY_CODE_NM": "대한민국",
         "DMF_PERMIT_DATE": "2026-10-12",
         "BIZRNO": "1348103819",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "신물질"
       },
       {
-        "DMF_PERMIT_NO": "20261012---12276-105",
+        "DMF_PERMIT_NO": "20260716-209-J-2221(A)",
         "INGR_KOR_NAME": "로수바스타틴칼슘",
         "ENTP_NAME": "아주약품(주)",
         "MNFCTR_NAME": "Zhejiang Menovo Pharmaceutical Co., Ltd.",
@@ -110,10 +110,10 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-10-12",
         "BIZRNO": "8028803696",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
-        "DMF_PERMIT_NO": "20261012---12275-19",
+        "DMF_PERMIT_NO": "수695-21-ND(E)",
         "INGR_KOR_NAME": "에제티미브(미분화)",
         "ENTP_NAME": "아주약품(주)",
         "MNFCTR_NAME": "Zhejiang Tianyu Pharmaceutical Co., Ltd.",
@@ -121,7 +121,7 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-10-12",
         "BIZRNO": "8028803696",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "신물질"
       },
       {
         "DMF_PERMIT_NO": "1293-10-ND",
@@ -234,7 +234,7 @@
         "NOTICE_CODE": "별표1"
       },
       {
-        "DMF_PERMIT_NO": "20261007-209-J-2296",
+        "DMF_PERMIT_NO": "20221130-209-J-1235(E)",
         "INGR_KOR_NAME": "로수바스타틴칼슘",
         "ENTP_NAME": "리더스바이오(주)",
         "MNFCTR_NAME": "Shaoxing Jingxin Pharmaceutical Co., Ltd.",
@@ -245,7 +245,7 @@
         "NOTICE_CODE": "별표1"
       },
       {
-        "DMF_PERMIT_NO": "20261007-209-J-2297",
+        "DMF_PERMIT_NO": "20250509-209-J-1855(B)",
         "INGR_KOR_NAME": "로수바스타틴칼슘(미분화)",
         "ENTP_NAME": "리더스바이오(주)",
         "MNFCTR_NAME": "Shaoxing Jingxin Pharmaceutical Co., Ltd.",
@@ -64785,7 +64785,7 @@
       "NOTICE_CODE": "신물질"
     },
     {
-      "DMF_PERMIT_NO": "20181217-37-C-377-27(3)",
+      "DMF_PERMIT_NO": "20181217-37-C-377-27(A)",
       "INGR_KOR_NAME": "메트포르민염산염",
       "ENTP_NAME": "(주)휴시드",
       "MNFCTR_NAME": "Exemed Pharmaceuticals",
@@ -101052,7 +101052,7 @@
       "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": "20261007-209-J-2297",
+      "DMF_PERMIT_NO": "20250509-209-J-1855(B)",
       "INGR_KOR_NAME": "로수바스타틴칼슘(미분화)",
       "ENTP_NAME": "리더스바이오(주)",
       "MNFCTR_NAME": "Shaoxing Jingxin Pharmaceutical Co., Ltd.",
@@ -101063,7 +101063,7 @@
       "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": "20261007-209-J-2296",
+      "DMF_PERMIT_NO": "20221130-209-J-1235(E)",
       "INGR_KOR_NAME": "로수바스타틴칼슘",
       "ENTP_NAME": "리더스바이오(주)",
       "MNFCTR_NAME": "Shaoxing Jingxin Pharmaceutical Co., Ltd.",
@@ -101184,7 +101184,7 @@
       "NOTICE_CODE": "신물질"
     },
     {
-      "DMF_PERMIT_NO": "20261012---12275-19",
+      "DMF_PERMIT_NO": "수695-21-ND(E)",
       "INGR_KOR_NAME": "에제티미브(미분화)",
       "ENTP_NAME": "아주약품(주)",
       "MNFCTR_NAME": "Zhejiang Tianyu Pharmaceutical Co., Ltd.",
@@ -101192,10 +101192,10 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-10-12",
       "BIZRNO": "8028803696",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "신물질"
     },
     {
-      "DMF_PERMIT_NO": "20261012---12276-105",
+      "DMF_PERMIT_NO": "20260716-209-J-2221(A)",
       "INGR_KOR_NAME": "로수바스타틴칼슘",
       "ENTP_NAME": "아주약품(주)",
       "MNFCTR_NAME": "Zhejiang Menovo Pharmaceutical Co., Ltd.",
@@ -101203,10 +101203,10 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-10-12",
       "BIZRNO": "8028803696",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "1414-13-ND",
       "INGR_KOR_NAME": "에독사반토실산염수화물",
       "ENTP_NAME": "신풍제약(주)",
       "MNFCTR_NAME": "신풍제약(주)",
@@ -101214,7 +101214,7 @@
       "MANUF_COUNTRY_CODE_NM": "대한민국",
       "DMF_PERMIT_DATE": "2026-10-12",
       "BIZRNO": "1348103819",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "신물질"
     }
   ]
 }
