@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-14T00:14:26.941Z",
-  "totalCount": 9173,
-  "fetchedCount": 9173,
+  "generatedAt": "2026-10-15T00:13:12.048Z",
+  "totalCount": 9177,
+  "fetchedCount": 9177,
   "summary": {
     "uniqueCompanies": 441,
     "uniqueCountries": 49,
@@ -50,11 +50,11 @@
     "topCountries": [
       {
         "name": "인도",
-        "count": 3743
+        "count": 3744
       },
       {
         "name": "중국",
-        "count": 2887
+        "count": 2889
       },
       {
         "name": "대한민국",
@@ -86,10 +86,54 @@
       },
       {
         "name": "프랑스",
-        "count": 111
+        "count": 112
       }
     ],
     "recent": [
+      {
+        "DMF_PERMIT_NO": "20261014-84-D-171-14",
+        "INGR_KOR_NAME": "세페핌염산염수화물·L-아르기닌",
+        "ENTP_NAME": "익수제약(주)",
+        "MNFCTR_NAME": "Shenzhen Salubris Pharmaceuticals Co., Ltd.,Shandong Salubris Pharmaceuticals Co., Ltd.",
+        "MNFCTR_PLACE": "No.1, Fenghuanggang Huabao Industrial District, Xixiang, Baoan District, Shenzhen 518102, China,Middle Garden Road, Economic Development Zone, Linyi County, Dezhou City, Shandong Province, China. 251500",
+        "MANUF_COUNTRY_CODE_NM": "중국,중국",
+        "DMF_PERMIT_DATE": "2026-10-14",
+        "BIZRNO": "1268104419",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "수256-8-ND",
+        "INGR_KOR_NAME": "벰페도익산",
+        "ENTP_NAME": "한국다이이찌산쿄(주)",
+        "MNFCTR_NAME": "Neuland Laboratories Limited",
+        "MNFCTR_PLACE": "Unit II - Plot No. 92-94, 257-259, IDA Pashamylaram, Pashamylaram Village, Patancheru Mandal, Sangareddy District - 502 307, Telangana State, India",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-10-14",
+        "BIZRNO": "2208137866",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "수256-10-ND",
+        "INGR_KOR_NAME": "벰페도익산",
+        "ENTP_NAME": "한국다이이찌산쿄(주)",
+        "MNFCTR_NAME": "Corden Pharma Colorado, Inc.",
+        "MNFCTR_PLACE": "2075 55th Street, Boulder, Colorado 80301, United States of America",
+        "MANUF_COUNTRY_CODE_NM": "미국",
+        "DMF_PERMIT_DATE": "2026-10-14",
+        "BIZRNO": "2208137866",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "수256-9-ND",
+        "INGR_KOR_NAME": "벰페도익산",
+        "ENTP_NAME": "한국다이이찌산쿄(주)",
+        "MNFCTR_NAME": "Fareva La Vallée",
+        "MNFCTR_PLACE": "Zone Industrielle De Blavozy, 928 Av Antoine Laurent De Lavoisier, 43700 St Germain Laprade, France",
+        "MANUF_COUNTRY_CODE_NM": "프랑스",
+        "DMF_PERMIT_DATE": "2026-10-14",
+        "BIZRNO": "2208137866",
+        "NOTICE_CODE": ""
+      },
       {
         "DMF_PERMIT_NO": "1414-13-ND",
         "INGR_KOR_NAME": "에독사반토실산염수화물",
@@ -264,50 +308,6 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-10-07",
         "BIZRNO": "2158631491",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20261007-16-K-94-14",
-        "INGR_KOR_NAME": "은행엽 건조엑스",
-        "ENTP_NAME": "(주)알에이치바이오팜",
-        "MNFCTR_NAME": "Zhejiang Conba Pharmaceutical Co., Ltd.",
-        "MNFCTR_PLACE": "No.1 Conba Avenue, Lanxi City, Zhejiang Province, China",
-        "MANUF_COUNTRY_CODE_NM": "중국",
-        "DMF_PERMIT_DATE": "2026-10-07",
-        "BIZRNO": "3218701718",
-        "NOTICE_CODE": "별표1의2"
-      },
-      {
-        "DMF_PERMIT_NO": "수258-63-ND",
-        "INGR_KOR_NAME": "콜산",
-        "ENTP_NAME": "(주)파마피아",
-        "MNFCTR_NAME": "Dipharma Francis S.r.l",
-        "MNFCTR_PLACE": "Via Bissone, 5, 20021, Baranzate(MI), Italy",
-        "MANUF_COUNTRY_CODE_NM": "이탈리아",
-        "DMF_PERMIT_DATE": "2026-10-06",
-        "BIZRNO": "2158631491",
-        "NOTICE_CODE": "신물질"
-      },
-      {
-        "DMF_PERMIT_NO": "수812-25-ND(A)",
-        "INGR_KOR_NAME": "라타노프로스틴부노드",
-        "ENTP_NAME": "(주)국전",
-        "MNFCTR_NAME": "MSN Laboratories Private Limited",
-        "MNFCTR_PLACE": "(Unit-ll) Sy. No. 50, 53, 53/A, 54 & 54/A, Kardanur (Village), Patancheru (Mandal), Sangareddy District, Telangana, Pincode: 502 300, India",
-        "MANUF_COUNTRY_CODE_NM": "인도",
-        "DMF_PERMIT_DATE": "2026-10-02",
-        "BIZRNO": "1168701173",
-        "NOTICE_CODE": "신물질"
-      },
-      {
-        "DMF_PERMIT_NO": "20261002-211-J-2278",
-        "INGR_KOR_NAME": "L-아르기닌염산염",
-        "ENTP_NAME": "후성바이오주식회사",
-        "MNFCTR_NAME": "Emeishan Longteng Biotechnology Co., Ltd.",
-        "MNFCTR_PLACE": "No. 88, Group 1, Nongchang Village, Jiuli Town, Emeishan City, Sichuan Province, China",
-        "MANUF_COUNTRY_CODE_NM": "중국",
-        "DMF_PERMIT_DATE": "2026-10-02",
-        "BIZRNO": "2228701895",
         "NOTICE_CODE": "별표1"
       }
     ]
@@ -101215,6 +101215,50 @@
       "DMF_PERMIT_DATE": "2026-10-12",
       "BIZRNO": "1348103819",
       "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "수256-9-ND",
+      "INGR_KOR_NAME": "벰페도익산",
+      "ENTP_NAME": "한국다이이찌산쿄(주)",
+      "MNFCTR_NAME": "Fareva La Vallée",
+      "MNFCTR_PLACE": "Zone Industrielle De Blavozy, 928 Av Antoine Laurent De Lavoisier, 43700 St Germain Laprade, France",
+      "MANUF_COUNTRY_CODE_NM": "프랑스",
+      "DMF_PERMIT_DATE": "2026-10-14",
+      "BIZRNO": "2208137866",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": "수256-10-ND",
+      "INGR_KOR_NAME": "벰페도익산",
+      "ENTP_NAME": "한국다이이찌산쿄(주)",
+      "MNFCTR_NAME": "Corden Pharma Colorado, Inc.",
+      "MNFCTR_PLACE": "2075 55th Street, Boulder, Colorado 80301, United States of America",
+      "MANUF_COUNTRY_CODE_NM": "미국",
+      "DMF_PERMIT_DATE": "2026-10-14",
+      "BIZRNO": "2208137866",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": "수256-8-ND",
+      "INGR_KOR_NAME": "벰페도익산",
+      "ENTP_NAME": "한국다이이찌산쿄(주)",
+      "MNFCTR_NAME": "Neuland Laboratories Limited",
+      "MNFCTR_PLACE": "Unit II - Plot No. 92-94, 257-259, IDA Pashamylaram, Pashamylaram Village, Patancheru Mandal, Sangareddy District - 502 307, Telangana State, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-10-14",
+      "BIZRNO": "2208137866",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": "20261014-84-D-171-14",
+      "INGR_KOR_NAME": "세페핌염산염수화물·L-아르기닌",
+      "ENTP_NAME": "익수제약(주)",
+      "MNFCTR_NAME": "Shenzhen Salubris Pharmaceuticals Co., Ltd.,Shandong Salubris Pharmaceuticals Co., Ltd.",
+      "MNFCTR_PLACE": "No.1, Fenghuanggang Huabao Industrial District, Xixiang, Baoan District, Shenzhen 518102, China,Middle Garden Road, Economic Development Zone, Linyi County, Dezhou City, Shandong Province, China. 251500",
+      "MANUF_COUNTRY_CODE_NM": "중국,중국",
+      "DMF_PERMIT_DATE": "2026-10-14",
+      "BIZRNO": "1268104419",
+      "NOTICE_CODE": ""
     }
   ]
 }
