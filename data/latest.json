@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-19T02:27:15.043Z",
-  "totalCount": 9184,
-  "fetchedCount": 9184,
+  "generatedAt": "2026-10-20T02:40:26.556Z",
+  "totalCount": 9185,
+  "fetchedCount": 9185,
   "summary": {
     "uniqueCompanies": 441,
     "uniqueCountries": 49,
@@ -54,7 +54,7 @@
       },
       {
         "name": "중국",
-        "count": 2894
+        "count": 2897
       },
       {
         "name": "대한민국",
@@ -62,7 +62,7 @@
       },
       {
         "name": "이탈리아",
-        "count": 460
+        "count": 459
       },
       {
         "name": "스페인",
@@ -90,6 +90,39 @@
       }
     ],
     "recent": [
+      {
+        "DMF_PERMIT_NO": "20261019-132-H-472-56",
+        "INGR_KOR_NAME": "아토르바스타틴칼슘삼수화물",
+        "ENTP_NAME": "(주)휴시드",
+        "MNFCTR_NAME": "Zhejiang Hisoar Chuannan Pharmaceutical Co., Ltd.",
+        "MNFCTR_PLACE": "No 23. Donghai 5th Avenue, Zhejiang Chemical Materials Base Linhai Zone, Linhai City, Zhejiang Province, China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-10-19",
+        "BIZRNO": "2158676130",
+        "NOTICE_CODE": "별표1"
+      },
+      {
+        "DMF_PERMIT_NO": "20260320-209-J-2137(3)",
+        "INGR_KOR_NAME": "로수바스타틴칼슘(미분화)",
+        "ENTP_NAME": "(주)에셀바이오",
+        "MNFCTR_NAME": "﻿Nantong Chanyoo Pharmatech Co., Ltd.",
+        "MNFCTR_PLACE": "No.2 Tonghai Si Road, Yangkou Chemical Industrial Park, Rudong Coastal Economic Development Zone, Nantong, Jiangsu Province 226407, P.R. China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-10-19",
+        "BIZRNO": "2128192140",
+        "NOTICE_CODE": "별표1"
+      },
+      {
+        "DMF_PERMIT_NO": "수719-4-ND",
+        "INGR_KOR_NAME": "에제티미브(미분화)",
+        "ENTP_NAME": "(주)팜피아",
+        "MNFCTR_NAME": "Zhejiang Tianyu Pharmaceutical Co., Ltd",
+        "MNFCTR_PLACE": "No.15, Donghai 5th Avenue, Zhejiang Provincial Chemical and Medical Raw Materials Base Linhai Zone,Zhejiang, China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-10-19",
+        "BIZRNO": "8138100574",
+        "NOTICE_CODE": "신물질"
+      },
       {
         "DMF_PERMIT_NO": "20261015-210-J-2290",
         "INGR_KOR_NAME": "베타메타손포스페이트나트륨",
@@ -275,39 +308,6 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-10-09",
         "BIZRNO": "2128609189",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20261009-211-J-2293",
-        "INGR_KOR_NAME": "칼시포트리올수화물",
-        "ENTP_NAME": "(주)파마피아",
-        "MNFCTR_NAME": "D.K. Pharma Chem Private Limited",
-        "MNFCTR_PLACE": "F-32 / W-7, M.I.D.C., Badlapur, Dist. - Thane - 4221 503. Maharashtra, INDIA",
-        "MANUF_COUNTRY_CODE_NM": "인도",
-        "DMF_PERMIT_DATE": "2026-10-09",
-        "BIZRNO": "2158631491",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "수1004-11-ND",
-        "INGR_KOR_NAME": "닌테다닙에실산염",
-        "ENTP_NAME": "후성바이오주식회사",
-        "MNFCTR_NAME": "Reyoung Pharmaceutical Co.,Ltd.",
-        "MNFCTR_PLACE": "No.1, Ruiyang Road, Yiyuan County, Shandong Province, China",
-        "MANUF_COUNTRY_CODE_NM": "중국",
-        "DMF_PERMIT_DATE": "2026-10-09",
-        "BIZRNO": "2228701895",
-        "NOTICE_CODE": "신물질"
-      },
-      {
-        "DMF_PERMIT_NO": "20070723-85-D-5-05(3)",
-        "INGR_KOR_NAME": "시프로플록사신염산염수화물",
-        "ENTP_NAME": "(주)팜피아",
-        "MNFCTR_NAME": "Zhejiang Guobang Pharmaceutical Co., Ltd.",
-        "MNFCTR_PLACE": "No.6, Weiwu Road, Hangzhou Gulf Shangyu Economic and Technological Development Zone, Zhejiang, China",
-        "MANUF_COUNTRY_CODE_NM": "중국",
-        "DMF_PERMIT_DATE": "2026-10-09",
-        "BIZRNO": "8138100574",
         "NOTICE_CODE": "별표1"
       }
     ]
@@ -1081,17 +1081,6 @@
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2005-08-31",
       "BIZRNO": "1068156683",
-      "NOTICE_CODE": "별표1"
-    },
-    {
-      "DMF_PERMIT_NO": "20050831-34-B-88-03",
-      "INGR_KOR_NAME": "아테놀롤",
-      "ENTP_NAME": "영진약품(주)",
-      "MNFCTR_NAME": "Recordati Industria Chimica  Farmacutica S.p.A",
-      "MNFCTR_PLACE": "Campoverde-Aprilia (LT) - Via Mediana Cisterna 4, Italy",
-      "MANUF_COUNTRY_CODE_NM": "이탈리아",
-      "DMF_PERMIT_DATE": "2005-08-31",
-      "BIZRNO": "2188100352",
       "NOTICE_CODE": "별표1"
     },
     {
@@ -18464,17 +18453,6 @@
       "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": "20121108-201-I-68-03(1)",
-      "INGR_KOR_NAME": "티몰롤말레산염",
-      "ENTP_NAME": "한미약품(주)",
-      "MNFCTR_NAME": "PCAS Finland Oy",
-      "MNFCTR_PLACE": "Messukentankatu 8, FI-20210 Turku, Finland",
-      "MANUF_COUNTRY_CODE_NM": "핀란드",
-      "DMF_PERMIT_DATE": "2013-04-05",
-      "BIZRNO": "1248700613",
-      "NOTICE_CODE": "별표1"
-    },
-    {
       "DMF_PERMIT_NO": "20070328-17-C-217-06(2)",
       "INGR_KOR_NAME": "비페닐디메칠디카르복실레이트",
       "ENTP_NAME": "디비에스팜(주)",
@@ -29178,11 +29156,11 @@
       "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": "20090720-40-C-258-15(3)",
+      "DMF_PERMIT_NO": "20090720-40-C-258-15(A)",
       "INGR_KOR_NAME": "레보세티리진염산염",
       "ENTP_NAME": "㈜하이플",
       "MNFCTR_NAME": "Granules India Limited",
-      "MNFCTR_PLACE": "Plot No 8, Jawaharlal Nehru Pharma City, Tadi Village, Parawada Mandal, Vitsakhapatnam-531021, Andhra Pradesh, India",
+      "MNFCTR_PLACE": "Plot No. 8, J. N. Pharma City, Parawada (M), Vitsakhapatnam District-531 019, Andhra Pradesh, India",
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2016-05-02",
       "BIZRNO": "4338600179",
@@ -101335,6 +101313,39 @@
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2026-10-15",
       "BIZRNO": "2118888827",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "수719-4-ND",
+      "INGR_KOR_NAME": "에제티미브(미분화)",
+      "ENTP_NAME": "(주)팜피아",
+      "MNFCTR_NAME": "Zhejiang Tianyu Pharmaceutical Co., Ltd",
+      "MNFCTR_PLACE": "No.15, Donghai 5th Avenue, Zhejiang Provincial Chemical and Medical Raw Materials Base Linhai Zone,Zhejiang, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-10-19",
+      "BIZRNO": "8138100574",
+      "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "20260320-209-J-2137(3)",
+      "INGR_KOR_NAME": "로수바스타틴칼슘(미분화)",
+      "ENTP_NAME": "(주)에셀바이오",
+      "MNFCTR_NAME": "﻿Nantong Chanyoo Pharmatech Co., Ltd.",
+      "MNFCTR_PLACE": "No.2 Tonghai Si Road, Yangkou Chemical Industrial Park, Rudong Coastal Economic Development Zone, Nantong, Jiangsu Province 226407, P.R. China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-10-19",
+      "BIZRNO": "2128192140",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20261019-132-H-472-56",
+      "INGR_KOR_NAME": "아토르바스타틴칼슘삼수화물",
+      "ENTP_NAME": "(주)휴시드",
+      "MNFCTR_NAME": "Zhejiang Hisoar Chuannan Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "No 23. Donghai 5th Avenue, Zhejiang Chemical Materials Base Linhai Zone, Linhai City, Zhejiang Province, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-10-19",
+      "BIZRNO": "2158676130",
       "NOTICE_CODE": "별표1"
     }
   ]
