@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T02:34:11.763Z",
+  "generatedAt": "2026-10-22T02:39:46.931Z",
   "totalCount": 9191,
   "fetchedCount": 9191,
   "summary": {
@@ -91,7 +91,7 @@
     ],
     "recent": [
       {
-        "DMF_PERMIT_NO": null,
+        "DMF_PERMIT_NO": "20261020-211-J-2314",
         "INGR_KOR_NAME": "베타메타손발레레이트",
         "ENTP_NAME": "인성트레이딩(주)",
         "MNFCTR_NAME": "Great Pacific Exports Pvt. Ltd.",
@@ -99,10 +99,10 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-10-20",
         "BIZRNO": "2118888827",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
-        "DMF_PERMIT_NO": "20261020---12298-21",
+        "DMF_PERMIT_NO": "수695-21-ND(G)",
         "INGR_KOR_NAME": "에제티미브(미분화)",
         "ENTP_NAME": "㈜하이플",
         "MNFCTR_NAME": "Zhejiang Tianyu Pharmaceutical Co., Ltd.",
@@ -110,7 +110,7 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-10-20",
         "BIZRNO": "4338600179",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "신물질"
       },
       {
         "DMF_PERMIT_NO": "20261020-138-H-477-24",
@@ -121,7 +121,7 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-10-20",
         "BIZRNO": "1238641439",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "20200107-209-J-320(A)",
@@ -132,7 +132,7 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-10-20",
         "BIZRNO": "1248191048",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "20261020-211-J-2313",
@@ -143,7 +143,7 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-10-20",
         "BIZRNO": "2118888827",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "20261019-211-J-2311",
@@ -46133,7 +46133,7 @@
       "INGR_KOR_NAME": "미분화에토돌락",
       "ENTP_NAME": "(주)우신라보타치",
       "MNFCTR_NAME": "Zakłady Farmaceutyczne Polpharma S.A",
-      "MNFCTR_PLACE": "19. Pelplinska Str, 83-200 Starogard Gdanski, Poland",
+      "MNFCTR_PLACE": "ul. Pelplińska 19, 83-200 Starogard Gdański, POLAND",
       "MANUF_COUNTRY_CODE_NM": "폴란드",
       "DMF_PERMIT_DATE": "2020-03-24",
       "BIZRNO": "1138649827",
@@ -85422,7 +85422,7 @@
     },
     {
       "DMF_PERMIT_NO": "수289-31-ND",
-      "INGR_KOR_NAME": "에독사반염산염수화물",
+      "INGR_KOR_NAME": "에독사반토실산염수화물",
       "ENTP_NAME": "에이스바이오팜주식회사",
       "MNFCTR_NAME": "Metrochem API Pvt Ltd, Unit- IV",
       "MNFCTR_PLACE": "Plot No. 34B, 40B & 60B, J.N. Pharma City, Thanam (V) Parawada (M), Anakapalli District – 531 021, Andhra Pradesh, India. ",
@@ -89140,7 +89140,7 @@
     },
     {
       "DMF_PERMIT_NO": "수258-45-ND",
-      "INGR_KOR_NAME": "리바록사반",
+      "INGR_KOR_NAME": "미분화리바록사반",
       "ENTP_NAME": "(주)파마피아",
       "MNFCTR_NAME": "Hinye Pharmaceutical Co., Ltd",
       "MNFCTR_PLACE": "No.109, Kangtian Road, Changsha National Biological Industrial Base, Hunan Province, China",
@@ -98427,7 +98427,7 @@
       "INGR_KOR_NAME": "탄산수소나트륨",
       "ENTP_NAME": "(주)폴라리스에이아이파마",
       "MNFCTR_NAME": "Hebei Huachen Pharmaceutical Group Co., Ltd.",
-      "MNFCTR_PLACE": "Jiucheng Industrial Park, Huanghua City, China",
+      "MNFCTR_PLACE": "Huanghua Economic and Technology Development Zone, North of 307 National Road, Jiucheng Industrial Park, Hebei Province, China",
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-06-30",
       "BIZRNO": "1238147345",
@@ -101368,7 +101368,7 @@
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2026-10-20",
       "BIZRNO": "2118888827",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
       "DMF_PERMIT_NO": "20200107-209-J-320(A)",
@@ -101379,7 +101379,7 @@
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2026-10-20",
       "BIZRNO": "1248191048",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
       "DMF_PERMIT_NO": "20261020-138-H-477-24",
@@ -101390,10 +101390,10 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-10-20",
       "BIZRNO": "1238641439",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": "20261020---12298-21",
+      "DMF_PERMIT_NO": "수695-21-ND(G)",
       "INGR_KOR_NAME": "에제티미브(미분화)",
       "ENTP_NAME": "㈜하이플",
       "MNFCTR_NAME": "Zhejiang Tianyu Pharmaceutical Co., Ltd.",
@@ -101401,10 +101401,10 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-10-20",
       "BIZRNO": "4338600179",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "신물질"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "20261020-211-J-2314",
       "INGR_KOR_NAME": "베타메타손발레레이트",
       "ENTP_NAME": "인성트레이딩(주)",
       "MNFCTR_NAME": "Great Pacific Exports Pvt. Ltd.",
@@ -101412,7 +101412,7 @@
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2026-10-20",
       "BIZRNO": "2118888827",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     }
   ]
 }
