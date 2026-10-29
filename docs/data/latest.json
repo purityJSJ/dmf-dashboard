@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-28T03:06:45.964Z",
-  "totalCount": 9198,
-  "fetchedCount": 9198,
+  "generatedAt": "2026-10-29T03:33:18.382Z",
+  "totalCount": 9199,
+  "fetchedCount": 9199,
   "summary": {
     "uniqueCompanies": 441,
     "uniqueCountries": 49,
@@ -50,7 +50,7 @@
     "topCountries": [
       {
         "name": "인도",
-        "count": 3749
+        "count": 3750
       },
       {
         "name": "중국",
@@ -58,7 +58,7 @@
       },
       {
         "name": "대한민국",
-        "count": 1311
+        "count": 1310
       },
       {
         "name": "이탈리아",
@@ -74,7 +74,7 @@
       },
       {
         "name": "일본",
-        "count": 180
+        "count": 181
       },
       {
         "name": "스위스",
@@ -90,6 +90,28 @@
       }
     ],
     "recent": [
+      {
+        "DMF_PERMIT_NO": "20150824-132-H-281-31(4)",
+        "INGR_KOR_NAME": "아토르바스타틴칼슘삼수화물",
+        "ENTP_NAME": "케미팜주식회사",
+        "MNFCTR_NAME": "Morepen Laboratories Limited",
+        "MNFCTR_PLACE": "Village Malkumajra (Morepen Village), Baddi Nalagarh Road, Distt Solan, Himachal Pradesh, 173 205, India",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-10-28",
+        "BIZRNO": "1248724013",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "20261028-209-J-2319",
+        "INGR_KOR_NAME": "에메다스틴푸마르산염",
+        "ENTP_NAME": "코오롱제약(주)",
+        "MNFCTR_NAME": "Shiratori Pharmaceutical Co., Ltd.",
+        "MNFCTR_PLACE": "54 Shinminato, Mihama-ku, Chiba-shi, Chiba, 261-0002, Japan",
+        "MANUF_COUNTRY_CODE_NM": "일본",
+        "DMF_PERMIT_DATE": "2026-10-28",
+        "BIZRNO": "3068507363",
+        "NOTICE_CODE": ""
+      },
       {
         "DMF_PERMIT_NO": "20261026-210-J-2303",
         "INGR_KOR_NAME": "플레카이니드아세테이트",
@@ -286,28 +308,6 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-10-20",
         "BIZRNO": "1248191048",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20261020-211-J-2313",
-        "INGR_KOR_NAME": "베타메타손디프로피오네이트",
-        "ENTP_NAME": "인성트레이딩(주)",
-        "MNFCTR_NAME": "Great Pacific Exports Pvt. Ltd.",
-        "MNFCTR_PLACE": "Plot No. D-5/8 & 5/9, T.T.C. Industrial Area, M.I.D.C., Turbhe, Navi Mumbai - 400 703, Maharashtra, India",
-        "MANUF_COUNTRY_CODE_NM": "인도",
-        "DMF_PERMIT_DATE": "2026-10-20",
-        "BIZRNO": "2118888827",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20261019-211-J-2311",
-        "INGR_KOR_NAME": "락툴로오스 액",
-        "ENTP_NAME": "한국애보트(유)",
-        "MNFCTR_NAME": "Abbott Laboratories Co.",
-        "MNFCTR_PLACE": "75 Boul. Pierre-Roux Est, Victoriaville, Quebec, G6P 6S9, Canada",
-        "MANUF_COUNTRY_CODE_NM": "캐나다",
-        "DMF_PERMIT_DATE": "2026-10-19",
-        "BIZRNO": "1208154740",
         "NOTICE_CODE": "별표1"
       }
     ]
@@ -9763,7 +9763,7 @@
       "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": "20070928-78-D-23-07(3)",
+      "DMF_PERMIT_NO": "20110630-78-D-174-23",
       "INGR_KOR_NAME": "글리메피리드",
       "ENTP_NAME": "화일약품(주)",
       "MNFCTR_NAME": "Zydus Lifesciences Limited,화일약품(주)",
@@ -30814,17 +30814,6 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2016-12-07",
       "BIZRNO": "1420171960",
-      "NOTICE_CODE": "별표1"
-    },
-    {
-      "DMF_PERMIT_NO": "20151126-117-G-132-08(1)",
-      "INGR_KOR_NAME": "세포티암염산염",
-      "ENTP_NAME": "영진약품(주)",
-      "MNFCTR_NAME": "에스피씨(주)",
-      "MNFCTR_PLACE": "경기도 평택시",
-      "MANUF_COUNTRY_CODE_NM": "대한민국",
-      "DMF_PERMIT_DATE": "2016-12-14",
-      "BIZRNO": "2188100352",
       "NOTICE_CODE": "별표1"
     },
     {
@@ -101490,6 +101479,28 @@
       "DMF_PERMIT_DATE": "2026-10-26",
       "BIZRNO": "8318600766",
       "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20261028-209-J-2319",
+      "INGR_KOR_NAME": "에메다스틴푸마르산염",
+      "ENTP_NAME": "코오롱제약(주)",
+      "MNFCTR_NAME": "Shiratori Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "54 Shinminato, Mihama-ku, Chiba-shi, Chiba, 261-0002, Japan",
+      "MANUF_COUNTRY_CODE_NM": "일본",
+      "DMF_PERMIT_DATE": "2026-10-28",
+      "BIZRNO": "3068507363",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": "20150824-132-H-281-31(4)",
+      "INGR_KOR_NAME": "아토르바스타틴칼슘삼수화물",
+      "ENTP_NAME": "케미팜주식회사",
+      "MNFCTR_NAME": "Morepen Laboratories Limited",
+      "MNFCTR_PLACE": "Village Malkumajra (Morepen Village), Baddi Nalagarh Road, Distt Solan, Himachal Pradesh, 173 205, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-10-28",
+      "BIZRNO": "1248724013",
+      "NOTICE_CODE": ""
     }
   ]
 }
