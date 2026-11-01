@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T03:20:23.747Z",
+  "generatedAt": "2026-11-01T03:19:16.232Z",
   "totalCount": 9207,
   "fetchedCount": 9207,
   "summary": {
@@ -99,7 +99,7 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-10-30",
         "BIZRNO": "7808703443",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "20261030-181-I-772-10",
@@ -110,7 +110,7 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-10-30",
         "BIZRNO": "1208154740",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "20261030-211-J-2299",
@@ -121,7 +121,7 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-10-30",
         "BIZRNO": "2148890579",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "20261029-211-J-2318",
@@ -101566,7 +101566,7 @@
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2026-10-30",
       "BIZRNO": "2148890579",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
       "DMF_PERMIT_NO": "20261030-181-I-772-10",
@@ -101577,7 +101577,7 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-10-30",
       "BIZRNO": "1208154740",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
       "DMF_PERMIT_NO": "20261030---12328-44",
@@ -101588,7 +101588,7 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-10-30",
       "BIZRNO": "7808703443",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     }
   ]
 }
