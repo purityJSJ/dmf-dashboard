@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T03:29:05.049Z",
+  "generatedAt": "2026-11-03T04:38:22.878Z",
   "totalCount": 9207,
   "fetchedCount": 9207,
   "summary": {
@@ -91,7 +91,18 @@
     ],
     "recent": [
       {
-        "DMF_PERMIT_NO": "20261030---12328-44",
+        "DMF_PERMIT_NO": null,
+        "INGR_KOR_NAME": "펜타닐",
+        "ENTP_NAME": "백수의약(주)",
+        "MNFCTR_NAME": "RUSAN PHARMA LTD.",
+        "MNFCTR_PLACE": "PLOT NO. 6406, 6407 & 6411, GIDC ESTATE, ANKLESHWAR - 393 002, DIST. - BHARUCH, GUJARAT STATE, INDIA",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-11-02",
+        "BIZRNO": "1068102402",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "20261030-209-J-2309",
         "INGR_KOR_NAME": "메만틴염산염",
         "ENTP_NAME": "(주)유피아이코리아앤코",
         "MNFCTR_NAME": "Zhejiang SyncoTide Bio-pharmacuetical co., Ltd.",
@@ -297,17 +308,6 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-10-26",
         "BIZRNO": "1248137632",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20261026-211-J-2322",
-        "INGR_KOR_NAME": "니코틴산아미드",
-        "ENTP_NAME": "태왕물산(주)",
-        "MNFCTR_NAME": "M/s Western Drugs Limited.",
-        "MNFCTR_PLACE": "F-271(A), Mewar Industrial Area, Madri, Udaipur-313003, Rajasthan, India",
-        "MANUF_COUNTRY_CODE_NM": "인도",
-        "DMF_PERMIT_DATE": "2026-10-26",
-        "BIZRNO": "2048105227",
         "NOTICE_CODE": "별표1"
       }
     ]
@@ -73577,8 +73577,8 @@
       "DMF_PERMIT_NO": "20120330-145-I-36-01(22)",
       "INGR_KOR_NAME": "덱시부프로펜",
       "ENTP_NAME": "(주)케이알팜",
-      "MNFCTR_NAME": "Hubei Biocause Heilen Pharmaceutical Co., Ltd",
-      "MNFCTR_PLACE": "122 Yangwan Road, Jingmen City, Hubei Province, 448000, PR China",
+      "MNFCTR_NAME": "Hubei Biocause Heilen Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "122 Yangwan Road, Jingmen City, Hubei Province, 448002, P.R. China",
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2023-11-20",
       "BIZRNO": "2158630871",
@@ -79841,17 +79841,6 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2024-12-04",
       "BIZRNO": "1248575430",
-      "NOTICE_CODE": "별표1"
-    },
-    {
-      "DMF_PERMIT_NO": "20210511-209-J-982(2)",
-      "INGR_KOR_NAME": "이토프리드염산염",
-      "ENTP_NAME": "제이더블유중외제약(주)",
-      "MNFCTR_NAME": "Ami Lifesciences Pvt. Ltd.",
-      "MNFCTR_PLACE": "Block No. 82/B, ECP Road, At & Post. Karakhadi-391 450, Taluka:Padra, Dist.Vadodara, Gujarat, India",
-      "MANUF_COUNTRY_CODE_NM": "인도",
-      "DMF_PERMIT_DATE": "2024-12-05",
-      "BIZRNO": "1188102477",
       "NOTICE_CODE": "별표1"
     },
     {
@@ -101580,7 +101569,7 @@
       "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": "20261030---12328-44",
+      "DMF_PERMIT_NO": "20261030-209-J-2309",
       "INGR_KOR_NAME": "메만틴염산염",
       "ENTP_NAME": "(주)유피아이코리아앤코",
       "MNFCTR_NAME": "Zhejiang SyncoTide Bio-pharmacuetical co., Ltd.",
@@ -101589,6 +101578,17 @@
       "DMF_PERMIT_DATE": "2026-10-30",
       "BIZRNO": "7808703443",
       "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": null,
+      "INGR_KOR_NAME": "펜타닐",
+      "ENTP_NAME": "백수의약(주)",
+      "MNFCTR_NAME": "RUSAN PHARMA LTD.",
+      "MNFCTR_PLACE": "PLOT NO. 6406, 6407 & 6411, GIDC ESTATE, ANKLESHWAR - 393 002, DIST. - BHARUCH, GUJARAT STATE, INDIA",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-11-02",
+      "BIZRNO": "1068102402",
+      "NOTICE_CODE": ""
     }
   ]
 }
