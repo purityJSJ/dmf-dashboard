@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-03T04:38:22.878Z",
-  "totalCount": 9207,
-  "fetchedCount": 9207,
+  "generatedAt": "2026-11-04T03:57:35.853Z",
+  "totalCount": 9208,
+  "fetchedCount": 9208,
   "summary": {
     "uniqueCompanies": 441,
     "uniqueCountries": 49,
@@ -50,7 +50,7 @@
     "topCountries": [
       {
         "name": "인도",
-        "count": 3752
+        "count": 3753
       },
       {
         "name": "중국",
@@ -91,7 +91,18 @@
     ],
     "recent": [
       {
-        "DMF_PERMIT_NO": null,
+        "DMF_PERMIT_NO": "20261103-46-C-463-18",
+        "INGR_KOR_NAME": "에페리손염산염",
+        "ENTP_NAME": "주식회사제이엘바이오",
+        "MNFCTR_NAME": "Bioxera Pharma Pvt. Ltd.",
+        "MNFCTR_PLACE": "Plot No. N-57, Anand Nagar, M.I.D.C., Additional Ambernath, Ambernath Thane 421506, Maharashtra State, India",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-11-03",
+        "BIZRNO": "7818802099",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "20261102-211-J-2307",
         "INGR_KOR_NAME": "펜타닐",
         "ENTP_NAME": "백수의약(주)",
         "MNFCTR_NAME": "RUSAN PHARMA LTD.",
@@ -99,7 +110,7 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-11-02",
         "BIZRNO": "1068102402",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "20261030-209-J-2309",
@@ -298,17 +309,6 @@
         "DMF_PERMIT_DATE": "2026-10-26",
         "BIZRNO": "1708103488",
         "NOTICE_CODE": "신물질"
-      },
-      {
-        "DMF_PERMIT_NO": "20200709-73-A-363-05(4)",
-        "INGR_KOR_NAME": "플루마제닐",
-        "ENTP_NAME": "하나제약(주)",
-        "MNFCTR_NAME": "Hubei Haosun Pharmaceutical Co., Ltd",
-        "MNFCTR_PLACE": "No. 20, Juxian Road Gedian Economic & Technology Development Area, Hubei, 436070, P.R. China",
-        "MANUF_COUNTRY_CODE_NM": "중국",
-        "DMF_PERMIT_DATE": "2026-10-26",
-        "BIZRNO": "1248137632",
-        "NOTICE_CODE": "별표1"
       }
     ]
   },
@@ -83267,12 +83267,12 @@
     {
       "DMF_PERMIT_NO": "20250314-209-J-1802",
       "INGR_KOR_NAME": "미세올란자핀",
-      "ENTP_NAME": "한국릴리(유)",
+      "ENTP_NAME": "(주)보령",
       "MNFCTR_NAME": "Cambrex, Karlskoga AB",
       "MNFCTR_PLACE": "Björkborns Industriområde Karlskoga, 691 85, Sweden",
       "MANUF_COUNTRY_CODE_NM": "스웨덴",
       "DMF_PERMIT_DATE": "2025-03-14",
-      "BIZRNO": "1208114414",
+      "BIZRNO": "2088100281",
       "NOTICE_CODE": "별표1"
     },
     {
@@ -101580,7 +101580,7 @@
       "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "20261102-211-J-2307",
       "INGR_KOR_NAME": "펜타닐",
       "ENTP_NAME": "백수의약(주)",
       "MNFCTR_NAME": "RUSAN PHARMA LTD.",
@@ -101588,6 +101588,17 @@
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2026-11-02",
       "BIZRNO": "1068102402",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20261103-46-C-463-18",
+      "INGR_KOR_NAME": "에페리손염산염",
+      "ENTP_NAME": "주식회사제이엘바이오",
+      "MNFCTR_NAME": "Bioxera Pharma Pvt. Ltd.",
+      "MNFCTR_PLACE": "Plot No. N-57, Anand Nagar, M.I.D.C., Additional Ambernath, Ambernath Thane 421506, Maharashtra State, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-11-03",
+      "BIZRNO": "7818802099",
       "NOTICE_CODE": ""
     }
   ]
