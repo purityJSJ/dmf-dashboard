@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-05T04:19:07.813Z",
-  "totalCount": 9211,
-  "fetchedCount": 9211,
+  "generatedAt": "2026-11-06T04:15:44.957Z",
+  "totalCount": 9207,
+  "fetchedCount": 9207,
   "summary": {
     "uniqueCompanies": 441,
     "uniqueCountries": 49,
@@ -50,11 +50,11 @@
     "topCountries": [
       {
         "name": "인도",
-        "count": 3753
+        "count": 3750
       },
       {
         "name": "중국",
-        "count": 2923
+        "count": 2921
       },
       {
         "name": "대한민국",
@@ -99,10 +99,10 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-11-04",
         "BIZRNO": "2078100406",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "신물질"
       },
       {
-        "DMF_PERMIT_NO": null,
+        "DMF_PERMIT_NO": "20261104-210-J-2308",
         "INGR_KOR_NAME": "아즈트레오남",
         "ENTP_NAME": "한국화이자제약(주)",
         "MNFCTR_NAME": "Curia France S.A.S",
@@ -110,7 +110,7 @@
         "MANUF_COUNTRY_CODE_NM": "프랑스",
         "DMF_PERMIT_DATE": "2026-11-04",
         "BIZRNO": "2078100406",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "20261104-211-J-2323",
@@ -121,7 +121,7 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-11-04",
         "BIZRNO": "2148189068",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "20240403-138-H-421-18(2)",
@@ -132,7 +132,7 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-11-04",
         "BIZRNO": "2158717180",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "20261103-46-C-463-18",
@@ -143,7 +143,7 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-11-03",
         "BIZRNO": "7818802099",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "20261102-211-J-2307",
@@ -8292,9 +8292,9 @@
       "DMF_PERMIT_NO": "20110315-130-H-109-13",
       "INGR_KOR_NAME": "암로디핀니코틴산염",
       "ENTP_NAME": "에이치엘지노믹스(주)",
-      "MNFCTR_NAME": "에이치엘지노믹스(주),M/s. Prudence Pharma Chem",
+      "MNFCTR_NAME": "에이치엘지노믹스(주)",
       "MNFCTR_PLACE": "경기도 용인시 처인구",
-      "MANUF_COUNTRY_CODE_NM": "대한민국,인도",
+      "MANUF_COUNTRY_CODE_NM": "대한민국",
       "DMF_PERMIT_DATE": "2011-03-15",
       "BIZRNO": "1358141887",
       "NOTICE_CODE": "별표1"
@@ -17122,17 +17122,6 @@
       "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": "20121212-143-I-153-03(2)",
-      "INGR_KOR_NAME": "나프록센",
-      "ENTP_NAME": "(주)종근당",
-      "MNFCTR_NAME": "Zhejiang Charioteer Pharmaceutical Co., Ltd.",
-      "MNFCTR_PLACE": "Tongyuanxi, Dazhan, Xianju, Zhejiang\r\n   Province. P.R. China",
-      "MANUF_COUNTRY_CODE_NM": "중국",
-      "DMF_PERMIT_DATE": "2013-01-24",
-      "BIZRNO": "3128560679",
-      "NOTICE_CODE": "별표1"
-    },
-    {
       "DMF_PERMIT_NO": "20120302-183-I-34-01(2)",
       "INGR_KOR_NAME": "레비티라세탐",
       "ENTP_NAME": "성이바이오(주)",
@@ -17680,17 +17669,6 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2013-02-22",
       "BIZRNO": "2148189068",
-      "NOTICE_CODE": "별표1"
-    },
-    {
-      "DMF_PERMIT_NO": "20130121-143-I-209-04(4)",
-      "INGR_KOR_NAME": "나프록센나트륨",
-      "ENTP_NAME": "(주)종근당",
-      "MNFCTR_NAME": "Zhejiang Charioteer Pharmaceutical Co., Ltd.",
-      "MNFCTR_PLACE": "Tongyuanxi, Dazhan, Xianju, Zhejiang Province. P.R. China",
-      "MANUF_COUNTRY_CODE_NM": "중국",
-      "DMF_PERMIT_DATE": "2013-02-22",
-      "BIZRNO": "3128560679",
       "NOTICE_CODE": "별표1"
     },
     {
@@ -33611,28 +33589,6 @@
       "NOTICE_CODE": "신물질"
     },
     {
-      "DMF_PERMIT_NO": "20130708-143-I-374-07(10)",
-      "INGR_KOR_NAME": "나프록센",
-      "ENTP_NAME": "(주)종근당",
-      "MNFCTR_NAME": "Divi’s Laboratories Limited",
-      "MNFCTR_PLACE": "Unit-I, Lingojigudem Village, Choutuppal Mandal, Nalgonda District-508 252, Telangana, INDIA",
-      "MANUF_COUNTRY_CODE_NM": "인도",
-      "DMF_PERMIT_DATE": "2017-12-08",
-      "BIZRNO": "3128560679",
-      "NOTICE_CODE": "별표1"
-    },
-    {
-      "DMF_PERMIT_NO": "20130131-143-I-232-05(5)",
-      "INGR_KOR_NAME": "나프록센나트륨",
-      "ENTP_NAME": "(주)종근당",
-      "MNFCTR_NAME": "Divi's Laboratories Limited",
-      "MNFCTR_PLACE": "Chippada Village, Annavaram Post, Bheemunipatnam Mandal, Visakhapatnam District, Andhra Pradesh, India",
-      "MANUF_COUNTRY_CODE_NM": "인도",
-      "DMF_PERMIT_DATE": "2017-12-08",
-      "BIZRNO": "3128560679",
-      "NOTICE_CODE": "별표1"
-    },
-    {
       "DMF_PERMIT_NO": "20130507-144-I-204-04(19)",
       "INGR_KOR_NAME": "니자티딘",
       "ENTP_NAME": "리후헬스케어(주)",
@@ -41784,6 +41740,17 @@
       "NOTICE_CODE": "별표1"
     },
     {
+      "DMF_PERMIT_NO": "20190624-71-B-419-08",
+      "INGR_KOR_NAME": "프레드니솔론발레로아세테이트",
+      "ENTP_NAME": "에이징생명과학(주)",
+      "MNFCTR_NAME": "Steroid S.p.A,[출발물질 ‘프레드니솔론’ 제조소 ③] Zhejiang Xianju Pharmaceutical Co. Ltd.,[출발물질 ‘프레드니솔론’ 제조소①] Henan Lihua Pharamceutical Co., Ltd,[출발물질 ‘프레드니솔론’ 제조소 ②] Tianjin Tianyao Pharmaceuticals Co., Ltd.",
+      "MNFCTR_PLACE": "Viale Spagna, 156 20093 Cologno Monese (MI), Italy,[출발물질 ‘프레드니솔론’ 제조소 ③] No. 15 West Fengxi Road, Modern Industrial Park, Xianju, Taizhou Zhejiang China,[출발물질 ‘프레드니솔론’ 제조소①] Middle of Huanghe Street, Anyang Hi-Tech Industry Development Zone, Anyang, 455000, Henau, China,[출발물질 ‘프레드니솔론’ 제조소 ②] No. 19, Xinye 9th Street, West Area of Tianjin Economic Technololgical Development Area, Tianjin, 300462, China",
+      "MANUF_COUNTRY_CODE_NM": "이탈리아,중국,중국,중국",
+      "DMF_PERMIT_DATE": "2019-06-24",
+      "BIZRNO": "2148890579",
+      "NOTICE_CODE": "별표1"
+    },
+    {
       "DMF_PERMIT_NO": "20190624-210-J-378",
       "INGR_KOR_NAME": "설프로스톤",
       "ENTP_NAME": "(주)새한제약",
@@ -41891,17 +41858,6 @@
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2019-06-26",
       "BIZRNO": "3108800924",
-      "NOTICE_CODE": "별표1"
-    },
-    {
-      "DMF_PERMIT_NO": "20190624-71-B-419-08",
-      "INGR_KOR_NAME": "프레드니솔론발레로아세테이트",
-      "ENTP_NAME": "에이징생명과학(주)",
-      "MNFCTR_NAME": "Steroid S.p.A,[출발물질 ‘프레드니솔론’ 제조소 ③] Zhejiang Xianju Pharmaceutical Co. Ltd.,[출발물질 ‘프레드니솔론’ 제조소①] Henan Lihua Pharamceutical Co., Ltd,[출발물질 ‘프레드니솔론’ 제조소 ②] Tianjin Tianyao Pharmaceuticals Co., Ltd.",
-      "MNFCTR_PLACE": "Viale Spagna, 156 20093 Cologno Monese (MI), Italy,[출발물질 ‘프레드니솔론’ 제조소 ③] No. 15 West Fengxi Road, Modern Industrial Park, Xianju, Taizhou Zhejiang China,[출발물질 ‘프레드니솔론’ 제조소①] Middle of Huanghe Street, Anyang Hi-Tech Industry Development Zone, Anyang, 455000, Henau, China,[출발물질 ‘프레드니솔론’ 제조소 ②] No. 19, Xinye 9th Street, West Area of Tianjin Economic Technololgical Development Area, Tianjin, 300462, China",
-      "MANUF_COUNTRY_CODE_NM": "이탈리아,중국,중국,중국",
-      "DMF_PERMIT_DATE": "2019-06-24",
-      "BIZRNO": "2148890579",
       "NOTICE_CODE": "별표1"
     },
     {
@@ -101588,7 +101544,7 @@
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2026-11-03",
       "BIZRNO": "7818802099",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
       "DMF_PERMIT_NO": "20240403-138-H-421-18(2)",
@@ -101599,7 +101555,7 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-11-04",
       "BIZRNO": "2158717180",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
       "DMF_PERMIT_NO": "20261104-211-J-2323",
@@ -101610,10 +101566,10 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-11-04",
       "BIZRNO": "2148189068",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "20261104-210-J-2308",
       "INGR_KOR_NAME": "아즈트레오남",
       "ENTP_NAME": "한국화이자제약(주)",
       "MNFCTR_NAME": "Curia France S.A.S",
@@ -101621,7 +101577,7 @@
       "MANUF_COUNTRY_CODE_NM": "프랑스",
       "DMF_PERMIT_DATE": "2026-11-04",
       "BIZRNO": "2078100406",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
       "DMF_PERMIT_NO": "수87-45-ND",
@@ -101632,7 +101588,7 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-11-04",
       "BIZRNO": "2078100406",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "신물질"
     }
   ]
 }
