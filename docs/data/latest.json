@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-06T04:15:44.957Z",
-  "totalCount": 9207,
-  "fetchedCount": 9207,
+  "generatedAt": "2026-11-07T03:46:59.991Z",
+  "totalCount": 9208,
+  "fetchedCount": 9208,
   "summary": {
     "uniqueCompanies": 441,
     "uniqueCountries": 49,
@@ -106,7 +106,7 @@
         "INGR_KOR_NAME": "아즈트레오남",
         "ENTP_NAME": "한국화이자제약(주)",
         "MNFCTR_NAME": "Curia France S.A.S",
-        "MNFCTR_PLACE": "Avenue Du Docteur Nicole Bru, Tonneins, 47400, France",
+        "MNFCTR_PLACE": "Avenue Du Docteur Nicole Bru,Tonneins, 47400, France",
         "MANUF_COUNTRY_CODE_NM": "프랑스",
         "DMF_PERMIT_DATE": "2026-11-04",
         "BIZRNO": "2078100406",
@@ -90602,7 +90602,7 @@
       "NOTICE_CODE": "신물질"
     },
     {
-      "DMF_PERMIT_NO": "수173-31-ND(4)",
+      "DMF_PERMIT_NO": "수173-31-ND(A)",
       "INGR_KOR_NAME": "에제티미브(미분화)",
       "ENTP_NAME": "(주)에스지바이오켐",
       "MNFCTR_NAME": "MSN Laboratories Private Limited",
@@ -101573,7 +101573,7 @@
       "INGR_KOR_NAME": "아즈트레오남",
       "ENTP_NAME": "한국화이자제약(주)",
       "MNFCTR_NAME": "Curia France S.A.S",
-      "MNFCTR_PLACE": "Avenue Du Docteur Nicole Bru, Tonneins, 47400, France",
+      "MNFCTR_PLACE": "Avenue Du Docteur Nicole Bru,Tonneins, 47400, France",
       "MANUF_COUNTRY_CODE_NM": "프랑스",
       "DMF_PERMIT_DATE": "2026-11-04",
       "BIZRNO": "2078100406",
@@ -101589,6 +101589,17 @@
       "DMF_PERMIT_DATE": "2026-11-04",
       "BIZRNO": "2078100406",
       "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": null,
+      "INGR_KOR_NAME": "아바신캡타드페골나트륨",
+      "ENTP_NAME": "한국아스텔라스제약(주)",
+      "MNFCTR_NAME": "Agilent Technologies, Inc.",
+      "MNFCTR_PLACE": "5555 Airport Boulevard, Suite 100 Boulder, Colorado 80301, USA",
+      "MANUF_COUNTRY_CODE_NM": "미국",
+      "DMF_PERMIT_DATE": "2026-09-23",
+      "BIZRNO": "1208141338",
+      "NOTICE_CODE": ""
     }
   ]
 }
