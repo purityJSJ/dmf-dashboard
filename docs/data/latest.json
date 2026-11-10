@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-09T03:43:45.499Z",
-  "totalCount": 9208,
-  "fetchedCount": 9208,
+  "generatedAt": "2026-11-10T05:17:21.818Z",
+  "totalCount": 9213,
+  "fetchedCount": 9213,
   "summary": {
     "uniqueCompanies": 441,
     "uniqueCountries": 49,
@@ -32,7 +32,7 @@
       },
       {
         "name": "화일약품(주)",
-        "count": 189
+        "count": 190
       },
       {
         "name": "(주)마성엘에스",
@@ -44,17 +44,17 @@
       },
       {
         "name": "(주)성진엑심",
-        "count": 153
+        "count": 154
       }
     ],
     "topCountries": [
       {
         "name": "인도",
-        "count": 3750
+        "count": 3752
       },
       {
         "name": "중국",
-        "count": 2921
+        "count": 2924
       },
       {
         "name": "대한민국",
@@ -90,6 +90,61 @@
       }
     ],
     "recent": [
+      {
+        "DMF_PERMIT_NO": "20070928-78-D-23-07(11)",
+        "INGR_KOR_NAME": "글리메피리드",
+        "ENTP_NAME": "화일약품(주)",
+        "MNFCTR_NAME": "Zydus Lifesciences Limited",
+        "MNFCTR_PLACE": "291,G.I.D.C Industrial Estate Ankleshwar-393 002, distibharuch, Gujarat state, India",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-11-09",
+        "BIZRNO": "1248575430",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "20261109-211-J-2315",
+        "INGR_KOR_NAME": "무피로신",
+        "ENTP_NAME": "(주)성진엑심",
+        "MNFCTR_NAME": "Sichuan Novals Pharmaceuticals Co., Ltd",
+        "MNFCTR_PLACE": "No.16 Mid-Section of Industry Avenue, Qinglong Town, Pengshan County, Meishan, Sichuan, China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-11-09",
+        "BIZRNO": "1058529537",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "수97-10-ND",
+        "INGR_KOR_NAME": "피타바스타틴칼슘수화물",
+        "ENTP_NAME": "파마라인(주)",
+        "MNFCTR_NAME": "CTX Lifesciences Pvt. Ltd.",
+        "MNFCTR_PLACE": "Block No. 251/B, 252/B, 253, 254, 255, 256, 258/B, 276, 277, 278/P, 279, 280, 281, 282, 283/P, 284/P, Sachin GIDC, Near Gabheni Chokdi, Sachin, Surat, Gujarat-394230, INDIA",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-11-09",
+        "BIZRNO": "2148813077",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "20261109-210-J-2310",
+        "INGR_KOR_NAME": "싸이모신-알파1",
+        "ENTP_NAME": "익수제약(주)",
+        "MNFCTR_NAME": "Suzhou Tianma Pharma Group Tianji Bio-Pharmaceutical Co., Ltd.",
+        "MNFCTR_PLACE": "No. 77, Haichuang Road, Haiyu Town, Changshu, Suzhou, Jiangsu, China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-11-09",
+        "BIZRNO": "1268104419",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "20221130-209-J-1235(F)",
+        "INGR_KOR_NAME": "로수바스타틴칼슘",
+        "ENTP_NAME": "(주)아이티켐",
+        "MNFCTR_NAME": "Shaoxing Jingxin Pharmaceutical Co., Ltd.",
+        "MNFCTR_PLACE": "No. 31 Weisan Road, Hangzhou Bay Shangyu Economic and Technological Development Area, Zhejiang Province, China-312369",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-11-09",
+        "BIZRNO": "6178156392",
+        "NOTICE_CODE": ""
+      },
       {
         "DMF_PERMIT_NO": "수87-45-ND",
         "INGR_KOR_NAME": "아비박탐나트륨",
@@ -253,61 +308,6 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-10-28",
         "BIZRNO": "4538103141",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20261028-211-J-2304",
-        "INGR_KOR_NAME": "클로르족사존",
-        "ENTP_NAME": "에이징생명과학(주)",
-        "MNFCTR_NAME": "Auro Laboratories Limited",
-        "MNFCTR_PLACE": "Plot No. K-56, M.I.D.C., Tarapur, Thane 401506, Maharashtra State, India",
-        "MANUF_COUNTRY_CODE_NM": "인도",
-        "DMF_PERMIT_DATE": "2026-10-28",
-        "BIZRNO": "2148890579",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20261028-195-I-771-06",
-        "INGR_KOR_NAME": "반코마이신염산염",
-        "ENTP_NAME": "(주)에스지바이오켐",
-        "MNFCTR_NAME": "Livzon Group Fuzhou Fuxing Pharmaceutical Co., Ltd.",
-        "MNFCTR_PLACE": "No. 8 Nangang Road, Jiangyin Industrial Concentration Zone, Fuqing, Fuzhou City, Fujian Province, 350309, P. R. China",
-        "MANUF_COUNTRY_CODE_NM": "중국",
-        "DMF_PERMIT_DATE": "2026-10-28",
-        "BIZRNO": "1388130720",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20180921-210-J-262(A)",
-        "INGR_KOR_NAME": "피페라실린나트륨,타조박탐나트륨",
-        "ENTP_NAME": "(주)에스지바이오켐",
-        "MNFCTR_NAME": "Shandong Anxin Pharmaceutical Co., Ltd,Shandong Anshun Pharmaceutical Co., Ltd,Shandong Anshun Pharmaceutical Co., Ltd",
-        "MNFCTR_PLACE": "No. 849 Dongjia Town, Licheng District, Jinan City, Shangdong Province, China,Circular Economy Demonstration Park,Laoling County, Dezhou City, Shandong Province, 253600, P.R.China,Circular Economy Demonstration Park,Laoling County, Dezhou City, Shandong Province, 253600, P.R.China",
-        "MANUF_COUNTRY_CODE_NM": "중국,중국,중국",
-        "DMF_PERMIT_DATE": "2026-10-28",
-        "BIZRNO": "1388130720",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20150401-9-A-311-07(9)",
-        "INGR_KOR_NAME": "록시트로마이신",
-        "ENTP_NAME": "인성트레이딩(주)",
-        "MNFCTR_NAME": "Zhejiang Guobang Pharmaceutical Co., Ltd.,HEC Pharm Co., Ltd,HEC Pharm Co., Ltd",
-        "MNFCTR_PLACE": "No. 6, Weiwu Road, Hangzhou Gulf Shangyu Economic and Technological Development Zone, Zhejiang, China,No. 62, Binjiang Road, Yidu, Hubei Province, P.R, China,No. 3 Industrial Park of HEC, Yidu City, Hubei Province, China",
-        "MANUF_COUNTRY_CODE_NM": "중국,중국,중국",
-        "DMF_PERMIT_DATE": "2026-10-28",
-        "BIZRNO": "2118888827",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20150824-132-H-281-31(4)",
-        "INGR_KOR_NAME": "아토르바스타틴칼슘삼수화물",
-        "ENTP_NAME": "케미팜주식회사",
-        "MNFCTR_NAME": "Morepen Laboratories Limited",
-        "MNFCTR_PLACE": "Village Malkumajra (Morepen Village), Baddi Nalagarh Road, Distt Solan, Himachal Pradesh, 173 205, India",
-        "MANUF_COUNTRY_CODE_NM": "인도",
-        "DMF_PERMIT_DATE": "2026-10-28",
-        "BIZRNO": "1248724013",
         "NOTICE_CODE": "별표1"
       }
     ]
@@ -101591,7 +101591,7 @@
       "NOTICE_CODE": "신물질"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "수132-10-ND",
       "INGR_KOR_NAME": "아바신캡타드페골나트륨",
       "ENTP_NAME": "한국아스텔라스제약(주)",
       "MNFCTR_NAME": "Agilent Technologies, Inc.",
@@ -101600,6 +101600,61 @@
       "DMF_PERMIT_DATE": "2026-09-23",
       "BIZRNO": "1208141338",
       "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "20221130-209-J-1235(F)",
+      "INGR_KOR_NAME": "로수바스타틴칼슘",
+      "ENTP_NAME": "(주)아이티켐",
+      "MNFCTR_NAME": "Shaoxing Jingxin Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "No. 31 Weisan Road, Hangzhou Bay Shangyu Economic and Technological Development Area, Zhejiang Province, China-312369",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-11-09",
+      "BIZRNO": "6178156392",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": "20261109-210-J-2310",
+      "INGR_KOR_NAME": "싸이모신-알파1",
+      "ENTP_NAME": "익수제약(주)",
+      "MNFCTR_NAME": "Suzhou Tianma Pharma Group Tianji Bio-Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "No. 77, Haichuang Road, Haiyu Town, Changshu, Suzhou, Jiangsu, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-11-09",
+      "BIZRNO": "1268104419",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": "수97-10-ND",
+      "INGR_KOR_NAME": "피타바스타틴칼슘수화물",
+      "ENTP_NAME": "파마라인(주)",
+      "MNFCTR_NAME": "CTX Lifesciences Pvt. Ltd.",
+      "MNFCTR_PLACE": "Block No. 251/B, 252/B, 253, 254, 255, 256, 258/B, 276, 277, 278/P, 279, 280, 281, 282, 283/P, 284/P, Sachin GIDC, Near Gabheni Chokdi, Sachin, Surat, Gujarat-394230, INDIA",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-11-09",
+      "BIZRNO": "2148813077",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": "20261109-211-J-2315",
+      "INGR_KOR_NAME": "무피로신",
+      "ENTP_NAME": "(주)성진엑심",
+      "MNFCTR_NAME": "Sichuan Novals Pharmaceuticals Co., Ltd",
+      "MNFCTR_PLACE": "No.16 Mid-Section of Industry Avenue, Qinglong Town, Pengshan County, Meishan, Sichuan, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-11-09",
+      "BIZRNO": "1058529537",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": "20070928-78-D-23-07(11)",
+      "INGR_KOR_NAME": "글리메피리드",
+      "ENTP_NAME": "화일약품(주)",
+      "MNFCTR_NAME": "Zydus Lifesciences Limited",
+      "MNFCTR_PLACE": "291,G.I.D.C Industrial Estate Ankleshwar-393 002, distibharuch, Gujarat state, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-11-09",
+      "BIZRNO": "1248575430",
+      "NOTICE_CODE": ""
     }
   ]
 }
