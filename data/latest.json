@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T05:17:21.818Z",
+  "generatedAt": "2026-11-11T03:48:56.268Z",
   "totalCount": 9213,
   "fetchedCount": 9213,
   "summary": {
@@ -99,7 +99,7 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-11-09",
         "BIZRNO": "1248575430",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "20261109-211-J-2315",
@@ -110,7 +110,7 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-11-09",
         "BIZRNO": "1058529537",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "수97-10-ND",
@@ -121,7 +121,7 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-11-09",
         "BIZRNO": "2148813077",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "신물질"
       },
       {
         "DMF_PERMIT_NO": "20261109-210-J-2310",
@@ -132,7 +132,7 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-11-09",
         "BIZRNO": "1268104419",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "20221130-209-J-1235(F)",
@@ -143,7 +143,7 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-11-09",
         "BIZRNO": "6178156392",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "수87-45-ND",
@@ -87723,8 +87723,8 @@
       "DMF_PERMIT_NO": "수574-31-ND",
       "INGR_KOR_NAME": "에제티미브(미분화)",
       "ENTP_NAME": "파미래주식회사",
-      "MNFCTR_NAME": "SYMED LABS LIMITED　",
-      "MNFCTR_PLACE": "Unit-I, Survey No. 353, Domadugu(V),Gummadidala(M), Sangareddy (Dist.), 502001,Telangana State, India.",
+      "MNFCTR_NAME": "Viyash Scientific Limited Unit-III",
+      "MNFCTR_PLACE": "Survey No. 353, 354 & 467 Domadugu (Village), Gummadidala (Mandal), Sangareddy (District) – 502 313,  Telangana, INDIA",
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2025-06-26",
       "BIZRNO": "1208617487",
@@ -101610,7 +101610,7 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-11-09",
       "BIZRNO": "6178156392",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
       "DMF_PERMIT_NO": "20261109-210-J-2310",
@@ -101621,7 +101621,7 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-11-09",
       "BIZRNO": "1268104419",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
       "DMF_PERMIT_NO": "수97-10-ND",
@@ -101632,7 +101632,7 @@
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2026-11-09",
       "BIZRNO": "2148813077",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "신물질"
     },
     {
       "DMF_PERMIT_NO": "20261109-211-J-2315",
@@ -101643,7 +101643,7 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-11-09",
       "BIZRNO": "1058529537",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
       "DMF_PERMIT_NO": "20070928-78-D-23-07(11)",
@@ -101654,7 +101654,7 @@
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2026-11-09",
       "BIZRNO": "1248575430",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     }
   ]
 }
