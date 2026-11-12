@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T03:48:56.268Z",
+  "generatedAt": "2026-11-12T04:57:13.888Z",
   "totalCount": 9213,
   "fetchedCount": 9213,
   "summary": {
@@ -50,7 +50,7 @@
     "topCountries": [
       {
         "name": "인도",
-        "count": 3752
+        "count": 3750
       },
       {
         "name": "중국",
@@ -16982,8 +16982,8 @@
       "DMF_PERMIT_NO": "20130117-170-I-185-05",
       "INGR_KOR_NAME": "토피라메이트",
       "ENTP_NAME": "(주)우신라보타치",
-      "MNFCTR_NAME": "Pharmaceutical Works Polpharma S.A.",
-      "MNFCTR_PLACE": "19, Pelplinska Str. 83-200 Starogard Gda?ski, Poland",
+      "MNFCTR_NAME": "Zakłady Farmaceutyczne Polpharma S.A",
+      "MNFCTR_PLACE": "ul. Pelplińska 19, 83-200 Starogard Gdański, POLAND",
       "MANUF_COUNTRY_CODE_NM": "폴란드",
       "DMF_PERMIT_DATE": "2013-01-17",
       "BIZRNO": "1138649827",
@@ -18621,8 +18621,8 @@
       "DMF_PERMIT_NO": "20130117-170-I-185-05(3)",
       "INGR_KOR_NAME": "토피라메이트",
       "ENTP_NAME": "(주)휴온스",
-      "MNFCTR_NAME": "Pharmaceutical Works Polpharma S.A.",
-      "MNFCTR_PLACE": "19, Pelplinska Str. 83-200 Starogard Gdanski, Poland",
+      "MNFCTR_NAME": "Zakłady Farmaceutyczne Polpharma S.A.",
+      "MNFCTR_PLACE": "ul. Pelplińska 19, 83-200 Starogard Gdański, Poland",
       "MANUF_COUNTRY_CODE_NM": "폴란드",
       "DMF_PERMIT_DATE": "2013-04-10",
       "BIZRNO": "8638700270",
@@ -27916,8 +27916,8 @@
       "DMF_PERMIT_NO": "20151207-172-I-489-17",
       "INGR_KOR_NAME": "쿠에티아핀푸마르산염",
       "ENTP_NAME": "(주)마성엘에스",
-      "MNFCTR_NAME": "Jubilant Pharmova Limited",
-      "MNFCTR_PLACE": "#18,56,57&58, K.I.A.D.B Industrial Area, Nanjangud-571-302, Mysore District, Karnataka, India",
+      "MNFCTR_NAME": "Jubilant Biosys Limited",
+      "MNFCTR_PLACE": "Plot No. 18, 56, 57 & 58, KIADB Industrial Area, Nanjangud-571 302, Mysuru District, Karnataka State, India",
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2015-12-07",
       "BIZRNO": "2148108333",
@@ -44834,8 +44834,8 @@
       "DMF_PERMIT_NO": "20130117-170-I-185-05(6)",
       "INGR_KOR_NAME": "토피라메이트",
       "ENTP_NAME": "명인제약(주)",
-      "MNFCTR_NAME": "Pharmaceutical Works Polpharma S.A.",
-      "MNFCTR_PLACE": "19. Pelplinska Str, 83-200 Starogard Gdanski, Poland",
+      "MNFCTR_NAME": "Zakłady Farmaceutyczne Polpharma S.A",
+      "MNFCTR_PLACE": "ul. Pelplińska 19, 83-200 Starogard Gdański, POLAND",
       "MANUF_COUNTRY_CODE_NM": "폴란드",
       "DMF_PERMIT_DATE": "2020-01-13",
       "BIZRNO": "1248118673",
@@ -68033,9 +68033,9 @@
       "DMF_PERMIT_NO": "20210623-209-J-1035(2)",
       "INGR_KOR_NAME": "리네졸리드",
       "ENTP_NAME": "영진약품(주)",
-      "MNFCTR_NAME": "Lee Pharma Limited,Benova Labs Private Limited,SVR Drugs Private Limited",
-      "MNFCTR_PLACE": "Survey No. 10/G-1, Gaddapotharam Village Jinnaram Mandal, Sangareddy District Telangana State, 502319, India,Sy. No. 10, Field 10/H5A, Gaddapotharam(Village), Jinnaram  (Mandal), Sangareddy (Dist.), Telangana - 502319 India.,Plot. No: 3, J.N. Pharmacity, Tadi(Village), Parawada(Mandal), Visakhapatnam - 531019",
-      "MANUF_COUNTRY_CODE_NM": "인도,인도,인도",
+      "MNFCTR_NAME": "Lee Pharma Limited",
+      "MNFCTR_PLACE": "Survey No. 10/G-1, Gaddapotharam Village Jinnaram Mandal, Sangareddy District Telangana State, 502319, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2022-10-31",
       "BIZRNO": "2188100352",
       "NOTICE_CODE": "별표1"
