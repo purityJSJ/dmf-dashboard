@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-12T04:57:13.888Z",
-  "totalCount": 9213,
-  "fetchedCount": 9213,
+  "generatedAt": "2026-11-13T04:10:22.587Z",
+  "totalCount": 9214,
+  "fetchedCount": 9214,
   "summary": {
     "uniqueCompanies": 441,
     "uniqueCountries": 49,
@@ -12,7 +12,7 @@
       },
       {
         "name": "(주)파마피아",
-        "count": 387
+        "count": 388
       },
       {
         "name": "에이징생명과학(주)",
@@ -50,7 +50,7 @@
     "topCountries": [
       {
         "name": "인도",
-        "count": 3750
+        "count": 3751
       },
       {
         "name": "중국",
@@ -90,6 +90,17 @@
       }
     ],
     "recent": [
+      {
+        "DMF_PERMIT_NO": "20261112-211-J-2316",
+        "INGR_KOR_NAME": "알벤다졸",
+        "ENTP_NAME": "(주)파마피아",
+        "MNFCTR_NAME": "Mahi Drugs Private Limited",
+        "MNFCTR_PLACE": "Plot No. 82, J.N. Pharma City, Parawada, Anakapalli, Visakhapatnam, Andhra Pradesh, 531019, India",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-11-12",
+        "BIZRNO": "2158631491",
+        "NOTICE_CODE": ""
+      },
       {
         "DMF_PERMIT_NO": "20070928-78-D-23-07(11)",
         "INGR_KOR_NAME": "글리메피리드",
@@ -298,17 +309,6 @@
         "DMF_PERMIT_DATE": "2026-10-29",
         "BIZRNO": "2148762038",
         "NOTICE_CODE": "신물질"
-      },
-      {
-        "DMF_PERMIT_NO": "20190628-209-J-379(5)",
-        "INGR_KOR_NAME": "플루르비프로펜",
-        "ENTP_NAME": "주식회사하이큐팜",
-        "MNFCTR_NAME": "Hy-Gro Chemicals Pharmtek Private Limited",
-        "MNFCTR_PLACE": "Plot No. 174, Progressive Industrial Society, Bollaram Village, Jinnaram Mandal, Sanga Reddy District – 502 325, Telangana, India",
-        "MANUF_COUNTRY_CODE_NM": "인도",
-        "DMF_PERMIT_DATE": "2026-10-28",
-        "BIZRNO": "4538103141",
-        "NOTICE_CODE": "별표1"
       }
     ]
   },
@@ -94716,7 +94716,7 @@
       "NOTICE_CODE": "신물질"
     },
     {
-      "DMF_PERMIT_NO": "20260309-209-J-2133",
+      "DMF_PERMIT_NO": "20210727-209-J-555(B)",
       "INGR_KOR_NAME": "이부프로펜",
       "ENTP_NAME": "에이징생명과학(주)",
       "MNFCTR_NAME": "IOL Chemicals and Pharmaceuticals Lid.",
@@ -101655,6 +101655,17 @@
       "DMF_PERMIT_DATE": "2026-11-09",
       "BIZRNO": "1248575430",
       "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20261112-211-J-2316",
+      "INGR_KOR_NAME": "알벤다졸",
+      "ENTP_NAME": "(주)파마피아",
+      "MNFCTR_NAME": "Mahi Drugs Private Limited",
+      "MNFCTR_PLACE": "Plot No. 82, J.N. Pharma City, Parawada, Anakapalli, Visakhapatnam, Andhra Pradesh, 531019, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-11-12",
+      "BIZRNO": "2158631491",
+      "NOTICE_CODE": ""
     }
   ]
 }
