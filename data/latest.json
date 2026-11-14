@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-13T04:10:22.587Z",
-  "totalCount": 9214,
-  "fetchedCount": 9214,
+  "generatedAt": "2026-11-14T04:13:09.592Z",
+  "totalCount": 9216,
+  "fetchedCount": 9216,
   "summary": {
     "uniqueCompanies": 441,
     "uniqueCountries": 49,
@@ -16,7 +16,7 @@
       },
       {
         "name": "에이징생명과학(주)",
-        "count": 283
+        "count": 284
       },
       {
         "name": "(주)국전",
@@ -50,11 +50,11 @@
     "topCountries": [
       {
         "name": "인도",
-        "count": 3751
+        "count": 3752
       },
       {
         "name": "중국",
-        "count": 2924
+        "count": 2925
       },
       {
         "name": "대한민국",
@@ -91,6 +91,28 @@
     ],
     "recent": [
       {
+        "DMF_PERMIT_NO": "20050915-22-A-166-06(B)",
+        "INGR_KOR_NAME": "세푸록심악세틸",
+        "ENTP_NAME": "에이징생명과학(주)",
+        "MNFCTR_NAME": "Apitoria Pharma Private Limited, Unit-I",
+        "MNFCTR_PLACE": "Sy. No. 379, 385, 386, 388 to 396, Borpatla (V), Hatnoora (M), Sanga Reddy District, Telangana 502 296, India",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-11-13",
+        "BIZRNO": "2148890579",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "20250115-96-E-182-63(1)",
+        "INGR_KOR_NAME": "히알루론산나트륨",
+        "ENTP_NAME": "엠피크코리아(주)",
+        "MNFCTR_NAME": "Shandong Topscience Biotech Co., Ltd.",
+        "MNFCTR_PLACE": "No.98 Lanshan West Road, Lanshan District, Rizhao City, ShandongProvince, P.R. China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-11-13",
+        "BIZRNO": "8748801320",
+        "NOTICE_CODE": ""
+      },
+      {
         "DMF_PERMIT_NO": "20261112-211-J-2316",
         "INGR_KOR_NAME": "알벤다졸",
         "ENTP_NAME": "(주)파마피아",
@@ -99,7 +121,7 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-11-12",
         "BIZRNO": "2158631491",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "20070928-78-D-23-07(11)",
@@ -287,28 +309,6 @@
         "DMF_PERMIT_DATE": "2026-10-29",
         "BIZRNO": "2588702966",
         "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20261029-209-J-2302",
-        "INGR_KOR_NAME": "레플루노미드",
-        "ENTP_NAME": "주식회사제이엘바이오",
-        "MNFCTR_NAME": "Bo-Chem Private Limited",
-        "MNFCTR_PLACE": "Plot No. K-66, Near Kaloda Naka, MIDC, Tarapur Boisar West, Palghar, Maharashtra, 401506, India",
-        "MANUF_COUNTRY_CODE_NM": "인도",
-        "DMF_PERMIT_DATE": "2026-10-29",
-        "BIZRNO": "7818802099",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "수289-41-ND",
-        "INGR_KOR_NAME": "아비박탐나트륨,세프타지딤수화물·건조탄산나트륨",
-        "ENTP_NAME": "에이스바이오팜주식회사",
-        "MNFCTR_NAME": "Qilu Antibiotics Pharmaceutical Co., Ltd.",
-        "MNFCTR_PLACE": "No.849 Dongjia Town, Licheng District, Jinan, Shandong Province, 250105, China",
-        "MANUF_COUNTRY_CODE_NM": "중국",
-        "DMF_PERMIT_DATE": "2026-10-29",
-        "BIZRNO": "2148762038",
-        "NOTICE_CODE": "신물질"
       }
     ]
   },
@@ -100821,7 +100821,7 @@
       "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": "20261007-129-H-471-68",
+      "DMF_PERMIT_NO": "20180123-129-H-330-42(A)",
       "INGR_KOR_NAME": "클로피도그렐황산수소염",
       "ENTP_NAME": "주식회사지맥스파마켐",
       "MNFCTR_NAME": "Praveen Laboratories PVT.LTD.",
@@ -101665,6 +101665,28 @@
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2026-11-12",
       "BIZRNO": "2158631491",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20250115-96-E-182-63(1)",
+      "INGR_KOR_NAME": "히알루론산나트륨",
+      "ENTP_NAME": "엠피크코리아(주)",
+      "MNFCTR_NAME": "Shandong Topscience Biotech Co., Ltd.",
+      "MNFCTR_PLACE": "No.98 Lanshan West Road, Lanshan District, Rizhao City, ShandongProvince, P.R. China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-11-13",
+      "BIZRNO": "8748801320",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": "20050915-22-A-166-06(B)",
+      "INGR_KOR_NAME": "세푸록심악세틸",
+      "ENTP_NAME": "에이징생명과학(주)",
+      "MNFCTR_NAME": "Apitoria Pharma Private Limited, Unit-I",
+      "MNFCTR_PLACE": "Sy. No. 379, 385, 386, 388 to 396, Borpatla (V), Hatnoora (M), Sanga Reddy District, Telangana 502 296, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-11-13",
+      "BIZRNO": "2148890579",
       "NOTICE_CODE": ""
     }
   ]
