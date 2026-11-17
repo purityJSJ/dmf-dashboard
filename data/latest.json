@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-16T03:53:35.187Z",
-  "totalCount": 9216,
-  "fetchedCount": 9216,
+  "generatedAt": "2026-11-17T05:46:01.113Z",
+  "totalCount": 9215,
+  "fetchedCount": 9215,
   "summary": {
     "uniqueCompanies": 441,
     "uniqueCountries": 49,
@@ -20,7 +20,7 @@
       },
       {
         "name": "(주)국전",
-        "count": 274
+        "count": 273
       },
       {
         "name": "에이스바이오팜주식회사",
@@ -25341,7 +25341,7 @@
     {
       "DMF_PERMIT_NO": "6-1-ND",
       "INGR_KOR_NAME": "폴마콕시브",
-      "ENTP_NAME": "씨지인바이츠주식회사",
+      "ENTP_NAME": "주식회사아모스팜",
       "MNFCTR_NAME": "경보제약(주)",
       "MNFCTR_PLACE": "충청남도 아산시",
       "MANUF_COUNTRY_CODE_NM": "대한민국",
@@ -39273,17 +39273,6 @@
       "MANUF_COUNTRY_CODE_NM": "중국,중국",
       "DMF_PERMIT_DATE": "2019-01-11",
       "BIZRNO": "1058638896",
-      "NOTICE_CODE": "별표1"
-    },
-    {
-      "DMF_PERMIT_NO": "20181018-209-J-161(2)",
-      "INGR_KOR_NAME": "바클로펜",
-      "ENTP_NAME": "(주)국전",
-      "MNFCTR_NAME": "Pharmaceutical Works Polpharma S.A.",
-      "MNFCTR_PLACE": "19, Pelplinska Street. 83-200 Starogard Gdanski, Poland",
-      "MANUF_COUNTRY_CODE_NM": "폴란드",
-      "DMF_PERMIT_DATE": "2019-01-11",
-      "BIZRNO": "1168701173",
       "NOTICE_CODE": "별표1"
     },
     {
