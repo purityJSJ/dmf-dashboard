@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-17T05:46:01.113Z",
-  "totalCount": 9215,
-  "fetchedCount": 9215,
+  "generatedAt": "2026-11-18T05:12:01.392Z",
+  "totalCount": 9222,
+  "fetchedCount": 9222,
   "summary": {
     "uniqueCompanies": 441,
     "uniqueCountries": 49,
@@ -16,7 +16,7 @@
       },
       {
         "name": "에이징생명과학(주)",
-        "count": 284
+        "count": 286
       },
       {
         "name": "(주)국전",
@@ -50,11 +50,11 @@
     "topCountries": [
       {
         "name": "인도",
-        "count": 3752
+        "count": 3757
       },
       {
         "name": "중국",
-        "count": 2925
+        "count": 2926
       },
       {
         "name": "대한민국",
@@ -74,7 +74,7 @@
       },
       {
         "name": "일본",
-        "count": 181
+        "count": 182
       },
       {
         "name": "스위스",
@@ -90,6 +90,83 @@
       }
     ],
     "recent": [
+      {
+        "DMF_PERMIT_NO": "20261117-210-J-2325",
+        "INGR_KOR_NAME": "니코란딜",
+        "ENTP_NAME": "제이더블유중외제약(주)",
+        "MNFCTR_NAME": "UBE Corporation, Yoshitomi Factory",
+        "MNFCTR_PLACE": "955 Koiwai, Yoshitomimachi, Chikujo-gun, Fukuoka 871-0801, Japan",
+        "MANUF_COUNTRY_CODE_NM": "일본",
+        "DMF_PERMIT_DATE": "2026-11-17",
+        "BIZRNO": "1188102477",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "20180814-209-J-127(B)",
+        "INGR_KOR_NAME": "텔미사르탄",
+        "ENTP_NAME": "(주)이큐바이오",
+        "MNFCTR_NAME": "MSN Pharmachem Private Limited",
+        "MNFCTR_PLACE": "Plot No. 182 to 186, 192-A, 193 to 197 & 212/A,B,C,D, Phase-II, IDA Pashamylaram, Pashamylaram Village, Patancheru Mandal, Sangareddy District, Pincode-502 307, Telangana, India",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-11-17",
+        "BIZRNO": "4628702473",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "20251010-25-A-399-13(A)",
+        "INGR_KOR_NAME": "세프포독심프록세틸",
+        "ENTP_NAME": "(주)삼원약품",
+        "MNFCTR_NAME": "Orchid Pharma Limited",
+        "MNFCTR_PLACE": "Plot Nos. 121-128, 128A-133, 138-151 & 159-164, SIDCO Industrial Estate, Alathur, Chengalpattu District - 603110, Tamil Nadu, India",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-11-17",
+        "BIZRNO": "1208819024",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "20261117-209-J-2339",
+        "INGR_KOR_NAME": "프로프라놀롤염산염",
+        "ENTP_NAME": "주식회사토루",
+        "MNFCTR_NAME": "SAI SUPREME CHEMICALS",
+        "MNFCTR_PLACE": "Plot No.F-7, SIPCOT Industrial Complex, Gummidipoondi,Thiruvallur Dist, Tamil Nadu, India - 601 201. ",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-11-17",
+        "BIZRNO": "7978802508",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "20261117-194-I-774-11",
+        "INGR_KOR_NAME": "에피나스틴염산염",
+        "ENTP_NAME": "한국애브비(주)",
+        "MNFCTR_NAME": "Chongqing Carelife Pharmaceutical Co.,Ltd.",
+        "MNFCTR_PLACE": "3 Hua Nanyi Road, Chongqing (Changshou) Chemical Industry Park, Chongqing 401254, P.R. China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-11-17",
+        "BIZRNO": "1208780221",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "수434-94-ND",
+        "INGR_KOR_NAME": "벰페도익산",
+        "ENTP_NAME": "에이징생명과학(주)",
+        "MNFCTR_NAME": "Lee Pharma Limited",
+        "MNFCTR_PLACE": "Survey No. 10/G-1, Gaddapotharam Village Jinnaram Mandal, Sangareddy District Telangana State, 502319, India",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-11-17",
+        "BIZRNO": "2148890579",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "수434-93-ND",
+        "INGR_KOR_NAME": "다로루타마이드",
+        "ENTP_NAME": "에이징생명과학(주)",
+        "MNFCTR_NAME": "MSN Laboratories Private Limited, Unit-III",
+        "MNFCTR_PLACE": "Sy. No. 111/E & 111/EE, Cheriyal (Village), Kandi (Mandal), Sangareddy District, Telangana, Pincode: 502 285, India",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-11-17",
+        "BIZRNO": "2148890579",
+        "NOTICE_CODE": ""
+      },
       {
         "DMF_PERMIT_NO": "20050915-22-A-166-06(B)",
         "INGR_KOR_NAME": "세푸록심악세틸",
@@ -231,83 +308,6 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-11-03",
         "BIZRNO": "7818802099",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20261102-211-J-2307",
-        "INGR_KOR_NAME": "펜타닐",
-        "ENTP_NAME": "백수의약(주)",
-        "MNFCTR_NAME": "RUSAN PHARMA LTD.",
-        "MNFCTR_PLACE": "PLOT NO. 6406, 6407 & 6411, GIDC ESTATE, ANKLESHWAR - 393 002, DIST. - BHARUCH, GUJARAT STATE, INDIA",
-        "MANUF_COUNTRY_CODE_NM": "인도",
-        "DMF_PERMIT_DATE": "2026-11-02",
-        "BIZRNO": "1068102402",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20261030-209-J-2309",
-        "INGR_KOR_NAME": "메만틴염산염",
-        "ENTP_NAME": "(주)유피아이코리아앤코",
-        "MNFCTR_NAME": "Zhejiang SyncoTide Bio-pharmacuetical co., Ltd.",
-        "MNFCTR_PLACE": "Yuedong Road, Paojiang Industrial Zone, Shaoxing, Zhejiang 312071, P.R.China",
-        "MANUF_COUNTRY_CODE_NM": "중국",
-        "DMF_PERMIT_DATE": "2026-10-30",
-        "BIZRNO": "7808703443",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20261030-181-I-772-10",
-        "INGR_KOR_NAME": "에스트라디올반수화물",
-        "ENTP_NAME": "한국애보트(유)",
-        "MNFCTR_NAME": "Shaanxi Hanjiang Pharmaceutical Group Co.,Ltd",
-        "MNFCTR_PLACE": "No.3, Lianhua Road, Hanzhong Hi-tech Industries Development Zone, HanzhongCity, Shaanxi Province, China",
-        "MANUF_COUNTRY_CODE_NM": "중국",
-        "DMF_PERMIT_DATE": "2026-10-30",
-        "BIZRNO": "1208154740",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20261030-211-J-2299",
-        "INGR_KOR_NAME": "프로게스테론",
-        "ENTP_NAME": "에이징생명과학(주)",
-        "MNFCTR_NAME": "La Chandra Pharmalab Private Limited",
-        "MNFCTR_PLACE": "Survey No.: No. 64/2/2, Village: Vaghrol, Taluka: Dantiwada, Dist: Banaskantha, State: Gujarat, India 385510",
-        "MANUF_COUNTRY_CODE_NM": "인도",
-        "DMF_PERMIT_DATE": "2026-10-30",
-        "BIZRNO": "2148890579",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20261029-211-J-2318",
-        "INGR_KOR_NAME": "라세카도트릴",
-        "ENTP_NAME": "(주)알에이치바이오팜",
-        "MNFCTR_NAME": "Shaanxi Hanjiang Pharmaceutical Group Co., Ltd.",
-        "MNFCTR_PLACE": "No.3, Lianhua Road, Hanzhong Hi-tech Industries Development Zone, Hanzhong City, Shaanxi Province, China",
-        "MANUF_COUNTRY_CODE_NM": "중국",
-        "DMF_PERMIT_DATE": "2026-10-29",
-        "BIZRNO": "3218701718",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "2220-24-ND",
-        "INGR_KOR_NAME": "유파다시티닙",
-        "ENTP_NAME": "이니스트에스티(주)",
-        "MNFCTR_NAME": "이니스트에스티(주)",
-        "MNFCTR_PLACE": "충청북도 청주시 흥덕구",
-        "MANUF_COUNTRY_CODE_NM": "대한민국",
-        "DMF_PERMIT_DATE": "2026-10-29",
-        "BIZRNO": "3038136653",
-        "NOTICE_CODE": "신물질"
-      },
-      {
-        "DMF_PERMIT_NO": "20261029-211-J-2312",
-        "INGR_KOR_NAME": "코바마미드",
-        "ENTP_NAME": "주식회사빅솔바이오",
-        "MNFCTR_NAME": "Hebei Huarong Pharmaceutical Co., Ltd.",
-        "MNFCTR_PLACE": "No.8, Weier Road, Ningjin Salinization Industrial Park, Xingtai, Hebei Province, China",
-        "MANUF_COUNTRY_CODE_NM": "중국",
-        "DMF_PERMIT_DATE": "2026-10-29",
-        "BIZRNO": "2588702966",
         "NOTICE_CODE": "별표1"
       }
     ]
@@ -42011,7 +42011,7 @@
       "MNFCTR_PLACE": "Survey No.10, I.D.A, Gaddapotharam Village, Jinnaram Mandal, Sangareddy District, Telangana State, India",
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2019-07-16",
-      "BIZRNO": "1248575430",
+      "BIZRNO": "1248127624",
       "NOTICE_CODE": "별표1"
     },
     {
@@ -44295,7 +44295,7 @@
       "DMF_PERMIT_NO": "20191217-209-J-318",
       "INGR_KOR_NAME": "파록세틴염산염수화물",
       "ENTP_NAME": "에이스바이오팜주식회사",
-      "MNFCTR_NAME": "Tianish Laboratories Private Limited (Unit-1)",
+      "MNFCTR_NAME": "Matrix Pharmacorp Private Limited Unit 1",
       "MNFCTR_PLACE": "Survey No. 10, Gaddapotharam Kazipally Industrial Area Sangareddy  District-502319 Telangana State, India",
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2019-12-17",
@@ -62559,7 +62559,7 @@
       "MNFCTR_PLACE": "Lingojigudem Village, Choutuppal Mandal Yadadri Bhuvanagiri District, Telangana 508252 India",
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2022-01-12",
-      "BIZRNO": "1248575430",
+      "BIZRNO": "1248127624",
       "NOTICE_CODE": "별표1"
     },
     {
@@ -63164,7 +63164,7 @@
       "MNFCTR_PLACE": "Plot No. 138, Ankleshwar-393 002, Dist. Bharuch, Gujarat State, India",
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2022-01-27",
-      "BIZRNO": "1248575430",
+      "BIZRNO": "1248127624",
       "NOTICE_CODE": "별표1"
     },
     {
@@ -85568,7 +85568,7 @@
       "INGR_KOR_NAME": "파파베린염산염",
       "ENTP_NAME": "대신무약(주)",
       "MNFCTR_NAME": "Synnat Pharma Private Limited",
-      "MNFCTR_PLACE": "Plot No.60A, Jawaharlal Nehru Pharma City, Parawada Mandal, Vishakhapatnam-531019. Andhra Pradesh, India.",
+      "MNFCTR_PLACE": "Plot No.60A, Jawaharlal Nehru Pharma City, Parawada Mandal, Anakapalli-531019. Andhra Pradesh, India.",
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2025-05-09",
       "BIZRNO": "2148189068",
@@ -101677,6 +101677,83 @@
       "DMF_PERMIT_DATE": "2026-11-13",
       "BIZRNO": "2148890579",
       "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "수434-93-ND",
+      "INGR_KOR_NAME": "다로루타마이드",
+      "ENTP_NAME": "에이징생명과학(주)",
+      "MNFCTR_NAME": "MSN Laboratories Private Limited, Unit-III",
+      "MNFCTR_PLACE": "Sy. No. 111/E & 111/EE, Cheriyal (Village), Kandi (Mandal), Sangareddy District, Telangana, Pincode: 502 285, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-11-17",
+      "BIZRNO": "2148890579",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": "수434-94-ND",
+      "INGR_KOR_NAME": "벰페도익산",
+      "ENTP_NAME": "에이징생명과학(주)",
+      "MNFCTR_NAME": "Lee Pharma Limited",
+      "MNFCTR_PLACE": "Survey No. 10/G-1, Gaddapotharam Village Jinnaram Mandal, Sangareddy District Telangana State, 502319, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-11-17",
+      "BIZRNO": "2148890579",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": "20261117-194-I-774-11",
+      "INGR_KOR_NAME": "에피나스틴염산염",
+      "ENTP_NAME": "한국애브비(주)",
+      "MNFCTR_NAME": "Chongqing Carelife Pharmaceutical Co.,Ltd.",
+      "MNFCTR_PLACE": "3 Hua Nanyi Road, Chongqing (Changshou) Chemical Industry Park, Chongqing 401254, P.R. China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-11-17",
+      "BIZRNO": "1208780221",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": "20261117-209-J-2339",
+      "INGR_KOR_NAME": "프로프라놀롤염산염",
+      "ENTP_NAME": "주식회사토루",
+      "MNFCTR_NAME": "SAI SUPREME CHEMICALS",
+      "MNFCTR_PLACE": "Plot No.F-7, SIPCOT Industrial Complex, Gummidipoondi,Thiruvallur Dist, Tamil Nadu, India - 601 201. ",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-11-17",
+      "BIZRNO": "7978802508",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": "20251010-25-A-399-13(A)",
+      "INGR_KOR_NAME": "세프포독심프록세틸",
+      "ENTP_NAME": "(주)삼원약품",
+      "MNFCTR_NAME": "Orchid Pharma Limited",
+      "MNFCTR_PLACE": "Plot Nos. 121-128, 128A-133, 138-151 & 159-164, SIDCO Industrial Estate, Alathur, Chengalpattu District - 603110, Tamil Nadu, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-11-17",
+      "BIZRNO": "1208819024",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": "20180814-209-J-127(B)",
+      "INGR_KOR_NAME": "텔미사르탄",
+      "ENTP_NAME": "(주)이큐바이오",
+      "MNFCTR_NAME": "MSN Pharmachem Private Limited",
+      "MNFCTR_PLACE": "Plot No. 182 to 186, 192-A, 193 to 197 & 212/A,B,C,D, Phase-II, IDA Pashamylaram, Pashamylaram Village, Patancheru Mandal, Sangareddy District, Pincode-502 307, Telangana, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-11-17",
+      "BIZRNO": "4628702473",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": "20261117-210-J-2325",
+      "INGR_KOR_NAME": "니코란딜",
+      "ENTP_NAME": "제이더블유중외제약(주)",
+      "MNFCTR_NAME": "UBE Corporation, Yoshitomi Factory",
+      "MNFCTR_PLACE": "955 Koiwai, Yoshitomimachi, Chikujo-gun, Fukuoka 871-0801, Japan",
+      "MANUF_COUNTRY_CODE_NM": "일본",
+      "DMF_PERMIT_DATE": "2026-11-17",
+      "BIZRNO": "1188102477",
+      "NOTICE_CODE": ""
     }
   ]
 }
