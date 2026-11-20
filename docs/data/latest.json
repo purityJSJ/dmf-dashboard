@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-19T05:05:05.054Z",
-  "totalCount": 9225,
-  "fetchedCount": 9225,
+  "generatedAt": "2026-11-20T04:57:24.257Z",
+  "totalCount": 9224,
+  "fetchedCount": 9224,
   "summary": {
     "uniqueCompanies": 441,
     "uniqueCountries": 49,
@@ -20,7 +20,7 @@
       },
       {
         "name": "(주)국전",
-        "count": 274
+        "count": 275
       },
       {
         "name": "에이스바이오팜주식회사",
@@ -36,7 +36,7 @@
       },
       {
         "name": "(주)마성엘에스",
-        "count": 179
+        "count": 180
       },
       {
         "name": "성우화학(주)",
@@ -50,7 +50,7 @@
     "topCountries": [
       {
         "name": "인도",
-        "count": 3759
+        "count": 3758
       },
       {
         "name": "중국",
@@ -82,7 +82,7 @@
       },
       {
         "name": "대만",
-        "count": 125
+        "count": 124
       },
       {
         "name": "프랑스",
@@ -90,6 +90,28 @@
       }
     ],
     "recent": [
+      {
+        "DMF_PERMIT_NO": "20261119-211-J-2342",
+        "INGR_KOR_NAME": "아세트산나트륨삼수화물",
+        "ENTP_NAME": "(주)마성엘에스",
+        "MNFCTR_NAME": "Macco Organiques Inc.",
+        "MNFCTR_PLACE": "100 McArthur, Suite 112 Salaberry-de-Valleyfield, Quebec, J6S 4M5, Canada",
+        "MANUF_COUNTRY_CODE_NM": "캐나다",
+        "DMF_PERMIT_DATE": "2026-11-19",
+        "BIZRNO": "2148108333",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "20240403-210-J-1633(A)",
+        "INGR_KOR_NAME": "이리노테칸염산염",
+        "ENTP_NAME": "(주)국전",
+        "MNFCTR_NAME": "Shandong Anxin Pharmaceutical Co., Ltd.",
+        "MNFCTR_PLACE": "Circular Economy Demonstration Park, Laoling County,  Dezhou  City,  Shandong  Province, 253600, China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-11-19",
+        "BIZRNO": "1168701173",
+        "NOTICE_CODE": ""
+      },
       {
         "DMF_PERMIT_NO": "20261118-211-J-2340",
         "INGR_KOR_NAME": "아세트산나트륨무수물",
@@ -99,7 +121,7 @@
         "MANUF_COUNTRY_CODE_NM": "캐나다",
         "DMF_PERMIT_DATE": "2026-11-18",
         "BIZRNO": "2148108333",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "20190322-49-A-349-21(14)",
@@ -110,7 +132,7 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-11-18",
         "BIZRNO": "1388130720",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "수1004-12-ND",
@@ -121,7 +143,7 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-11-18",
         "BIZRNO": "2228701895",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "신물질"
       },
       {
         "DMF_PERMIT_NO": "20261118-211-J-2341",
@@ -132,7 +154,7 @@
         "MANUF_COUNTRY_CODE_NM": "체코공화국",
         "DMF_PERMIT_DATE": "2026-11-18",
         "BIZRNO": "2148108333",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "20260414-210-J-2179(A)",
@@ -143,7 +165,7 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-11-18",
         "BIZRNO": "1168701173",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "20261117-210-J-2325",
@@ -287,28 +309,6 @@
         "DMF_PERMIT_DATE": "2026-11-09",
         "BIZRNO": "2148813077",
         "NOTICE_CODE": "신물질"
-      },
-      {
-        "DMF_PERMIT_NO": "20261109-210-J-2310",
-        "INGR_KOR_NAME": "싸이모신-알파1",
-        "ENTP_NAME": "익수제약(주)",
-        "MNFCTR_NAME": "Suzhou Tianma Pharma Group Tianji Bio-Pharmaceutical Co., Ltd.",
-        "MNFCTR_PLACE": "No. 77, Haichuang Road, Haiyu Town, Changshu, Suzhou, Jiangsu, China",
-        "MANUF_COUNTRY_CODE_NM": "중국",
-        "DMF_PERMIT_DATE": "2026-11-09",
-        "BIZRNO": "1268104419",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20221130-209-J-1235(F)",
-        "INGR_KOR_NAME": "로수바스타틴칼슘",
-        "ENTP_NAME": "(주)아이티켐",
-        "MNFCTR_NAME": "Shaoxing Jingxin Pharmaceutical Co., Ltd.",
-        "MNFCTR_PLACE": "No. 31 Weisan Road, Hangzhou Bay Shangyu Economic and Technological Development Area, Zhejiang Province, China-312369",
-        "MANUF_COUNTRY_CODE_NM": "중국",
-        "DMF_PERMIT_DATE": "2026-11-09",
-        "BIZRNO": "6178156392",
-        "NOTICE_CODE": "별표1"
       }
     ]
   },
@@ -36680,17 +36680,6 @@
       "NOTICE_CODE": "별표1의2"
     },
     {
-      "DMF_PERMIT_NO": "20180427-210-J-210(1)",
-      "INGR_KOR_NAME": "싸이모신알파1",
-      "ENTP_NAME": "대한뉴팜(주)",
-      "MNFCTR_NAME": "Chengdu Shengnuo Biopharm Co., Ltd.",
-      "MNFCTR_PLACE": "Section 1, Gongye Avenue, Dayi County, Chengdu, Sichuan, 611330, China",
-      "MANUF_COUNTRY_CODE_NM": "중국",
-      "DMF_PERMIT_DATE": "2018-07-04",
-      "BIZRNO": "2298110729",
-      "NOTICE_CODE": "별표1"
-    },
-    {
       "DMF_PERMIT_NO": "수236-1-ND",
       "INGR_KOR_NAME": "디에노게스트",
       "ENTP_NAME": "(주)한국팜비오",
@@ -45720,17 +45709,6 @@
       "DMF_PERMIT_DATE": "2020-03-11",
       "BIZRNO": "1248191048",
       "NOTICE_CODE": "별표1"
-    },
-    {
-      "DMF_PERMIT_NO": "수5217-1-ND(11)",
-      "INGR_KOR_NAME": "에제티미브",
-      "ENTP_NAME": "대한뉴팜(주)",
-      "MNFCTR_NAME": "Synthimed Labs Private Limited",
-      "MNFCTR_PLACE": "Village Bhagwanpur, Barwala Road, Derabassi-140507, District S.A.S Nagar (Mohali), Punjab, India",
-      "MANUF_COUNTRY_CODE_NM": "인도",
-      "DMF_PERMIT_DATE": "2020-03-12",
-      "BIZRNO": "2298110729",
-      "NOTICE_CODE": "신물질"
     },
     {
       "DMF_PERMIT_NO": "20180816-211-J-254(2)",
@@ -71715,17 +71693,6 @@
       "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": "20230703-210-J-1514",
-      "INGR_KOR_NAME": "디날부핀세바케이트",
-      "ENTP_NAME": "(주)사이넥스",
-      "MNFCTR_NAME": "Formosa Laboratories, Inc.",
-      "MNFCTR_PLACE": "36, Hoping Street, Louchu, Taoyuan 33842, Taiwan.",
-      "MANUF_COUNTRY_CODE_NM": "대만",
-      "DMF_PERMIT_DATE": "2023-07-03",
-      "BIZRNO": "2208634919",
-      "NOTICE_CODE": "별표1"
-    },
-    {
       "DMF_PERMIT_NO": "20230704-209-J-1515",
       "INGR_KOR_NAME": "나라트립탄염산염",
       "ENTP_NAME": "파미래주식회사",
@@ -76908,7 +76875,7 @@
     },
     {
       "DMF_PERMIT_NO": "2152-24-ND",
-      "INGR_KOR_NAME": "닌테다닙에실산염",
+      "INGR_KOR_NAME": "닌테다닙에실산염반수화물",
       "ENTP_NAME": "한국바이오켐제약(주)",
       "MNFCTR_NAME": "한국바이오켐제약(주)",
       "MNFCTR_PLACE": "세종특별자치시 ",
@@ -101742,7 +101709,7 @@
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2026-11-18",
       "BIZRNO": "1168701173",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
       "DMF_PERMIT_NO": "20261118-211-J-2341",
@@ -101753,7 +101720,7 @@
       "MANUF_COUNTRY_CODE_NM": "체코공화국",
       "DMF_PERMIT_DATE": "2026-11-18",
       "BIZRNO": "2148108333",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
       "DMF_PERMIT_NO": "수1004-12-ND",
@@ -101764,7 +101731,7 @@
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2026-11-18",
       "BIZRNO": "2228701895",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "신물질"
     },
     {
       "DMF_PERMIT_NO": "20190322-49-A-349-21(14)",
@@ -101775,7 +101742,7 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-11-18",
       "BIZRNO": "1388130720",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
       "DMF_PERMIT_NO": "20261118-211-J-2340",
@@ -101785,6 +101752,28 @@
       "MNFCTR_PLACE": "100 McArthur, Suite 112 Salaberry-de-Valleyfield, Quebec, J6S 4M5, Canada",
       "MANUF_COUNTRY_CODE_NM": "캐나다",
       "DMF_PERMIT_DATE": "2026-11-18",
+      "BIZRNO": "2148108333",
+      "NOTICE_CODE": "별표1"
+    },
+    {
+      "DMF_PERMIT_NO": "20240403-210-J-1633(A)",
+      "INGR_KOR_NAME": "이리노테칸염산염",
+      "ENTP_NAME": "(주)국전",
+      "MNFCTR_NAME": "Shandong Anxin Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "Circular Economy Demonstration Park, Laoling County,  Dezhou  City,  Shandong  Province, 253600, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-11-19",
+      "BIZRNO": "1168701173",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": "20261119-211-J-2342",
+      "INGR_KOR_NAME": "아세트산나트륨삼수화물",
+      "ENTP_NAME": "(주)마성엘에스",
+      "MNFCTR_NAME": "Macco Organiques Inc.",
+      "MNFCTR_PLACE": "100 McArthur, Suite 112 Salaberry-de-Valleyfield, Quebec, J6S 4M5, Canada",
+      "MANUF_COUNTRY_CODE_NM": "캐나다",
+      "DMF_PERMIT_DATE": "2026-11-19",
       "BIZRNO": "2148108333",
       "NOTICE_CODE": ""
     }
