@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-23T04:48:45.028Z",
-  "totalCount": 9234,
-  "fetchedCount": 9234,
+  "generatedAt": "2026-11-24T07:39:27.966Z",
+  "totalCount": 9236,
+  "fetchedCount": 9236,
   "summary": {
-    "uniqueCompanies": 441,
+    "uniqueCompanies": 442,
     "uniqueCountries": 49,
     "topCompanies": [
       {
@@ -50,11 +50,11 @@
     "topCountries": [
       {
         "name": "인도",
-        "count": 3761
+        "count": 3762
       },
       {
         "name": "중국",
-        "count": 2929
+        "count": 2931
       },
       {
         "name": "대한민국",
@@ -90,6 +90,28 @@
       }
     ],
     "recent": [
+      {
+        "DMF_PERMIT_NO": "수582-30-ND(1)",
+        "INGR_KOR_NAME": "에독사반토실산염",
+        "ENTP_NAME": "주식회사엠바이오",
+        "MNFCTR_NAME": "Zhejiang Huahai Pharmaceutical Co., Ltd. ",
+        "MNFCTR_PLACE": "Chuannan, Duqiao, Linhai, Zhejiang, 317016, China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-11-23",
+        "BIZRNO": "3738802369",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "수343-1-ND(A)",
+        "INGR_KOR_NAME": "벰페도익산",
+        "ENTP_NAME": "후성바이오주식회사",
+        "MNFCTR_NAME": "Metrochem API Private Limited-(Unit-Ⅳ)",
+        "MNFCTR_PLACE": "Plot No.34B, 40B & 60B, Jawaharial Nehru Pharma City, Thanam(V), Parawada(M), Anakapalli District-531021. Andhra Pradesh, India.",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-11-23",
+        "BIZRNO": "2228701895",
+        "NOTICE_CODE": ""
+      },
       {
         "DMF_PERMIT_NO": "수434-84-ND(A)",
         "INGR_KOR_NAME": "둘록세틴염산염",
@@ -286,28 +308,6 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-11-18",
         "BIZRNO": "1168701173",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20261117-210-J-2325",
-        "INGR_KOR_NAME": "니코란딜",
-        "ENTP_NAME": "제이더블유중외제약(주)",
-        "MNFCTR_NAME": "UBE Corporation, Yoshitomi Factory",
-        "MNFCTR_PLACE": "955 Koiwai, Yoshitomimachi, Chikujo-gun, Fukuoka 871-0801, Japan",
-        "MANUF_COUNTRY_CODE_NM": "일본",
-        "DMF_PERMIT_DATE": "2026-11-17",
-        "BIZRNO": "1188102477",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20180814-209-J-127(B)",
-        "INGR_KOR_NAME": "텔미사르탄",
-        "ENTP_NAME": "(주)이큐바이오",
-        "MNFCTR_NAME": "MSN Pharmachem Private Limited",
-        "MNFCTR_PLACE": "Plot No. 182 to 186, 192-A, 193 to 197 & 212/A,B,C,D, Phase-II, IDA Pashamylaram, Pashamylaram Village, Patancheru Mandal, Sangareddy District, Pincode-502 307, Telangana, India",
-        "MANUF_COUNTRY_CODE_NM": "인도",
-        "DMF_PERMIT_DATE": "2026-11-17",
-        "BIZRNO": "4628702473",
         "NOTICE_CODE": "별표1"
       }
     ]
@@ -41732,9 +41732,9 @@
       "DMF_PERMIT_NO": "1444-9-ND",
       "INGR_KOR_NAME": "빌다글립틴염산염",
       "ENTP_NAME": "한미정밀화학(주)",
-      "MNFCTR_NAME": "한미정밀화학(주),[출발물질 제조원] Jiangxi Synergy Pharmaceutical Co., Ltd",
+      "MNFCTR_NAME": "한미정밀화학(주),[출발물질 제조원] Jiangxi Synergy Pharmaceutical Co., Ltd,[출발물질 제조원] Tianjin Minxiang Pharmaceutical Co., Ltd.",
       "MNFCTR_PLACE": "경기도 시흥시",
-      "MANUF_COUNTRY_CODE_NM": "대한민국,중국",
+      "MANUF_COUNTRY_CODE_NM": "대한민국,중국,중국",
       "DMF_PERMIT_DATE": "2019-06-25",
       "BIZRNO": "1338122206",
       "NOTICE_CODE": "신물질"
@@ -101886,6 +101886,28 @@
       "DMF_PERMIT_DATE": "2026-11-20",
       "BIZRNO": "2148880203",
       "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "수343-1-ND(A)",
+      "INGR_KOR_NAME": "벰페도익산",
+      "ENTP_NAME": "후성바이오주식회사",
+      "MNFCTR_NAME": "Metrochem API Private Limited-(Unit-Ⅳ)",
+      "MNFCTR_PLACE": "Plot No.34B, 40B & 60B, Jawaharial Nehru Pharma City, Thanam(V), Parawada(M), Anakapalli District-531021. Andhra Pradesh, India.",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-11-23",
+      "BIZRNO": "2228701895",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": "수582-30-ND(1)",
+      "INGR_KOR_NAME": "에독사반토실산염",
+      "ENTP_NAME": "주식회사엠바이오",
+      "MNFCTR_NAME": "Zhejiang Huahai Pharmaceutical Co., Ltd. ",
+      "MNFCTR_PLACE": "Chuannan, Duqiao, Linhai, Zhejiang, 317016, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-11-23",
+      "BIZRNO": "3738802369",
+      "NOTICE_CODE": ""
     }
   ]
 }
