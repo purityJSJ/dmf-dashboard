@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-24T07:39:27.966Z",
-  "totalCount": 9236,
-  "fetchedCount": 9236,
+  "generatedAt": "2026-11-25T06:08:23.787Z",
+  "totalCount": 9242,
+  "fetchedCount": 9242,
   "summary": {
-    "uniqueCompanies": 442,
+    "uniqueCompanies": 443,
     "uniqueCountries": 49,
     "topCompanies": [
       {
@@ -50,15 +50,15 @@
     "topCountries": [
       {
         "name": "인도",
-        "count": 3762
+        "count": 3763
       },
       {
         "name": "중국",
-        "count": 2931
+        "count": 2935
       },
       {
         "name": "대한민국",
-        "count": 1310
+        "count": 1311
       },
       {
         "name": "이탈리아",
@@ -91,6 +91,72 @@
     ],
     "recent": [
       {
+        "DMF_PERMIT_NO": "수21-40-ND",
+        "INGR_KOR_NAME": "아팔루타마이드",
+        "ENTP_NAME": "이성인터내쇼날(주)",
+        "MNFCTR_NAME": "Hetero Labs Limited Unit-I",
+        "MNFCTR_PLACE": "Survey No.10, IDA, Gaddapotharam Village, Jinnaram Mandal, SangaReddy District.-502319, Telangana, India",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-11-24",
+        "BIZRNO": "2148880203",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "20261124-209-J-2328",
+        "INGR_KOR_NAME": "L-아스파르트산칼륨",
+        "ENTP_NAME": "파마라인(주)",
+        "MNFCTR_NAME": "Jing Jing Pharmaceutical Co., Ltd.",
+        "MNFCTR_PLACE": "No. 88, Jingyi Road, Dacaozhuang Industrial Zone, Ningjin County, Xingtai City, Hebei Province, China ",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-11-24",
+        "BIZRNO": "2148813077",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "20251128-129-H-456-66(1)",
+        "INGR_KOR_NAME": "클로피도그렐황산수소염",
+        "ENTP_NAME": "㈜하이플",
+        "MNFCTR_NAME": "Huizhou Salubris Pharmaceuticals Co., Ltd.",
+        "MNFCTR_PLACE": "No. 42, West Petrochemical Avenue, Daya Bay Economic and Technological Development Zone, Huizhou City, Guangdong Province, P.R. China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-11-24",
+        "BIZRNO": "4338600179",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "수582-18-ND(B)",
+        "INGR_KOR_NAME": "미라베그론",
+        "ENTP_NAME": "주식회사팜니스",
+        "MNFCTR_NAME": "Zhejiang Huayi Pharmaceutical Co., Ltd.",
+        "MNFCTR_PLACE": "No. 15, Shuangfeng Road, Fotang, Yiwu, Zhejiang 322002, China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-11-24",
+        "BIZRNO": "8118103478",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "수382-10-ND(1)",
+        "INGR_KOR_NAME": "다파글리플로진프로판디올수화물",
+        "ENTP_NAME": "(주)일화",
+        "MNFCTR_NAME": "Zhejiang Huahai Pharmaceutical Co., Ltd.",
+        "MNFCTR_PLACE": "Coastal Industrial Zone, Duqiao, LinHai, Zhejiang 317016, China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-11-24",
+        "BIZRNO": "1328101004",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "1731-25-ND",
+        "INGR_KOR_NAME": "시타글립틴인산염수화물",
+        "ENTP_NAME": "동방에프티엘(주)",
+        "MNFCTR_NAME": "동방에프티엘(주)",
+        "MNFCTR_PLACE": "경기도 화성시 만세구",
+        "MANUF_COUNTRY_CODE_NM": "대한민국",
+        "DMF_PERMIT_DATE": "2026-11-24",
+        "BIZRNO": "1248138330",
+        "NOTICE_CODE": ""
+      },
+      {
         "DMF_PERMIT_NO": "수582-30-ND(1)",
         "INGR_KOR_NAME": "에독사반토실산염",
         "ENTP_NAME": "주식회사엠바이오",
@@ -99,7 +165,7 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-11-23",
         "BIZRNO": "3738802369",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "신물질"
       },
       {
         "DMF_PERMIT_NO": "수343-1-ND(A)",
@@ -110,7 +176,7 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-11-23",
         "BIZRNO": "2228701895",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "신물질"
       },
       {
         "DMF_PERMIT_NO": "수434-84-ND(A)",
@@ -242,72 +308,6 @@
         "MANUF_COUNTRY_CODE_NM": "캐나다",
         "DMF_PERMIT_DATE": "2026-11-19",
         "BIZRNO": "2148108333",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20240403-210-J-1633(A)",
-        "INGR_KOR_NAME": "이리노테칸염산염",
-        "ENTP_NAME": "(주)국전",
-        "MNFCTR_NAME": "Shandong Anxin Pharmaceutical Co., Ltd.",
-        "MNFCTR_PLACE": "Circular Economy Demonstration Park, Laoling County,  Dezhou  City,  Shandong  Province, 253600, China",
-        "MANUF_COUNTRY_CODE_NM": "중국",
-        "DMF_PERMIT_DATE": "2026-11-19",
-        "BIZRNO": "1168701173",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20261118-211-J-2340",
-        "INGR_KOR_NAME": "아세트산나트륨무수물",
-        "ENTP_NAME": "(주)마성엘에스",
-        "MNFCTR_NAME": "Macco Organiques Inc.",
-        "MNFCTR_PLACE": "100 McArthur, Suite 112 Salaberry-de-Valleyfield, Quebec, J6S 4M5, Canada",
-        "MANUF_COUNTRY_CODE_NM": "캐나다",
-        "DMF_PERMIT_DATE": "2026-11-18",
-        "BIZRNO": "2148108333",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20190322-49-A-349-21(14)",
-        "INGR_KOR_NAME": "테르비나핀염산염",
-        "ENTP_NAME": "(주)에스지바이오켐",
-        "MNFCTR_NAME": "Zhejiang East-Asia Pharmaceutical Co., Ltd",
-        "MNFCTR_PLACE": "Coastal Industrial City, Pubagang town,Sanmen county, Zhejiang, China",
-        "MANUF_COUNTRY_CODE_NM": "중국",
-        "DMF_PERMIT_DATE": "2026-11-18",
-        "BIZRNO": "1388130720",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "수1004-12-ND",
-        "INGR_KOR_NAME": "아고멜라틴",
-        "ENTP_NAME": "후성바이오주식회사",
-        "MNFCTR_NAME": "Mehta API Pvt. Ltd.",
-        "MNFCTR_PLACE": "Gut No. 546, 571,519, & 520, Village - Kumbhavali, Taluka Palghar, District Palghar, Boisar- 401506. Maharashtra State, India.",
-        "MANUF_COUNTRY_CODE_NM": "인도",
-        "DMF_PERMIT_DATE": "2026-11-18",
-        "BIZRNO": "2228701895",
-        "NOTICE_CODE": "신물질"
-      },
-      {
-        "DMF_PERMIT_NO": "20261118-211-J-2341",
-        "INGR_KOR_NAME": "글루콘산나트륨",
-        "ENTP_NAME": "(주)마성엘에스",
-        "MNFCTR_NAME": "Macco Organiques, s.r.o.",
-        "MNFCTR_PLACE": "Zahradní 1938/46c, 792 01 Bruntál, Czech Republic",
-        "MANUF_COUNTRY_CODE_NM": "체코공화국",
-        "DMF_PERMIT_DATE": "2026-11-18",
-        "BIZRNO": "2148108333",
-        "NOTICE_CODE": "별표1"
-      },
-      {
-        "DMF_PERMIT_NO": "20260414-210-J-2179(A)",
-        "INGR_KOR_NAME": "클로르페니라민말레산염",
-        "ENTP_NAME": "(주)국전",
-        "MNFCTR_NAME": "Malladi Drugs & Pharmaceuticals Limited",
-        "MNFCTR_PLACE": "Unit-5, Plot No. 49, 50, 55 & 56, IDA, Gajulamandyam, Attur (P.O), Renigunta-517 520, Tirupati District, Andhra Pradesh, India",
-        "MANUF_COUNTRY_CODE_NM": "인도",
-        "DMF_PERMIT_DATE": "2026-11-18",
-        "BIZRNO": "1168701173",
         "NOTICE_CODE": "별표1"
       }
     ]
@@ -32778,8 +32778,8 @@
       "DMF_PERMIT_NO": "20170926-61-C-362-12",
       "INGR_KOR_NAME": "케토롤락트로메타민염",
       "ENTP_NAME": "에이스바이오팜주식회사",
-      "MNFCTR_NAME": "Saurav Chemicals Limited",
-      "MNFCTR_PLACE": "Village Bhagwanpura, Tehsil Derabassi, District Sahibzada Ajit Singh Nagar, Punjab, India",
+      "MNFCTR_NAME": "SCL Lifesciences Limited",
+      "MNFCTR_PLACE": "Derabassi–Barwala Road, Village Bhagwanpura, Tehsil Derabassi, District Sahibzada Ajit Singh Nagar, Punjab, PIN-140507, India",
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2017-09-26",
       "BIZRNO": "2148762038",
@@ -65757,7 +65757,7 @@
       "INGR_KOR_NAME": "레비티라세탐",
       "ENTP_NAME": "주식회사오트란코리아",
       "MNFCTR_NAME": "Shaoxing Jingxin Pharmaceutical Co., Ltd.",
-      "MNFCTR_PLACE": "No.31, Weisan Road, Hangzhou Bay Shangyu Economic and Technological Development Area, Shangyu, 312369, Zhejiang Province, China",
+      "MNFCTR_PLACE": "No. 31 Weisan Road, Hangzhou Bay Shangyu Economic and Technological Development Area, Shangyu, Zhejiang Province, China, 312369",
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2022-06-23",
       "BIZRNO": "1708103488",
@@ -70903,7 +70903,7 @@
     {
       "DMF_PERMIT_NO": "20191210-8-C-376-21(13)",
       "INGR_KOR_NAME": "록소프로펜나트륨수화물",
-      "ENTP_NAME": "한국유니온제약(주)",
+      "ENTP_NAME": "부광유니파마(주)",
       "MNFCTR_NAME": "Dijia Pharmaceutical Group Co., Ltd.",
       "MNFCTR_PLACE": "No. 268 Tianrun Road, Wendeng Economic Development Zone, Weihai, Shandong, 264400, China",
       "MANUF_COUNTRY_CODE_NM": "중국",
@@ -70947,7 +70947,7 @@
     {
       "DMF_PERMIT_NO": "20130905-116-G-110-10(3)",
       "INGR_KOR_NAME": "세프트리악손나트륨수화물",
-      "ENTP_NAME": "한국유니온제약(주)",
+      "ENTP_NAME": "부광유니파마(주)",
       "MNFCTR_NAME": "Quilu Antibiotics Pharmaceutical Co., Ltd.",
       "MNFCTR_PLACE": "No.849 DongJia Town, Licheng District, Jinan, Shandong, China.",
       "MANUF_COUNTRY_CODE_NM": "중국",
@@ -86415,7 +86415,7 @@
       "INGR_KOR_NAME": "메만틴염산염",
       "ENTP_NAME": "에이징생명과학(주)",
       "MNFCTR_NAME": "Hikal Limited",
-      "MNFCTR_PLACE": "72 & 82/A, KIADB Industrial Area Jigani, Anekal Taluk Bangalore - 560105 Karnataka, India",
+      "MNFCTR_PLACE": "72 & 82/A, KIADB Industrial Area, Jigani, Anekal Taluk,Bengaluru (Bangalore) - 560105Karnataka, India (IND)",
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2025-06-02",
       "BIZRNO": "2148890579",
@@ -87767,8 +87767,8 @@
       "DMF_PERMIT_NO": "20250708-142-I-720-22",
       "INGR_KOR_NAME": "가바펜틴",
       "ENTP_NAME": "(주)파마피아",
-      "MNFCTR_NAME": "Zhejiang Huahai Pharmaceutical Co., Ltd",
-      "MNFCTR_PLACE": "No.3 Donghai 6th Avenue, Duqiao Medical Park, Linhai, Zhejiang, China",
+      "MNFCTR_NAME": "Zhejiang Huahai Jiancheng Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "No. 3 Donghai 6th Avenue, Duqiao Medical Park, Linhai, Zhejiang, 317016, China",
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2025-07-08",
       "BIZRNO": "2158631491",
@@ -101896,7 +101896,7 @@
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2026-11-23",
       "BIZRNO": "2228701895",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "신물질"
     },
     {
       "DMF_PERMIT_NO": "수582-30-ND(1)",
@@ -101907,6 +101907,72 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-11-23",
       "BIZRNO": "3738802369",
+      "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "1731-25-ND",
+      "INGR_KOR_NAME": "시타글립틴인산염수화물",
+      "ENTP_NAME": "동방에프티엘(주)",
+      "MNFCTR_NAME": "동방에프티엘(주)",
+      "MNFCTR_PLACE": "경기도 화성시 만세구",
+      "MANUF_COUNTRY_CODE_NM": "대한민국",
+      "DMF_PERMIT_DATE": "2026-11-24",
+      "BIZRNO": "1248138330",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": "수382-10-ND(1)",
+      "INGR_KOR_NAME": "다파글리플로진프로판디올수화물",
+      "ENTP_NAME": "(주)일화",
+      "MNFCTR_NAME": "Zhejiang Huahai Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "Coastal Industrial Zone, Duqiao, LinHai, Zhejiang 317016, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-11-24",
+      "BIZRNO": "1328101004",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": "수582-18-ND(B)",
+      "INGR_KOR_NAME": "미라베그론",
+      "ENTP_NAME": "주식회사팜니스",
+      "MNFCTR_NAME": "Zhejiang Huayi Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "No. 15, Shuangfeng Road, Fotang, Yiwu, Zhejiang 322002, China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-11-24",
+      "BIZRNO": "8118103478",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": "20251128-129-H-456-66(1)",
+      "INGR_KOR_NAME": "클로피도그렐황산수소염",
+      "ENTP_NAME": "㈜하이플",
+      "MNFCTR_NAME": "Huizhou Salubris Pharmaceuticals Co., Ltd.",
+      "MNFCTR_PLACE": "No. 42, West Petrochemical Avenue, Daya Bay Economic and Technological Development Zone, Huizhou City, Guangdong Province, P.R. China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-11-24",
+      "BIZRNO": "4338600179",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": "20261124-209-J-2328",
+      "INGR_KOR_NAME": "L-아스파르트산칼륨",
+      "ENTP_NAME": "파마라인(주)",
+      "MNFCTR_NAME": "Jing Jing Pharmaceutical Co., Ltd.",
+      "MNFCTR_PLACE": "No. 88, Jingyi Road, Dacaozhuang Industrial Zone, Ningjin County, Xingtai City, Hebei Province, China ",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-11-24",
+      "BIZRNO": "2148813077",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": "수21-40-ND",
+      "INGR_KOR_NAME": "아팔루타마이드",
+      "ENTP_NAME": "이성인터내쇼날(주)",
+      "MNFCTR_NAME": "Hetero Labs Limited Unit-I",
+      "MNFCTR_PLACE": "Survey No.10, IDA, Gaddapotharam Village, Jinnaram Mandal, SangaReddy District.-502319, Telangana, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-11-24",
+      "BIZRNO": "2148880203",
       "NOTICE_CODE": ""
     }
   ]
