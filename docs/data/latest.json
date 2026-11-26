@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-25T06:08:23.787Z",
-  "totalCount": 9242,
-  "fetchedCount": 9242,
+  "generatedAt": "2026-11-26T05:59:43.039Z",
+  "totalCount": 9241,
+  "fetchedCount": 9241,
   "summary": {
     "uniqueCompanies": 443,
     "uniqueCountries": 49,
@@ -62,7 +62,7 @@
       },
       {
         "name": "이탈리아",
-        "count": 459
+        "count": 458
       },
       {
         "name": "스페인",
@@ -99,10 +99,10 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-11-24",
         "BIZRNO": "2148880203",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "신물질"
       },
       {
-        "DMF_PERMIT_NO": "20261124-209-J-2328",
+        "DMF_PERMIT_NO": "20261124-211-J-2328",
         "INGR_KOR_NAME": "L-아스파르트산칼륨",
         "ENTP_NAME": "파마라인(주)",
         "MNFCTR_NAME": "Jing Jing Pharmaceutical Co., Ltd.",
@@ -110,7 +110,7 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-11-24",
         "BIZRNO": "2148813077",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "20251128-129-H-456-66(1)",
@@ -121,7 +121,7 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-11-24",
         "BIZRNO": "4338600179",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
         "DMF_PERMIT_NO": "수582-18-ND(B)",
@@ -132,7 +132,7 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-11-24",
         "BIZRNO": "8118103478",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "신물질"
       },
       {
         "DMF_PERMIT_NO": "수382-10-ND(1)",
@@ -143,7 +143,7 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-11-24",
         "BIZRNO": "1328101004",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "신물질"
       },
       {
         "DMF_PERMIT_NO": "1731-25-ND",
@@ -154,7 +154,7 @@
         "MANUF_COUNTRY_CODE_NM": "대한민국",
         "DMF_PERMIT_DATE": "2026-11-24",
         "BIZRNO": "1248138330",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "신물질"
       },
       {
         "DMF_PERMIT_NO": "수582-30-ND(1)",
@@ -58394,17 +58394,6 @@
       "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": "20210714-209-J-1070",
-      "INGR_KOR_NAME": "플라복세이트염산염",
-      "ENTP_NAME": "제일약품(주)",
-      "MNFCTR_NAME": "Recordati Industria Chimica e Farmaceutica S.p.A.",
-      "MNFCTR_PLACE": "Via Mediana Cisterna, 4 - 04011 Aprilia(LT), Italy",
-      "MANUF_COUNTRY_CODE_NM": "이탈리아",
-      "DMF_PERMIT_DATE": "2021-07-14",
-      "BIZRNO": "6288800669",
-      "NOTICE_CODE": "별표1"
-    },
-    {
       "DMF_PERMIT_NO": "수258-13-ND",
       "INGR_KOR_NAME": "아질사르탄메독소밀칼륨",
       "ENTP_NAME": "(주)파마피아",
@@ -74964,7 +74953,7 @@
       "INGR_KOR_NAME": "디히드로코데인주석산염",
       "ENTP_NAME": "삼응산업(주)",
       "MNFCTR_NAME": "Toprak Mahsulleri Ofisi Genel Müdürlüğü",
-      "MNFCTR_PLACE": "Kızılhöyük Mevkii Bolvadin, Afyonkarahisar, Türkiye",
+      "MNFCTR_PLACE": "Yenice Mahallesi 4. Çiftlikler Küme Evleri No: 16 Bolvadin Afyonkarahisar, Türkiye",
       "MANUF_COUNTRY_CODE_NM": null,
       "DMF_PERMIT_DATE": "2024-02-20",
       "BIZRNO": "2038149708",
@@ -88593,7 +88582,7 @@
       "INGR_KOR_NAME": "설트랄린염산염",
       "ENTP_NAME": "주식회사제이엘바이오",
       "MNFCTR_NAME": "Verdant Life Sciences Pvt,. LTD.,",
-      "MNFCTR_PLACE": "Plot No.55, Jawaharlal Nehru Pharma City, Parawada Mandal, Visakhapatnam District-531019, Andhra Pradesh, India.",
+      "MNFCTR_PLACE": "Plot No. 55, Jawaharlal Nehru Pharma City, Parawada, Anakapalli - 531 019, Andhra Pradesh, India.",
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2025-08-04",
       "BIZRNO": "7818802099",
@@ -101918,7 +101907,7 @@
       "MANUF_COUNTRY_CODE_NM": "대한민국",
       "DMF_PERMIT_DATE": "2026-11-24",
       "BIZRNO": "1248138330",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "신물질"
     },
     {
       "DMF_PERMIT_NO": "수382-10-ND(1)",
@@ -101929,7 +101918,7 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-11-24",
       "BIZRNO": "1328101004",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "신물질"
     },
     {
       "DMF_PERMIT_NO": "수582-18-ND(B)",
@@ -101940,7 +101929,7 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-11-24",
       "BIZRNO": "8118103478",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "신물질"
     },
     {
       "DMF_PERMIT_NO": "20251128-129-H-456-66(1)",
@@ -101951,10 +101940,10 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-11-24",
       "BIZRNO": "4338600179",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": "20261124-209-J-2328",
+      "DMF_PERMIT_NO": "20261124-211-J-2328",
       "INGR_KOR_NAME": "L-아스파르트산칼륨",
       "ENTP_NAME": "파마라인(주)",
       "MNFCTR_NAME": "Jing Jing Pharmaceutical Co., Ltd.",
@@ -101962,7 +101951,7 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-11-24",
       "BIZRNO": "2148813077",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
       "DMF_PERMIT_NO": "수21-40-ND",
@@ -101973,7 +101962,7 @@
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2026-11-24",
       "BIZRNO": "2148880203",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "신물질"
     }
   ]
 }
