@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-27T05:53:43.996Z",
-  "totalCount": 9259,
-  "fetchedCount": 9259,
+  "generatedAt": "2026-11-28T05:33:45.828Z",
+  "totalCount": 9261,
+  "fetchedCount": 9261,
   "summary": {
     "uniqueCompanies": 444,
     "uniqueCountries": 49,
@@ -50,11 +50,11 @@
     "topCountries": [
       {
         "name": "인도",
-        "count": 3768
+        "count": 3769
       },
       {
         "name": "중국",
-        "count": 2943
+        "count": 2944
       },
       {
         "name": "대한민국",
@@ -91,7 +91,29 @@
     ],
     "recent": [
       {
-        "DMF_PERMIT_NO": null,
+        "DMF_PERMIT_NO": "수812-38-ND(1)",
+        "INGR_KOR_NAME": "피네레논(미분화)",
+        "ENTP_NAME": "(주)메디포엠",
+        "MNFCTR_NAME": "Alivus Life Sciences Limited",
+        "MNFCTR_PLACE": "Plot No. 3109, GIDC Industrial Estate, Ankleshwar - 393 002, Dist. Bharuch, Gujarat State, India",
+        "MANUF_COUNTRY_CODE_NM": "인도",
+        "DMF_PERMIT_DATE": "2026-11-27",
+        "BIZRNO": "2918102812",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "수522-8-ND(2)",
+        "INGR_KOR_NAME": "에제티미브",
+        "ENTP_NAME": "(주)팜피아",
+        "MNFCTR_NAME": "Nantong Chanyoo Pharmatech Co., Ltd.",
+        "MNFCTR_PLACE": "No.2 Tonghai Si Road, Yangkou Chemical Industrial Park, Rudong Coastal Economic Development Zone, Nantong, Jiangsu Province 226407, P.R. China",
+        "MANUF_COUNTRY_CODE_NM": "중국",
+        "DMF_PERMIT_DATE": "2026-11-27",
+        "BIZRNO": "8138100574",
+        "NOTICE_CODE": ""
+      },
+      {
+        "DMF_PERMIT_NO": "수386-4-ND(1)",
         "INGR_KOR_NAME": "에제티미브",
         "ENTP_NAME": "주식회사에이치에스디바이오",
         "MNFCTR_NAME": "Shandong Boyuan Pharmaceutical Co., Ltd.",
@@ -99,10 +121,10 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-11-26",
         "BIZRNO": "6698603775",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "신물질"
       },
       {
-        "DMF_PERMIT_NO": null,
+        "DMF_PERMIT_NO": "20261126-211-J-2329",
         "INGR_KOR_NAME": "라타노프로스트",
         "ENTP_NAME": "(주)삼오제약",
         "MNFCTR_NAME": "INKE OPHTHALMICS, S.L.",
@@ -110,10 +132,10 @@
         "MANUF_COUNTRY_CODE_NM": "스페인",
         "DMF_PERMIT_DATE": "2026-11-26",
         "BIZRNO": "1208128636",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
-        "DMF_PERMIT_NO": null,
+        "DMF_PERMIT_NO": "20261126-157-I-777-07",
         "INGR_KOR_NAME": "에피루비신염산염",
         "ENTP_NAME": "주식회사지맥스파마켐",
         "MNFCTR_NAME": "Gemini PharmChem Mannheim GmbH",
@@ -121,10 +143,10 @@
         "MANUF_COUNTRY_CODE_NM": "독일",
         "DMF_PERMIT_DATE": "2026-11-26",
         "BIZRNO": "3358100453",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
-        "DMF_PERMIT_NO": null,
+        "DMF_PERMIT_NO": "수434-95-ND",
         "INGR_KOR_NAME": "엠파글리플로진",
         "ENTP_NAME": "에이징생명과학(주)",
         "MNFCTR_NAME": "Aarti Pharmalabs limited Unit-IV",
@@ -132,10 +154,10 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-11-26",
         "BIZRNO": "2148890579",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "신물질"
       },
       {
-        "DMF_PERMIT_NO": null,
+        "DMF_PERMIT_NO": "20110630-62-A-247-18(15)",
         "INGR_KOR_NAME": "클래리트로마이신",
         "ENTP_NAME": "(주)케이알팜",
         "MNFCTR_NAME": "Zhejiang Better Pharmaceuticals Co., Ltd",
@@ -143,10 +165,10 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-11-26",
         "BIZRNO": "2158630871",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
-        "DMF_PERMIT_NO": null,
+        "DMF_PERMIT_NO": "수21-42-ND",
         "INGR_KOR_NAME": "테리파라타이드",
         "ENTP_NAME": "이성인터내쇼날(주)",
         "MNFCTR_NAME": "Alembic Pharmaceuticals Limited (API Unit-III)",
@@ -154,10 +176,10 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-11-26",
         "BIZRNO": "2148880203",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "신물질"
       },
       {
-        "DMF_PERMIT_NO": null,
+        "DMF_PERMIT_NO": "20241223-211-J-1734(1)",
         "INGR_KOR_NAME": "포도당일수화물",
         "ENTP_NAME": "아이엠씨디코리아주식회사",
         "MNFCTR_NAME": "Roquette Freres",
@@ -165,10 +187,10 @@
         "MANUF_COUNTRY_CODE_NM": "프랑스",
         "DMF_PERMIT_DATE": "2026-11-26",
         "BIZRNO": "2138634148",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
-        "DMF_PERMIT_NO": "20261126---12389-22",
+        "DMF_PERMIT_NO": "수21-41-ND",
         "INGR_KOR_NAME": "터제파타이드",
         "ENTP_NAME": "이성인터내쇼날(주)",
         "MNFCTR_NAME": "Alembic Pharmaceuticals Limited (API Division-II)",
@@ -176,10 +198,10 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-11-26",
         "BIZRNO": "2148880203",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "신물질"
       },
       {
-        "DMF_PERMIT_NO": null,
+        "DMF_PERMIT_NO": "20050831-40-C-142-04(3)",
         "INGR_KOR_NAME": "세티리진염산염",
         "ENTP_NAME": "엠피크코리아(주)",
         "MNFCTR_NAME": "Glochem Industries Private Limited",
@@ -187,10 +209,10 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-11-26",
         "BIZRNO": "8748801320",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
-        "DMF_PERMIT_NO": null,
+        "DMF_PERMIT_NO": "20261126-209-J-2333",
         "INGR_KOR_NAME": "메토트렉세이트",
         "ENTP_NAME": "(주)마성엘에스",
         "MNFCTR_NAME": "Fermion Oy",
@@ -198,10 +220,10 @@
         "MANUF_COUNTRY_CODE_NM": "핀란드",
         "DMF_PERMIT_DATE": "2026-11-26",
         "BIZRNO": "2148108333",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
-        "DMF_PERMIT_NO": null,
+        "DMF_PERMIT_NO": "수434-59-ND(2)",
         "INGR_KOR_NAME": "아고멜라틴",
         "ENTP_NAME": "(주)파마피아",
         "MNFCTR_NAME": "MSN Pharmachem Private Limited",
@@ -209,10 +231,10 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-11-26",
         "BIZRNO": "2158631491",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "신물질"
       },
       {
-        "DMF_PERMIT_NO": "20261126---12385-9",
+        "DMF_PERMIT_NO": "20261126-209-J-2332",
         "INGR_KOR_NAME": "덱스트로메토르판브롬화수소산염수화물",
         "ENTP_NAME": "(주)국전",
         "MNFCTR_NAME": "Qidong Dongyue Pharmaceutical Co., Ltd",
@@ -220,10 +242,10 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-11-26",
         "BIZRNO": "1168701173",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
-        "DMF_PERMIT_NO": null,
+        "DMF_PERMIT_NO": "20261126-32-C-464-30",
         "INGR_KOR_NAME": "아세트아미노펜",
         "ENTP_NAME": "(주)파마피아",
         "MNFCTR_NAME": "Novacyl (Wuxi) Pharmaceutical Co. Ltd.",
@@ -231,10 +253,10 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-11-26",
         "BIZRNO": "2158631491",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
-        "DMF_PERMIT_NO": null,
+        "DMF_PERMIT_NO": "20261126-30-A-416-29",
         "INGR_KOR_NAME": "아목시실린나트륨,클라불란산칼륨",
         "ENTP_NAME": "(주)펜믹스",
         "MNFCTR_NAME": "Zhuhai United Laboratories Co., Ltd.",
@@ -242,10 +264,10 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-11-26",
         "BIZRNO": "1058638896",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
-        "DMF_PERMIT_NO": null,
+        "DMF_PERMIT_NO": "20220808-20-A-373-21(C)",
         "INGR_KOR_NAME": "세파클러수화물",
         "ENTP_NAME": "(주)필인터내셔널",
         "MNFCTR_NAME": "China Union Chempharma (Suzhou) Co., Ltd.",
@@ -253,10 +275,10 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-11-26",
         "BIZRNO": "2208156257",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
-        "DMF_PERMIT_NO": null,
+        "DMF_PERMIT_NO": "20261126-191-I-775-09",
         "INGR_KOR_NAME": "아지트로마이신",
         "ENTP_NAME": "뉴트레인노주식회사",
         "MNFCTR_NAME": "HEC Pharm Co., Ltd",
@@ -264,10 +286,10 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-11-26",
         "BIZRNO": "3208703765",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
-        "DMF_PERMIT_NO": null,
+        "DMF_PERMIT_NO": "20260330-210-J-2140(B)",
         "INGR_KOR_NAME": "클로르페니라민말레산염",
         "ENTP_NAME": "(주)마성엘에스",
         "MNFCTR_NAME": "Auro Laboratories Limited",
@@ -275,10 +297,10 @@
         "MANUF_COUNTRY_CODE_NM": "인도",
         "DMF_PERMIT_DATE": "2026-11-26",
         "BIZRNO": "2148108333",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       },
       {
-        "DMF_PERMIT_NO": null,
+        "DMF_PERMIT_NO": "20261126-211-J-2327",
         "INGR_KOR_NAME": "아젤라산",
         "ENTP_NAME": "파마라인(주)",
         "MNFCTR_NAME": "Yangling Jitai Pharmaceutical Co., Ltd.",
@@ -286,29 +308,7 @@
         "MANUF_COUNTRY_CODE_NM": "중국",
         "DMF_PERMIT_DATE": "2026-11-26",
         "BIZRNO": "2148813077",
-        "NOTICE_CODE": ""
-      },
-      {
-        "DMF_PERMIT_NO": null,
-        "INGR_KOR_NAME": "플루오시놀론아세토니드",
-        "ENTP_NAME": "광동제약(주)",
-        "MNFCTR_NAME": "Farmabios S.p.A.",
-        "MNFCTR_PLACE": "Via Pavia 1, 27027 Gropello Cairoli (PV), Italy",
-        "MANUF_COUNTRY_CODE_NM": "이탈리아",
-        "DMF_PERMIT_DATE": "2026-11-26",
-        "BIZRNO": "1138108888",
-        "NOTICE_CODE": ""
-      },
-      {
-        "DMF_PERMIT_NO": null,
-        "INGR_KOR_NAME": "유파다시티닙",
-        "ENTP_NAME": "이니스트에스티(주)",
-        "MNFCTR_NAME": "이니스트에스티(주)",
-        "MNFCTR_PLACE": "충청북도 청주시 흥덕구",
-        "MANUF_COUNTRY_CODE_NM": "대한민국",
-        "DMF_PERMIT_DATE": "2026-11-26",
-        "BIZRNO": "3038136653",
-        "NOTICE_CODE": ""
+        "NOTICE_CODE": "별표1"
       }
     ]
   },
@@ -101943,7 +101943,7 @@
       "NOTICE_CODE": "신물질"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "2220-25-ND",
       "INGR_KOR_NAME": "유파다시티닙",
       "ENTP_NAME": "이니스트에스티(주)",
       "MNFCTR_NAME": "이니스트에스티(주)",
@@ -101951,10 +101951,10 @@
       "MANUF_COUNTRY_CODE_NM": "대한민국",
       "DMF_PERMIT_DATE": "2026-11-26",
       "BIZRNO": "3038136653",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "신물질"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "20261126-211-J-2331",
       "INGR_KOR_NAME": "플루오시놀론아세토니드",
       "ENTP_NAME": "광동제약(주)",
       "MNFCTR_NAME": "Farmabios S.p.A.",
@@ -101962,10 +101962,10 @@
       "MANUF_COUNTRY_CODE_NM": "이탈리아",
       "DMF_PERMIT_DATE": "2026-11-26",
       "BIZRNO": "1138108888",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "20261126-211-J-2327",
       "INGR_KOR_NAME": "아젤라산",
       "ENTP_NAME": "파마라인(주)",
       "MNFCTR_NAME": "Yangling Jitai Pharmaceutical Co., Ltd.",
@@ -101973,10 +101973,10 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-11-26",
       "BIZRNO": "2148813077",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "20260330-210-J-2140(B)",
       "INGR_KOR_NAME": "클로르페니라민말레산염",
       "ENTP_NAME": "(주)마성엘에스",
       "MNFCTR_NAME": "Auro Laboratories Limited",
@@ -101984,10 +101984,10 @@
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2026-11-26",
       "BIZRNO": "2148108333",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "20261126-191-I-775-09",
       "INGR_KOR_NAME": "아지트로마이신",
       "ENTP_NAME": "뉴트레인노주식회사",
       "MNFCTR_NAME": "HEC Pharm Co., Ltd",
@@ -101995,10 +101995,10 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-11-26",
       "BIZRNO": "3208703765",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "20220808-20-A-373-21(C)",
       "INGR_KOR_NAME": "세파클러수화물",
       "ENTP_NAME": "(주)필인터내셔널",
       "MNFCTR_NAME": "China Union Chempharma (Suzhou) Co., Ltd.",
@@ -102006,10 +102006,10 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-11-26",
       "BIZRNO": "2208156257",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "20261126-30-A-416-29",
       "INGR_KOR_NAME": "아목시실린나트륨,클라불란산칼륨",
       "ENTP_NAME": "(주)펜믹스",
       "MNFCTR_NAME": "Zhuhai United Laboratories Co., Ltd.",
@@ -102017,10 +102017,10 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-11-26",
       "BIZRNO": "1058638896",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "20261126-32-C-464-30",
       "INGR_KOR_NAME": "아세트아미노펜",
       "ENTP_NAME": "(주)파마피아",
       "MNFCTR_NAME": "Novacyl (Wuxi) Pharmaceutical Co. Ltd.",
@@ -102028,10 +102028,10 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-11-26",
       "BIZRNO": "2158631491",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": "20261126---12385-9",
+      "DMF_PERMIT_NO": "20261126-209-J-2332",
       "INGR_KOR_NAME": "덱스트로메토르판브롬화수소산염수화물",
       "ENTP_NAME": "(주)국전",
       "MNFCTR_NAME": "Qidong Dongyue Pharmaceutical Co., Ltd",
@@ -102039,10 +102039,10 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-11-26",
       "BIZRNO": "1168701173",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "수434-59-ND(2)",
       "INGR_KOR_NAME": "아고멜라틴",
       "ENTP_NAME": "(주)파마피아",
       "MNFCTR_NAME": "MSN Pharmachem Private Limited",
@@ -102050,10 +102050,10 @@
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2026-11-26",
       "BIZRNO": "2158631491",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "신물질"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "20261126-209-J-2333",
       "INGR_KOR_NAME": "메토트렉세이트",
       "ENTP_NAME": "(주)마성엘에스",
       "MNFCTR_NAME": "Fermion Oy",
@@ -102061,10 +102061,10 @@
       "MANUF_COUNTRY_CODE_NM": "핀란드",
       "DMF_PERMIT_DATE": "2026-11-26",
       "BIZRNO": "2148108333",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "20050831-40-C-142-04(3)",
       "INGR_KOR_NAME": "세티리진염산염",
       "ENTP_NAME": "엠피크코리아(주)",
       "MNFCTR_NAME": "Glochem Industries Private Limited",
@@ -102072,10 +102072,10 @@
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2026-11-26",
       "BIZRNO": "8748801320",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": "20261126---12389-22",
+      "DMF_PERMIT_NO": "수21-41-ND",
       "INGR_KOR_NAME": "터제파타이드",
       "ENTP_NAME": "이성인터내쇼날(주)",
       "MNFCTR_NAME": "Alembic Pharmaceuticals Limited (API Division-II)",
@@ -102083,10 +102083,10 @@
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2026-11-26",
       "BIZRNO": "2148880203",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "신물질"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "20241223-211-J-1734(1)",
       "INGR_KOR_NAME": "포도당일수화물",
       "ENTP_NAME": "아이엠씨디코리아주식회사",
       "MNFCTR_NAME": "Roquette Freres",
@@ -102094,10 +102094,10 @@
       "MANUF_COUNTRY_CODE_NM": "프랑스",
       "DMF_PERMIT_DATE": "2026-11-26",
       "BIZRNO": "2138634148",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "수21-42-ND",
       "INGR_KOR_NAME": "테리파라타이드",
       "ENTP_NAME": "이성인터내쇼날(주)",
       "MNFCTR_NAME": "Alembic Pharmaceuticals Limited (API Unit-III)",
@@ -102105,10 +102105,10 @@
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2026-11-26",
       "BIZRNO": "2148880203",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "신물질"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "20110630-62-A-247-18(15)",
       "INGR_KOR_NAME": "클래리트로마이신",
       "ENTP_NAME": "(주)케이알팜",
       "MNFCTR_NAME": "Zhejiang Better Pharmaceuticals Co., Ltd",
@@ -102116,10 +102116,10 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-11-26",
       "BIZRNO": "2158630871",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "수434-95-ND",
       "INGR_KOR_NAME": "엠파글리플로진",
       "ENTP_NAME": "에이징생명과학(주)",
       "MNFCTR_NAME": "Aarti Pharmalabs limited Unit-IV",
@@ -102127,10 +102127,10 @@
       "MANUF_COUNTRY_CODE_NM": "인도",
       "DMF_PERMIT_DATE": "2026-11-26",
       "BIZRNO": "2148890579",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "신물질"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "20261126-157-I-777-07",
       "INGR_KOR_NAME": "에피루비신염산염",
       "ENTP_NAME": "주식회사지맥스파마켐",
       "MNFCTR_NAME": "Gemini PharmChem Mannheim GmbH",
@@ -102138,10 +102138,10 @@
       "MANUF_COUNTRY_CODE_NM": "독일",
       "DMF_PERMIT_DATE": "2026-11-26",
       "BIZRNO": "3358100453",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "20261126-211-J-2329",
       "INGR_KOR_NAME": "라타노프로스트",
       "ENTP_NAME": "(주)삼오제약",
       "MNFCTR_NAME": "INKE OPHTHALMICS, S.L.",
@@ -102149,10 +102149,10 @@
       "MANUF_COUNTRY_CODE_NM": "스페인",
       "DMF_PERMIT_DATE": "2026-11-26",
       "BIZRNO": "1208128636",
-      "NOTICE_CODE": ""
+      "NOTICE_CODE": "별표1"
     },
     {
-      "DMF_PERMIT_NO": null,
+      "DMF_PERMIT_NO": "수386-4-ND(1)",
       "INGR_KOR_NAME": "에제티미브",
       "ENTP_NAME": "주식회사에이치에스디바이오",
       "MNFCTR_NAME": "Shandong Boyuan Pharmaceutical Co., Ltd.",
@@ -102160,6 +102160,28 @@
       "MANUF_COUNTRY_CODE_NM": "중국",
       "DMF_PERMIT_DATE": "2026-11-26",
       "BIZRNO": "6698603775",
+      "NOTICE_CODE": "신물질"
+    },
+    {
+      "DMF_PERMIT_NO": "수522-8-ND(2)",
+      "INGR_KOR_NAME": "에제티미브",
+      "ENTP_NAME": "(주)팜피아",
+      "MNFCTR_NAME": "Nantong Chanyoo Pharmatech Co., Ltd.",
+      "MNFCTR_PLACE": "No.2 Tonghai Si Road, Yangkou Chemical Industrial Park, Rudong Coastal Economic Development Zone, Nantong, Jiangsu Province 226407, P.R. China",
+      "MANUF_COUNTRY_CODE_NM": "중국",
+      "DMF_PERMIT_DATE": "2026-11-27",
+      "BIZRNO": "8138100574",
+      "NOTICE_CODE": ""
+    },
+    {
+      "DMF_PERMIT_NO": "수812-38-ND(1)",
+      "INGR_KOR_NAME": "피네레논(미분화)",
+      "ENTP_NAME": "(주)메디포엠",
+      "MNFCTR_NAME": "Alivus Life Sciences Limited",
+      "MNFCTR_PLACE": "Plot No. 3109, GIDC Industrial Estate, Ankleshwar - 393 002, Dist. Bharuch, Gujarat State, India",
+      "MANUF_COUNTRY_CODE_NM": "인도",
+      "DMF_PERMIT_DATE": "2026-11-27",
+      "BIZRNO": "2918102812",
       "NOTICE_CODE": ""
     }
   ]
